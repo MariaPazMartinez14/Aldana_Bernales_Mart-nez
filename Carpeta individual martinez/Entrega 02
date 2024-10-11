@@ -4,7 +4,7 @@
 
  ## Proceso limpieza base de datos:
 
- 1. Cambiar puntos por comas en las columnas de latitud y longitud para tener los datos como números para generar posibles estadísticas. 
+ 1. Cambiar puntos por comas en las columnas de latitud y longitud para tener los datos como números para generar posibles estadísticas.
 
   2. Eliminación de filas con valores NaN en las columnas tropicalstorm_force_diameter	 y hurricane_force_diameter. En donde se pasan de 19066 datos a 9554.
 
