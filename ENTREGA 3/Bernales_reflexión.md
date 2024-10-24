@@ -1,0 +1,5 @@
+# Reflexión: Margarita Bernales 
+
+### Durante esta tercera etapa del proyecto, aprendí lo importante que es identificar, describir y segmentar a profundidad el perfil de nuestros usuarios. Identificar sus motivaciones, objetivos, desafíos y dolores. Conociéndolo, podemos brindar un mejor producto que logre satisfacer las necesidades de la audiencia. Ahora como proyección, tenemos que lograr crear un wireframe y futuro sitio web que se adapte a estos usuarios. Por último, veo como una limitación lo específico que es nuestro tema, entonces, a pesar de que identificamos un perfil de usuario, no será fácil mantener la atención de los lectores que no pertenezcan a la muestra. 
+
+### Esta entrega me parececió más fácil (aunque exigente), porque pude identificar más items relacionados a los otros aspectos de nuestra carrera. 

@@ -4,6 +4,9 @@
 ### Link video:
 
 ### Documentación del proceso:
+
+##### La tarde del jueves nos juntamos presencialmente para dejar listo el trabajo. Fue una muy buena técnica organizacional ya que sacamos adelante todo el trabajo y nos complementamos en vivo. 
+
 ### 1. Perfiles de usuario
 
 #### Amanda López
@@ -35,4 +38,44 @@
 
 ### 2. Identidad visual 
 
+#### Naming:
+##### Tormenta femenina
+
+#### Identidad gráfica: el logo
+
+
+#### Elecciones de diseño:
+##### Imágenes de huracanes, de daño de huracanes, usar siluetas de huracanes vistos desde arriba, colores que representen “mujer” (como el morado) y también “naturaleza” (como el celeste). Quisimos poner un fondo azul bien oscuro en lugar de negro para que sea más amigable visualmente, que no haya tanto contraste con los colores. 
+
+#### Paleta de colores: 
+##### #C0A2D8 lila
+##### #7B9A9B celeste
+##### #151924 azul oscuro
+
+#### Tipografía: RubikMono y Sniglet. 
+
+#### Recursos gráficos: flechas, mapa interactivo que muestre, al apretar la zona, la cantidad de huracanes con nombre de mujer y hombre y sus respectivos daños según nuestro índice*.
+###### *Estamos definiendo las características del índice
+
 ### 3. Prototipado
+##### Creemos que una página vertical es lo más adecuado para este tema, ya que permite organizar mejor la información. Al ser un tema difícil de comprender, empleamos varios recursos fotográficos para complementar la información. 
+##### La presentación de la información se ordena por introducción, desarrollo y conclusión. 
+##### Los botones con desplay y el mapa interactivo pretender enganchar al público y hacer que se diviertan y se interesen con la página. 
+
+#### Nos importa mucho que cada función quede muy clara para que la experiencia del usuario sea la mejor y aprenda lo máximo posible. 
+
+### User journey map: Amanda López
+##### Primero, al entrar a la página, se encontrará con el título llamativo. Al hacer "scroll", seguirá hacia la parte del contexto, donde no habrá concentración de texto, así el usuario no se cansa y hay menos posibilidades de que deje la página. El texto estará planteado de manera que Amanda, con su curiosidad, amor por el aprendizaje y especial interés en la naturaleza, quiera seguir leyendo. 
+
+##### Los cambios en el tamaño y el grueso de la letra harán que Amanda pueda mantenerse más atenta en la parte que explica cómo desmentimos la tesis popular, que es más densa. 
+
+##### El mapa: esta parte es divertida. En este punto, quizás piensa en compartir la página ya que ludifica el tema, y ella tiene un llamado por el servicio público (que podría interpretarse, en parte, como un llamado por llevar a otros esta información, o estos aprendizajes). 
+
+##### Los complementos son perfectos para que los vea como si fuesen un reel, algo corto, fácil de leer, e interesante. Los podría ver, por ejemplo, en la micro. 
+
+#### El ranking cumple estas dos funciones mencionadas anteriormente: divierte, es anecdótico y es susceptible de ser compartido. Es una manera de consumir la información de manera más simple. 
+
+##### Por último, la parte de la información de contacto gubernamental u organizacional es útil para todo público. 
+
+
+
