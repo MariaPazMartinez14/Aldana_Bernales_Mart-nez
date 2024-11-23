@@ -1,0 +1,2144 @@
+﻿Count ;Year;Start Month;Gender;Name;Country;Region;OFDA/BHA Response;AID Contribution ('000 US$);Magnitude (Kph);Total Deaths;No. Injured;No. Affected;No. Homeless;Total Affected;Reconstruction Costs ('000 US$);Reconstruction Costs, Adjusted ('000 US$);Insured Damage ('000 US$);Insured Damage, Adjusted ('000 US$);Total Damage ('000 US$);Total Damage, Adjusted ('000 US$)
+1;1928;9;;San Felipe / Okeechobee ;Puerto Rico;Americas;No;;;300;;;;;;;;;50000;885897
+2;1928;9;;Felipe;Guadeloupe;Americas;No;;;2000;;;;;;;;;;
+3;1930;9;;San Zenon;Dominican Republic;Americas;No;;;2000;6000;6000;;12000;;;;;40000;729937
+4;1932;9;;San Ciprian;Puerto Rico;Americas;No;;;225;;;;;;;;;30000;672240
+5;1935;10;;Jeremie & Jacmel;Haiti;Americas;No;;;2150;;;;;;;;;;
+6;1945;9;;Makurazaki;Japan;Asia;No;;;3746;;1340691;;1340691;;;;;400000;6772194
+7;1945;10;;Akune;Japan;Asia;No;;;451;;540981;;540981;;;;;;
+8;1947;9;Female;Catherine;Japan;Asia;No;;;1930;;;;;;;;;;
+9;1948;9;;Lone;Japan;Asia;No;;;868;;414153;;414153;;;;;;
+10;1949;6;Female;Della;Japan;Asia;No;;;419;;194046;;194046;;;;;;
+11;1949;10;;Rena;Philippines;Asia;No;;;1000;;;;;;;;;;
+12;1950;9;;Dog;Antigua and Barbuda;Americas;No;;;2;;;;;;;;;1000;12645
+13;1950;9;Female;Jane;Japan;Asia;No;;;509;;642117;;642117;;;;;;
+14;1951;4;Female;Iris;Philippines;Asia;No;;;156;;;;;;;;;;
+15;1951;8;;Charlie;Jamaica;Americas;No;;;154;200;20000;;20200;;;;;56000;656382
+16;1951;10;Female;Ruth;Japan;Asia;No;;;943;;;;;;;;;;
+17;1951;11;Female;Wanda;Philippines;Asia;No;;;87;;;;;;;;;;
+18;1951;12;Female;Amy;Philippines;Asia;No;;;569;;60000;;60000;;;;;;
+19;1952;6;Female;Emma;Philippines;Asia;No;;;19;103;;;103;;;;;;
+20;1952;10;Female;Trixy, Wilma;Philippines;Asia;No;;;995;349;;;349;;;;;50000;572836
+21;1954;8;Female;Carol;United States of America;Americas;No;;;60;;;;;;;;;450000;5098027
+22;1954;10;Female;Hazel;United States of America;Americas;No;;249;95;;;;;;;;;281000;3183435
+23;1954;10;Female;Hazel;Haiti;Americas;No;;249;410;;250000;;250000;;;;;;
+24;1954;12;Female;Alice;Netherlands Antilles;Americas;No;;;;;;;;;;;;;
+25;1954;10;Female;Hazel;Canada;Americas;No;;249;83;;;;;;;;;100000;1132895
+26;1955;1;Female;Alice;Saint Kitts and Nevis;Americas;No;;;;;;;;;;;;;
+27;1955;8;Female;Diane;United States of America;Americas;No;;152;184;;;;;;;;;832000;9468227
+28;1955;9;Female;Hilda;Mexico;Americas;No;;;300;;;;;;;;;;
+29;1955;9;Female;Janet;Barbados;Americas;No;;;57;;;;;;;;;;
+30;1955;9;Female;Janet;Saint Vincent and the Grenadines;Americas;No;;;122;;;;;;;;;;
+31;1955;9;Female;Janet;Belize;Americas;No;;;16;;;;;;;;;5000;56900
+32;1955;9;Female;Janet;Mexico;Americas;No;;;500;;;;;;;;;40000;455203
+33;1955;1;Female;Alice;Anguilla;Americas;No;;;;;;;;;;;;;
+34;1956;8;Female;Betsy;Guadeloupe;Americas;No;;;;;;;;;;;;;
+35;1957;6;Female;Audrey;United States of America;Americas;No;;249;390;;;;;;;;;150000;1627005
+36;1957;9;Female;Gloria;China, Hong Kong Special Administrative Region;Asia;No;;;8;111;;;111;;;;;;
+37;1958;9;Female;Ida;Japan;Asia;No;;;1175;;;;;;;;;;
+38;1959;1;Female;Beatrice;New Caledonia;Oceania;No;;;1;;;;;;;;;700;7317
+39;1959;8;Female;"Typhoon ""Ellen""";Taiwan (Province of China);Asia;No;;;1046;;;;;;;;;50000;522644
+40;1959;8;Female;Ellen;China;Asia;No;;;1064;;;;;;;;;;
+41;1959;8;Female;Iris;China;Asia;No;;;720;;;;;;;;;;
+42;1959;9;Female;Sarah;Republic of Korea;Asia;No;;;432;;;;;;;;;;
+43;1959;9;Female;Vera;Japan;Asia;No;;;5098;;1500000;;1500000;;;;;600000;6271731
+44;1959;10;;Beulah, Manzanillo;Mexico;Americas;No;;;960;;;;;;;;;20000;209058
+45;1959;12;Female;Amanda;Vanuatu;Oceania;No;;;;;;;;;;;;;
+46;1960;1;Female;Corine;Niue;Oceania;No;;;;;4000;;4000;;;;;41;422
+47;1960;4;Female;Karen;Philippines;Asia;No;;;56;;;;;;;;;2000;20605
+48;1960;5;Female;Lucille;Philippines;Asia;No;;;234;;;;;;;;;;
+49;1960;6;Female;Olive;Philippines;Asia;No;;;100;;50000;;50000;;;;;;
+50;1960;7;Female;Abby;Saint Lucia;Americas;No;;;;;;;;;;;;;
+51;1960;7;Female;Abby;Martinique;Americas;No;;;;;;;;;;;;;
+52;1960;9;Female;Donna;Antigua and Barbuda;Americas;No;;;2;;;;;;;;;;
+53;1960;9;Female;Donna;Netherlands Antilles;Americas;No;;;;;;;;;;;;;
+54;1960;9;Female;Donna;Anguilla;Americas;No;;;5;250;;1000;1250;;;;;35000;360594
+55;1960;9;Female;Donna;United States of America;Americas;No;;;50;;;;;;;;;387000;3987136
+56;1960;10;Female;Kit;Philippines;Asia;No;;;150;;375000;;375000;;;;;;
+57;1960;10;Female;Lola;Philippines;Asia;No;;;58;;;;;;;;;30000;309080
+58;1960;6;Female;Mary;China, Hong Kong Special Administrative Region;Asia;No;;;45;127;15000;;15127;;;;;;
+59;1961;9;Female;Carla;United States of America;Americas;No;;249;46;;;;;;;;;408000;4158963
+60;1961;10;Female;Hattie;Belize;Americas;No;;;275;;;;;;;;;60000;611612
+61;1961;11;Female;Tara;Mexico;Americas;No;;;436;;;;;;;;;;
+62;1961;9;Female;Olga;China, Hong Kong Special Administrative Region;Asia;No;;;7;;;1171;1171;;;;;;
+63;1962;10;Female;Harriet;Thailand;Asia;No;;;769;;;;;;;;;19000;191383
+64;1962;11;Female;Karen;Guam;Oceania;No;;;6;;;;;;;;;250000;2518195
+65;1962;8;Female;Wanda;China, Hong Kong Special Administrative Region;Asia;No;;;183;;72000;;72000;;;;;;
+66;1963;8;Female;Carmen;Philippines;Asia;No;;;1;;;2000;2000;;;;;;
+67;1963;9;Female;Edith;Dominica;Americas;No;;;;;;;;;;;;2600;25869
+68;1963;9;Female;Edith;Martinique;Americas;No;;;10;;;;;;;;;40000;397978
+69;1963;9;Female;Edith;Saint Lucia;Americas;No;;;10;;;;;;;;;3465;34475
+70;1963;9;Female;Flora;Grenada;Americas;No;;;6;;;;;;;;;;
+71;1963;9;Female;Flora;Trinidad and Tobago;Americas;No;;;24;;;;;;;;;30000;298483
+72;1963;10;Female;Flora;Dominican Republic;Americas;No;;;400;;;;;;;;;60000;596967
+73;1963;10;Female;Flora;Haiti;Americas;No;;;5000;;;;;;;;;180000;1790900
+74;1963;10;Female;Flora;Jamaica;Americas;No;;;11;;;;;;;;;11525;114667
+75;1963;10;Female;Flora;Cuba;Americas;No;;;1750;;;;;;;;;500000;4974723
+76;1963;10;Female;Flora;Bahamas;Americas;No;;;;;;;;;;;;1500;14924
+77;1964;6;Female;Winnie (Dading);Philippines;Asia;Yes;;;56;163;924125;;924288;;;;;8000;78590
+78;1964;8;Female;Cleo;Guadeloupe;Americas;Yes;;;14;100;10000;;10100;;;;;;
+79;1964;8;Female;Cleo;Haiti;Americas;Yes;;;100;;80000;;80000;;;;;10000;98238
+80;1964;8;Female;Cleo;Dominican Republic;Americas;Yes;;;7;;;;;;;;;1000;9824
+81;1964;9;Female;Dora;United States of America;Americas;No;;;5;;;;;;;;;250000;2455952
+82;1964;9;Female;Iris ;Viet Nam;Asia;Yes;;;7000;;700000;;700000;;;;;50000;491190
+83;1964;11;Female;Louise;Philippines;Asia;Yes;;;580;1258;300000;;301258;;;;;35000;343833
+84;1964;9;Female;Ruby;China, Hong Kong Special Administrative Region;Asia;No;;;44;300;;;300;;;;;;
+85;1964;10;Female;Dot;China, Hong Kong Special Administrative Region;Asia;No;;;26;85;;;85;;;;;;
+86;1964;9;Female;Ruby;China;Asia;No;;;686;;;;;;;;;;
+87;1965;6;Female;Dinah;Japan;Asia;No;;;61;;30000;;30000;;;;;;
+88;1965;6;Female;Dinah;Taiwan (Province of China);Asia;No;;;31;89;;;89;;;;;;
+89;1965;8;Female;Jean;Japan;Asia;No;;;26;40;;;40;;;;;;
+90;1965;8;Female;Mary;Taiwan (Province of China);Asia;No;;;24;77;;;77;;;;;;
+91;1965;9;Female;Betsy;United States of America;Americas;No;;;299;;;;;;;;;1420000;13732129
+92;1965;9;Female;Betsy;Bahamas;Americas;Yes;;;;;1200;;1200;;;;;700;6769
+93;1965;9;Female;Shirley;Japan;Asia;No;;;60;730;;;730;;;;;;
+94;1965;9;Female;Agnes;China, Hong Kong Special Administrative Region;Asia;No;;;5;3;;200;203;;;;;;
+95;1966;5;Female;Judy;Taiwan (Province of China);Asia;No;;;36;21;5000;;5021;;;;;17322;162610
+96;1966;6;Female;Kit;Japan;Asia;No;;;44;80;;;80;;;;;;
+97;1966;9;Female;Alice & Cora;Japan;Asia;Yes;;;314;41;13764;;13805;;;;;7900;74161
+98;1966;9;Female;Inez;Antigua and Barbuda;Americas;No;;;;;;;;;;;;;
+99;1966;9;Female;Inez;Guadeloupe;Americas;Yes;;;25;;10000;;10000;;;;;70000;657123
+100;1966;9;Female;Inez;Dominican Republic;Americas;Yes;;;74;442;7000;5500;12942;;;;;5000;46937
+101;1966;9;Female;Inez;Haiti;Americas;Yes;;;480;881;67000;;67881;;;;;20000;187749
+102;1966;9;Female;Inez;Cuba;Americas;No;;;5;30;156000;18000;174030;;;;;18000;168974
+103;1966;10;Female;Inez;Bahamas;Americas;No;;;5;3;;;3;;;;;15500;145506
+104;1966;10;Female;Inez;Mexico;Americas;Yes;;;14;69;80000;10000;90069;;;;;24000;225299
+105;1966;11;Female;Angela;Solomon Islands;Oceania;No;;;3;;1000;;1000;;;;;;
+106;1966;12;Female;Aning;Philippines;Asia;Yes;;;18;;196000;90000;286000;;;;;1000;9387
+107;1966;9;Female;Inez;Bahamas;Americas;No;;;;;;;;;;;;;
+108;1967;7;Female;Billie;Japan;Asia;No;;;263;395;2610;;3005;;;;;;
+109;1967;8;Female;Katrina, Beulah, Fern;Mexico;Americas;Yes;;;77;;271000;;271000;;;;;184000;1680692
+110;1967;9;Female;Beulah;Martinique;Americas;No;;;15;;1000;;1000;;;;;;
+111;1967;9;Female;Beulah;Saint Lucia;Americas;No;;;;;;;;;;;;3000;27403
+112;1967;9;Female;Beulah;Saint Vincent and the Grenadines;Americas;No;;;2;;;;;;;;;4500;41104
+113;1967;9;Female;Hurricane Beulah;United States of America;Americas;No;;;15;;;;;;;;;200000;1826840
+114;1967;10;Female;Carla;Taiwan (Province of China);Asia;No;;;69;67;100;;167;;;;;;
+115;1967;10;Female;Diana;Japan;Asia;No;;;27;34;45;;79;;;;;;
+116;1967;11;Female;Emma (Welming);Philippines;Asia;Yes;;;107;;137000;;137000;;;;;26500;242056
+117;1967;11;Female;Annie;Solomon Islands;Oceania;No;;;12;;;;;;;;;;
+118;1967;12;Female;Carmen, Monica;Mauritius;Africa;Yes;;;;24;20000;3500;23524;;;;;5000;45671
+119;1967;8;Female;Kate;China, Hong Kong Special Administrative Region;Asia;No;;;;3;1500;;1503;;;;;;
+120;1968;1;Female;Georgette;Madagascar;Africa;Yes;;;29;;65000;10000;75000;;;;;3100;27156
+121;1968;1;Female;Brenda;New Caledonia;Oceania;No;;;;;;;;;;;;;
+122;1968;8;Female;Shirley;Philippines;Asia;No;;;;;;;;;;;;;
+123;1968;8;Female;Shirley;China, Hong Kong Special Administrative Region;Asia;No;;;;4;3000;;3004;;;;;;
+124;1968;10;Female;Gladys;Cuba;Americas;No;;;;;;;;;;;;;
+125;1968;11;Female;Mamie, Nina, Ora;Philippines;Asia;Yes;;;50;;187330;39313;226643;;;;;9600;84096
+126;1968;12;Female;Becky;Solomon Islands;Oceania;No;;;1;;;200;200;;;;;;
+127;1968;4;Female;Giselle;New Zealand;Oceania;No;;;50;;1000;;1000;;;;;;
+128;1969;2;Female;Colleen;New Caledonia;Oceania;No;;;;;;;;;;;;3000;24919
+129;1969;2;Female;Dany;Madagascar;Africa;Yes;;;81;40;40000;3000;43040;;;;;5000;41531
+130;1969;7;Female;Viola;Philippines;Asia;No;;;11;;;;;;;;;;
+131;1969;8;Female;Camille;United States of America;Americas;No;;249;323;;;;;;;;;1420000;11794904
+132;1969;9;Female;Francelia;Honduras;Americas;No;;;;2;8000;;8002;;;;;19000;157819
+133;1969;9;Female;Francelia;El Salvador;Americas;Yes;;;2;40;4600;;4640;;;;;1600;13290
+134;1969;9;Female;Francelia;Guatemala;Americas;Yes;;;269;;10200;;10200;;;;;15000;124594
+135;1969;9;Female;Elsie & Flossie;Taiwan (Province of China);Asia;Yes;;;194;408;40000;;40408;;;;;88000;730952
+136;1969;7;Female;Viola;China, Hong Kong Special Administrative Region;Asia;No;;;;;374;;374;;;;;;
+137;1970;2;Female;Jane;Madagascar;Africa;Yes;;;70;;10000;;10000;;;;;11400;89468
+138;1970;8;Female;Celia;United States of America;Americas;No;;;11;;;;;;;;;450000;3531636
+139;1970;8;Female;Dorothy;Martinique;Americas;Yes;;;45;;5000;;5000;;;;;31000;243291
+140;1970;8;Female;Fran & Georgia;Philippines;Asia;Yes;;;137;;78000;67200;145200;;;;;2353;18467
+141;1970;10;Female;Joan, Kate;Philippines;Asia;Yes;;;1551;985;1214000;;1214985;;;;;85500;671011
+142;1970;11;Female;Patsy;Philippines;Asia;Yes;;;786;2075;430000;;432075;;;;;97656;766412
+143;1970;9;Female;Oyang;Philippines;Asia;No;;;42;;;;;;;;;;
+144;1970;9;Female;Katy (Pitang);Philippines;Asia;No;;;;;1326;;1326;;;;;598;4693
+145;1970;9;Female;Sening;Philippines;Asia;No;;;575;1593;;;1593;;;;;12110;95040
+146;1970;9;Female;Titang;Philippines;Asia;No;;;631;76;;;76;;;;;47397;371975
+147;1970;11;Female;Yoling;Philippines;Asia;No;;;80;248;17044;;17292;;;;;12785;100338
+148;1970;9;Female;Fran;China;Asia;No;;;107;55;6065;7880;14000;;;;;;
+149;1970;1;Female;Ada;Australia;Oceania;No;;;13;;;;;;;;;72475;568790
+150;1971;4;Female;Wanda;Philippines;Asia;No;;;95;;;;;;;;;700;5268
+151;1971;5;Female;Wanda;Viet Nam;Asia;No;;;23;;50000;;50000;;;;;;
+152;1971;5;Female;Dinah (Herming);Philippines;Asia;No;;;57;3;;32500;32503;;;;;590;4440
+153;1971;8;Female;Rose;China, Hong Kong Special Administrative Region;Asia;No;;;115;286;200;1000;1486;;;;;;
+154;1971;9;Female;Edith;Nicaragua;Americas;Yes;;;35;50;2800;1800;4650;;;;;380;2860
+155;1971;10;Female;Elaine;Philippines;Asia;No;;;37;;;12000;12000;;;;;;
+156;1971;10;Female;Gloria;Philippines;Asia;No;;;57;8;;2000;2008;;;;;;
+157;1971;12;Female;Althea;Australia;Oceania;No;;;3;;;;;;;;;119219;897128
+158;1972;1;Female;Kit (Asiang);Philippines;Asia;No;;;204;28;;;28;;;;;23000;167592
+159;1972;1;Female;Carlotta;Vanuatu;Oceania;No;;;;;;;;;;;;;
+160;1972;2;Female;Wendy;Vanuatu;Oceania;No;;;4;;;;;;;;;;
+161;1972;2;Female;Eugenie;Madagascar;Africa;Yes;;;91;56;2500000;10000;2510056;;;;;12420;90500
+162;1972;2;Female;Fabienne;Mauritius;Africa;Yes;;;2;16;25000;;25016;;;;;;
+163;1972;4;Female;Gail;Vanuatu;Oceania;No;;;;;;;;;;;;;
+164;1972;5;Female;Hannah;Papua New Guinea;Oceania;No;;;;;;;;;;;;;
+165;1972;6;Female;Agnes;United States of America;Americas;No;;153;122;;;;;;;;;2100000;15301877
+166;1972;6;Female;Ora;Philippines;Asia;No;;;131;;385000;;385000;;;;;15000;109299
+167;1972;9;Female;Helen;Japan;Asia;No;;;50;;;;;;;;;;
+168;1972;10;Female;Bebe;Kiribati;Oceania;Yes;;;3;;700;;700;;;;;;
+169;1972;10;Female;Bebe;Tuvalu;Oceania;No;;;6;;700;;700;;;;;;
+170;1972;10;Female;Bebe;Fiji;Oceania;Yes;;;3;;120000;;120000;;;;;22500;163949
+171;1972;12;Female;Therese (Undang);Philippines;Asia;Yes;;;100;650;80000;27000;107650;;;;;10000;72866
+172;1973;4;Female;Juliette;Fiji;Oceania;Yes;;;;;1150;;1150;;;;;;
+173;1973;10;Female;Nora (Luming);Philippines;Asia;No;;;26;;;;;;;;;2000;13725
+174;1973;10;Female;Ruth;Philippines;Asia;No;;;50;;;45000;45000;;;;;5000;34313
+175;1973;10;Female;Gilda;Jamaica;Americas;Yes;;;6;10;2500;;2510;;;;;1700;11667
+176;1973;11;Female;Vera;Philippines;Asia;Yes;;;270;24;3400000;;3400024;;;;;;
+177;1973;12;Female;Lottie;Fiji;Oceania;Yes;;;59;;5000;;5000;;;;;;
+178;1973;4;Female;Juliette;Tonga;Oceania;No;;;3;;700;200;900;;;;;500;3431
+179;1973;7;Female;Dot;China, Hong Kong Special Administrative Region;Asia;No;;;1;38;238;;276;;;;;;
+180;1974;6;Female;Dinah (Bising);Philippines;Asia;No;;;106;;1367;;1367;;;;;1000;6180
+181;1974;7;Female;Ivy (Iliang);Philippines;Asia;No;;;21;16;2400;140;2556;;;;;2000;12359
+182;1974;8;Female;Alma;Trinidad and Tobago;Americas;Yes;;;2;;50000;;50000;;;;;5000;30898
+183;1974;9;Female;Carmen & Fifi;Belize;Americas;Yes;;;;;70000;;70000;;;;;4000;24718
+184;1974;9;Female;Fifi;Honduras;Americas;Yes;;;8000;;600000;;600000;;;;;540000;3336940
+185;1974;10;Female;Bess (Susang);Philippines;Asia;No;;;26;40;7142;;7182;;;;;9200;56852
+186;1974;10;Female;Carmen (Tering);Philippines;Asia;No;;;13;9;7776;;7785;;;;;11600;71682
+187;1974;10;Female;Elaine (Wening);Philippines;Asia;No;;;23;50;55575;;55625;;;;;21000;129770
+188;1974;11;Female;Gloria (Aning);Philippines;Asia;No;;;3;2;22835;1301;24138;;;;;3200;19774
+189;1974;11;Female;Irma (Bidang);Philippines;Asia;No;;;11;;;5000;5000;;;;;7300;45110
+190;1974;12;Female;Tracy;Australia;Oceania;Yes;;;65;640;45000;;45640;;;;;800000;4943614
+191;1974;1;Female;Wanda;Australia;Oceania;No;;;11;;;;;;;;;296717;1833568
+192;1974;10;Female;Carmen;China, Hong Kong Special Administrative Region;Asia;No;;;1;;1000;;1000;;;;;;
+193;1974;10;Female;Elaine;China, Hong Kong Special Administrative Region;Asia;No;;;;;1400;;1400;;;;;;
+194;1975;1;Female;Deborah & Ines;Madagascar;Africa;Yes;;;7;50;10000;;10050;;;;;;
+195;1975;1;Female;Val;Fiji;Oceania;Yes;;;;;23000;;23000;;;;;1000;5662
+196;1975;1;;;Mozambique;Africa;Yes;;;1;;75000;;75000;;;;;;
+197;1975;2;;Gervaise;Mauritius;Africa;Yes;;;9;59;826199;;826258;;;;;200000;1132369
+198;1975;3;Female;Alison;Vanuatu;Oceania;No;;;;;;;;;;;;;
+199;1975;3;Female;Alison;New Caledonia;Oceania;No;;;;;;;;;;;;;
+200;1975;8;;Phyllis;Japan;Asia;No;;;68;52;123;;175;;;;;505000;2859232
+201;1975;9;Female;Eloise;United States of America;Americas;No;;;21;;;;;;;;;550000;3114015
+202;1975;10;Female;Olivia;Mexico;Americas;No;;;29;;;;;;;;;;
+203;1975;1;Female;Lola (Auring);Philippines;Asia;No;;;39;8;4518;698;5224;;;;;2161;12235
+204;1975;10;Female;Elsie;China, Hong Kong Special Administrative Region;Asia;No;;;;46;671;1280;1997;;;;;;
+205;1976;1;;Capella;Germany Federal Republic;Europe;No;;;82;;;;;;;;;1300000;6960532
+206;1976;1;;David;New Caledonia;Oceania;No;;;;;;;;;;;;;
+207;1976;5;Female;Pamela;Guam;Oceania;No;;;9;;;;;;;;;120000;642511
+208;1976;5;Female;Olga (Didang);Philippines;Asia;Yes;;;274;;2700000;;2700000;;;;;85000;455112
+209;1976;9;Female;Fran;Japan;Asia;No;;150;169;107;325000;;325107;;;;;800000;4283404
+210;1976;10;Female;Liza;Mexico;Americas;Yes;;;600;1400;175000;100000;276400;;;;;100000;535426
+211;1976;6;Female;Ruby (Huaning);Philippines;Asia;No;;;3;;2702;110;2812;;;;;84100;450293
+212;1976;12;Female;Nora (Aring);Philippines;Asia;No;;;110;17;1741;;1758;;;;;9326;49934
+213;1976;6;Female;Ruby;China, Hong Kong Special Administrative Region;Asia;No;;;5;2;;;2;;;;;;
+214;1976;7;Female;Violet;China, Hong Kong Special Administrative Region;Asia;No;;;3;1;;;1;;;;;;
+215;1976;8;Female;Ellen;China, Hong Kong Special Administrative Region;Asia;No;;;30;65;;2424;2489;;;;;;
+216;1976;1;Female;Capella;Denmark;Europe;No;;;;;;;;;;;;;
+217;1976;1;Female;Capella;Netherlands (Kingdom of the);Europe;No;;;;;;;;;;;;;
+218;1976;1;Female;Capella;Sweden;Europe;No;;;;;;;;;;;;;
+219;1977;1;Female;June;Vanuatu;Oceania;No;;;;;;;;;;;;;
+220;1977;2;Female;Emilie;Madagascar;Africa;No;;;10;;30000;;30000;;;;;350000;1759587
+221;1977;7;Female;Sarah;Viet Nam;Asia;No;;;;;1000;;1000;;;;;;
+222;1977;7;Female;Thelma & Vera;Taiwan (Province of China);Asia;Yes;;;61;528;11000;;11528;;;;;250000;1256848
+223;1977;7;Female;Vera;Japan;Asia;No;;;16;;5000;;5000;;;;;;
+224;1977;9;Female;Anita;Mexico;Americas;No;;;10;;50000;;50000;;;;;;
+225;1977;9;Female;Babe;Japan;Asia;No;;;16;45;;8000;8045;;;;;;
+226;1977;9;Female;Dinah (Openg);Philippines;Asia;No;;;60;;5000;;5000;;;;;800;4022
+227;1977;11;Female;Kim (Unding);Philippines;Asia;No;;;40;115;133141;15679;148935;;;;;3600;18099
+228;1977;12;;Ernie;Tonga;Oceania;Yes;;;;5;10000;;10005;;;;;1100;5530
+229;1977;7;;(Elang);Philippines;Asia;No;;;4;3;860;;863;;;;;;
+230;1977;8;;(Ibiang);Philippines;Asia;No;;;;;921;;921;;;;;25;126
+231;1977;9;Female;Freda;China, Hong Kong Special Administrative Region;Asia;No;;;1;37;;71;108;;;;;;
+232;1978;2;;Bob;Fiji;Oceania;No;;;;;;;;;;;;;
+233;1978;4;Female;Alby;Australia;Oceania;No;;;5;;100;;100;;;;;1000000;4670951
+234;1978;4;Female;Caroline;Philippines;Asia;No;;;;;2500;;2500;;;;;;
+235;1978;8;Female;Carmen;Republic of Korea;Asia;No;;;;;4000;;4000;;;;;19000;88748
+236;1978;9;Female;Irma;Japan;Asia;No;;;6;100;;3000;3100;;;;;;
+237;1978;9;Female;Greta;Honduras;Americas;Yes;;193;;;;7500;7500;;;;;1000;4671
+238;1978;9;Female;Greta;Belize;Americas;Yes;;193;5;;6000;;6000;;;;;6000;28026
+239;1978;10;Female;Nina;Philippines;Asia;No;;;59;;50000;;50000;;;;;;
+240;1978;10;Female;Rita (Kading);Philippines;Asia;No;;185;340;749;1500000;;1500749;;;;;115000;537159
+241;1978;12;Female;Angele;Mozambique;Africa;No;;;4;;80000;25000;105000;;;;;;
+242;1978;12;Female;Angele;Madagascar;Africa;No;;;70;;18000;;18000;;;;;29000;135458
+243;1978;4;Female;(Atang);Philippines;Asia;No;;;66;47;64638;17157;81842;;;;;33254;155328
+244;1978;8;Female;(Heling);Philippines;Asia;No;;;49;12;42402;;42414;;;;;3515;16418
+245;1978;8;Female;Elaine (Miding);Philippines;Asia;No;;;47;4;150331;608;150943;;;;;11809;55159
+246;1978;9;Female;(Weling);Philippines;Asia;No;;;32;20;18735;5146;23901;;;;;13989;65342
+247;1978;10;Female;(Yaning);Philippines;Asia;No;;;24;2;6182;;6184;;;;;11893;55552
+248;1978;12;Female;(Garding);Philippines;Asia;No;;;;;381;;381;;;;;624;2915
+249;1978;7;Female;Agnes;China, Hong Kong Special Administrative Region;Asia;No;;;3;134;1142;;1276;;;;;;
+250;1978;8;Female; Elaine;China, Hong Kong Special Administrative Region;Asia;No;;;1;51;1143;;1194;;;;;;
+251;1978;9;Female;Kit;China, Hong Kong Special Administrative Region;Asia;No;;;7;;8;418;426;;;;;;
+252;1979;1;;Gordon;Vanuatu;Oceania;No;;;;;;;;;;;;;
+253;1979;2;Female;Celine;Mauritius;Africa;Yes;;;;;;;;;;;;;
+254;1979;2;;Kerry;Solomon Islands;Oceania;No;;;2;;6000;;6000;;;;;;
+255;1979;3;Female;Meli;Fiji;Oceania;Yes;;;53;300;20600;15000;35900;;;;;;
+256;1979;4;Female;Cecil;Philippines;Asia;No;;;18;49;480000;44500;524549;;;;;10000;41984
+257;1979;8;;David & Federick;Dominica;Americas;Yes;;;40;2100;70000;;72100;;;;;44650;187460
+258;1979;8;;David & Frederick;Dominican Republic;Americas;Yes;;;1400;4000;1200000;350000;1554000;;;;;150000;629766
+259;1979;8;;David;Martinique;Americas;Yes;;;;3;20000;;20003;;;;;50000;209922
+260;1979;7;Female;Hope;China, Hong Kong Special Administrative Region;Asia;No;;;12;260;11034;796;12090;;;;;10000;41984
+261;1979;8;;Irving;Philippines;Asia;No;;;6;1;;10000;10001;;;;;;
+262;1979;8;Female;Judy;Republic of Korea;Asia;No;;;115;;35000;;35000;;;;;40000;167938
+263;1979;8;;David;Haiti;Americas;Yes;;;8;;1110;;1110;;;;;;
+264;1979;9;;Frederic;United States of America;Americas;No;;;31;;;;;;;;;2300000;9656409
+265;1979;10;;Tip;Japan;Asia;No;;;71;;;;;;;;;;
+266;1979;12;Female;Claudette;Mauritius;Africa;Yes;;225;5;257;100000;5000;105257;;;;;175000;734727
+267;1979;8;;David;Guadeloupe;Americas;No;;;;;;;;;;;;100000;419844
+268;1979;8;;(Mameng);Philippines;Asia;No;;;24;5;34098;7035;41138;;;;;6100;25610
+269;1979;9;;(Pepang);Philippines;Asia;No;;;8;;3722;;3722;;;;;9733;40863
+270;1979;11;;(Yayang);Philippines;Asia;No;;;6;1;6110;;6111;;;;;617;2590
+271;1979;9;;Frederic;Anguilla;Americas;No;;;;;;;;;;;;;
+272;1979;9;;Mac;China, Hong Kong Special Administrative Region;Asia;No;;;1;67;133;300;500;;;;;;
+273;1979;3;Female;Hazel;Australia;Oceania;No;;;15;;;;;;;;;31286;131352
+274;1980;1;Female;Hyacinthe;Réunion;Africa;No;;;25;;7000;;7000;;;;;67000;247730
+275;1980;3;;Wally;Fiji;Oceania;Yes;;;18;250;28000;7000;35250;;;;;2256;8341
+276;1980;7;;Joe;Philippines;Asia;No;;;31;;300000;300000;600000;;;;;15400;56941
+277;1980;7;;Joe (n°4);Viet Nam;Asia;No;;;132;210;6460000;164500;6624710;;;;;;
+278;1980;7;;Joe;China;Asia;No;;;188;;;100;100;;;;;;
+279;1980;7;Female;Kim;Philippines;Asia;No;;;40;;190000;;190000;;;;;;
+280;1980;7;;Allen;Saint Lucia;Americas;Yes;;270;9;;70000;10000;80000;;;;;87990;325340
+281;1980;8;;Allen;Haiti;Americas;Yes;;270;220;;330000;835000;1165000;;;;;400000;1478985
+282;1980;7;;Allen;Jamaica;Americas;Yes;;270;6;9;30000;;30009;;;;;64000;236638
+283;1980;8;;Allen;United States of America;Americas;No;;270;;;;;;;;;;860000;3179817
+284;1980;9;Female;Orchid;Japan;Asia;No;;;7;33;15000;2000;17033;;;;;;
+285;1980;9;Female;Ruth (N°6);Viet Nam;Asia;No;;144;176;174;8527000;500000;9027174;;;;;;
+286;1980;9;Female;Orchid;Republic of Korea;Asia;No;;;15;17;;;17;;;;;7220;26696
+287;1980;11;Female;Betty (Aring);Philippines;Asia;No;;;101;;775000;229000;1004000;;;;;102300;378250
+288;1980;3;;(Biring);Philippines;Asia;No;;;4;;565;100;665;;;;;402;1486
+289;1980;5;;(Ditang);Philippines;Asia;No;;;;;2535;528;3063;;;;;289;1069
+290;1980;7;;(Nitang/Osang);Philippines;Asia;No;;;36;55;58731;10451;69237;;;;;;
+291;1980;7;;Joe;China, Hong Kong Special Administrative Region;Asia;No;;;2;59;9;;68;;;;;;
+292;1980;8;;Allen;Cuba;Americas;No;;270;3;;;;;;;;;;
+293;1980;8;;Allen;Dominica;Americas;No;;270;;;;;;;;;;;
+294;1980;8;;Allen;Dominican Republic;Americas;No;;270;7;;;;;;;;;47000;173781
+295;1980;8;;Allen;Grenada;Americas;No;;270;;;;;;;;;;5300;19597
+296;1980;7;;Allen;Barbados;Americas;No;;270;;7;;5000;5007;;;;;1500;5546
+297;1980;8;;Allen;Martinique;Americas;No;;270;;;;;;;;;;68000;251427
+298;1981;1;;Arthur;Fiji;Oceania;Yes;;;;;4700;;4700;;;;;;
+299;1981;2;;Cliff;Vanuatu;Oceania;No;;;;;;;;;;;;;
+300;1981;2;;Cliff;New Caledonia;Oceania;No;;;1;;2000;;2000;;;;;;
+301;1981;2;;Daman;Cook Islands;Oceania;No;;;;;;;;;;;;;
+302;1981;3;Female;Freda;New Caledonia;Oceania;No;;;;;;;;;;;;;
+303;1981;7;Female;Kelly;Thailand;Asia;No;;;;;43000;;43000;;;;;;
+304;1981;8;;Phyllis;Japan;Asia;No;;;7;;40000;22500;62500;;;;;;
+305;1981;8;;Thad;Japan;Asia;No;;;40;100;20000;;20100;;;;;;
+306;1981;8;Female;Agnes;Republic of Korea;Asia;Yes;;;113;;14253;;14253;;;;;134000;449052
+307;1981;9;Female;Clara;Philippines;Asia;No;;;55;;18565;3340;21905;;;;;6700;22453
+308;1981;10;Female;St. Lidia;Mexico;Americas;No;;;100;;;;;;;;;40000;134045
+309;1981;11;Female;Irma (Anding);Philippines;Asia;No;;200;261;95;840078;;840173;;;;;35000;117290
+310;1981;12;;Gyan;Vanuatu;Oceania;No;;;;;;;;;;;;1000;3351
+311;1981;12;;Gyan;New Caledonia;Oceania;No;;;3;;;;;;;;;200;670
+312;1981;12;;Lee (Dinang);Philippines;Asia;No;;;250;;180000;;180000;;;;;26000;87129
+313;1981;6;;(Daling);Philippines;Asia;No;;;210;36;12086;3356;15478;;;;;7609;25499
+314;1981;8;;(Rubing);Philippines;Asia;No;;;5;;8526;1195;9721;;;;;12908;43256
+315;1981;11;;(Yeyeng);Philippines;Asia;No;;;4;6;5663;67;5736;;;;;167;560
+316;1982;1;;Damia;Mauritius;Africa;Yes;;;;;32000;;32000;;;;;650;2052
+317;1982;3;;Isaac;Tonga;Oceania;Yes;;;6;12;100000;46500;146512;;;;;21200;66940
+318;1982;3;Female;Mamie;Philippines;Asia;No;;;117;;16000;;16000;;;;;;
+319;1982;3;;Nelson (Bising);Philippines;Asia;No;;;151;31;485000;304000;789031;;;;;69000;217870
+320;1982;4;;Bernie;Solomon Islands;Oceania;No;;;;;30000;;30000;;;;;;
+321;1982;5;Female;Alleta;Nicaragua;Americas;Yes;;;71;;52000;;52000;;;;;356000;1124081
+322;1982;5;Female;Alleta;Honduras;Americas;Yes;;;130;;20000;;20000;;;;;101000;318911
+323;1982;6;;Alberto;Cuba;Americas;No;;270;24;;105000;75000;180000;;;;;85000;268390
+324;1982;8;;Bess;Japan;Asia;No;;;80;150;3000;;3150;;;;;137000;432582
+325;1982;8;Female;Cecil;Republic of Korea;Asia;No;;;63;42;;;42;;;;;30000;94726
+326;1982;8;;Ellis;Japan;Asia;No;;;12;;;5000;5000;;;;;18000;56836
+327;1982;8;Female;Faye;Philippines;Asia;No;;;70;67;25900;;25967;;;;;6500;20524
+328;1982;8;;Ellis;Republic of Korea;Asia;No;;;5;;5000;;5000;;;;;;
+329;1982;9;Female;Judy;Japan;Asia;No;;;26;102;;;102;;;;;57000;179979
+330;1982;9;;(Ruping);Philippines;Asia;No;;;65;26;44383;5599;50008;;;;;;
+331;1982;9;;Beryl;Cabo Verde;Africa;Yes;;;3;122;2100;;2222;;;;;3000;9473
+332;1982;9;;Paul;Mexico;Americas;No;;;225;;50000;;50000;;;;;82400;260181
+333;1982;10;Female;Nancy (Weling);Philippines;Asia;No;;;96;183;51532;12464;64179;;;;;32000;101041
+334;1982;10;Female;Nancy (N°7);Viet Nam;Asia;No;;;70;290;1300000;;1300290;;;;;;
+335;1982;11;Female;Iwa;United States of America;Americas;No;;;3;;;500;500;;;;;230000;726232
+336;1982;2;Female;Frida;Mauritius;Africa;No;;;;;500;;500;;;;;323;1020
+337;1982;1;;Benedic, Electre, Frida, Justine;Madagascar;Africa;No;;200;92;;;70000;70000;;;;;250000;789383
+338;1982;3;;(Akang);Philippines;Asia;No;;;25;8;23911;1180;25099;;;;;2400;7578
+339;1982;7;;(Emang);Philippines;Asia;No;;;10;5;11883;431;12319;;;;;4500;14209
+340;1982;8;;(Norming);Philippines;Asia;No;;;29;40;31522;5365;36927;;;;;4200;13262
+341;1982;12;;(Aning);Philippines;Asia;No;;;;;41;44;85;;;;;5;16
+342;1982;4;;Dominic;Australia;Oceania;No;;;1;;;;;;;;;6864;21673
+343;1982;8;;Dot;China, Hong Kong Special Administrative Region;Asia;No;;;5;;;900;900;;;;;;
+344;1983;1;Female;Elinah;Comoros;Africa;Yes;;;33;52;30000;;30052;;;;;23000;70363
+345;1983;2;;Orama;French Polynesia;Oceania;No;;;6;;;;;;;;;16000;48948
+346;1983;3;;Oscar;Fiji;Oceania;Yes;;180;9;14;200000;;200014;;;;;50000;152963
+347;1983;3;Female;Sarah;Fiji;Oceania;Yes;;;;;11132;;11132;;;;;851;2603
+348;1983;4;Female;Veena;French Polynesia;Oceania;No;;;1;50;5000;;5050;;;;;21000;64244
+349;1983;7;Female;Vera (Bebeng);Philippines;Asia;No;;120;115;27;120811;29054;149892;;;;;1640;5017
+350;1983;8;Female;Alicia;United States of America;Americas;No;;;21;;;;;;;;;3000000;9177763
+351;1983;9;Female;Ellen;Taiwan (Province of China);Asia;No;;;82;;;;;;;;;;
+352;1983;9;Female;Ellen;China, Hong Kong Special Administrative Region;Asia;No;;;22;338;;1607;1945;;;;;12544;38375
+353;1983;9;;Forest;Japan;Asia;No;;;44;78;;;78;;;;;;
+354;1983;9;;Herbert (N°7), Kim (N°9), Lex (N°10);Viet Nam;Asia;No;;;578;324;580000;265000;845324;;;;;;
+355;1983;10;;Tico;Mexico;Americas;No;;241;135;;;25000;25000;;;;;;
+356;1983;12;;Andy;Mauritius;Africa;Yes;;;1;1;350;;351;;;;;;
+357;1983;9;Female;Ellen (Herming);Philippines;Asia;No;;;3;;1489;195;1684;;;;;430;1315
+358;1983;11;Female;Orchid (Warling);Philippines;Asia;No;;;8;1;18242;611;18854;;;;;2250;6883
+359;1983;;;Joe;China, Hong Kong Special Administrative Region;Asia;No;;;;58;;559;617;;;;;;
+360;1983;10;Female;Georgia (N°6);Viet Nam;Asia;No;;;80;184;;336360;336544;;;;;;
+361;1983;9;Female;Ellen;China;Asia;No;;;82;;;;;;;;;;
+362;1984;1;;Domoina;Eswatini;Africa;Yes;;;53;;632000;500;632500;;;;;54152;158834
+363;1984;1;;Domoina;Mozambique;Africa;Yes;;;109;;350000;;350000;;;;;75000;219984
+364;1984;1;;Domoina, Imboa;South Africa;Africa;No;;;64;;500000;;500000;;;;;92000;269847
+365;1984;4;;Kamisy;Madagascar;Africa;Yes;;213;68;215;100000;;100215;;;;;250000;733279
+366;1984;8;Female;June (Maring);Philippines;Asia;Yes;;;138;103;475899;7745;483747;;;;;23000;67462
+367;1984;9;;Ike;China;Asia;No;;;13;;;;;;;;;;
+368;1984;9;Female;Fran;Cabo Verde;Africa;Yes;;;29;;5500;;5500;;;;;;
+369;1984;10;;Klaus;Dominica;Americas;No;;;2;;10000;;10000;;;;;2000;5866
+370;1984;11;Female;Agnes (n°9);Viet Nam;Asia;No;;;134;289;650416;;650705;;;;;;
+371;1984;11;Female;Agnes (Undang);Philippines;Asia;Yes;;230;1079;197;1495738;765965;2261900;;;;;96600;283339
+372;1984;4;;Kamisy;Réunion;Africa;No;;;;;;;;;;;;;
+373;1984;9;;Ike (Nitang) and Maring;Philippines;Asia;No;;275;1399;2565;1237224;547076;1786865;;;;;216700;635606
+374;1984;10;;Warren (Reming);Philippines;Asia;No;;;63;;1954;740;2694;;;;;190;557
+375;1984;11;;Klaus;Saint Kitts and Nevis;Americas;No;;;;;;;;;;;;;
+376;1984;10;Female;Hortense;France;Europe;No;;;;;;;;;;;;;
+377;1984;10;Female;Hortense;Spain;Europe;No;;150;6;30;60000;;60030;;;;;1000000;2933114
+378;1985;;Female;Kate;United States of America;Americas;No;;177;5;;;;;;;;;;
+379;1985;1;;Eric & Nigel;Vanuatu;Oceania;Yes;;;9;;117500;;117500;;;;;173000;490053
+380;1985;1;;Eric, Nigel, Odette;Fiji;Oceania;Yes;;140;28;;100000;;100000;;;68400;193755;73000;206785
+381;1985;3;;Gavin;Fiji;Oceania;No;;;3;;2000;;2000;;;;;;
+382;1985;3;;Hina;Solomon Islands;Oceania;Yes;;;;;650;;650;;;;;;
+383;1985;6;Female;Typhoon Irma;Japan;Asia;No;;;19;;30000;;30000;;;;;;
+384;1985;8;Female;Elena;United States of America;Americas;No;;209;4;;1000000;;1000000;;;;;1100000;3115946
+385;1985;9;Female;Gloria;United States of America;Americas;No;;249;11;;;;;;;;;900000;2549410
+386;1985;10;Female;Cecil;Viet Nam;Asia;No;;;798;257;225000;225000;450257;;;;;;
+387;1985;10;Female;Brenda;Republic of Korea;Asia;No;;;57;20;;;20;;;;;14000;39657
+388;1985;10;;Dot (Saling);Philippines;Asia;No;;240;81;24;1183602;;1183626;;;;;62373;176683
+389;1985;10;;Juan;United States of America;Americas;No;;177;12;;;;;;;;;1500000;4249017
+390;1985;11;Female;Kate;Jamaica;Americas;No;;;7;;;300;300;;;;;5200;14730
+391;1985;11;Female;"Hurricane ""Kate""";Cuba;Americas;No;;168;4;;476891;22000;498891;;;;;;
+392;1985;6;;Hal (Kuring) and Irma (Daling);Philippines;Asia;No;;;100;;420000;200;420200;;;;;20000;56654
+393;1985;9;Female;Tess (Miling);Philippines;Asia;No;;;5;7;85;56;148;;;;;660;1870
+394;1985;9;Female;Tess;China, Hong Kong Special Administrative Region;Asia;No;;;2;12;600;;612;;;;;42;119
+395;1985;9;Female;Pat;Japan;Asia;No;;;30;200;;;200;;;;;99500;281851
+396;1985;10;Female;Orilla;India;Asia;No;;;100;;100000;;100000;;;;;;
+397;1985;;Female;Kate;Turks and Caicos Islands;Americas;No;;;;;770;;770;;;;;5;14
+398;1986;2;Female;Winifred;Australia;Oceania;No;;;3;12;;1000;1012;;;;;70000;194594
+399;1986;3;;Honorinina;Madagascar;Africa;Yes;;300;99;424;83885;;84309;;;;;150000;416987
+400;1986;5;;Namu;Solomon Islands;Oceania;Yes;;;101;;90000;60000;150000;;;;;20000;55598
+401;1986;7;Female;Peggy (Gading);Philippines;Asia;Yes;;220;109;16;644608;2689;647313;;;;;30710;85371
+402;1986;7;Female;Peggy;China;Asia;No;;;172;1250;4000000;;4001250;;;;;380000;1056367
+403;1986;8;Female;Sarah;Japan;Asia;No;;;17;64;2000;;2064;;;102200;284107;2200000;6115809
+404;1986;8;;Wayne;Taiwan (Province of China);Asia;No;;;52;;;;;;;;;405000;1125865
+405;1986;8;;Charlie;Ireland;Europe;No;;;11;;;;;;;;;;
+406;1986;9;;Wayne (Miding);Philippines;Asia;Yes;;;23;4;482700;;482704;;;;;13150;36556
+407;1986;8;Female;Vera;Republic of Korea;Asia;No;;;33;73;6623;;6696;;;;;10900;30301
+408;1986;9;;Wayne (N°5);Viet Nam;Asia;No;;120;435;2502;2500000;;2502502;;;;;;
+409;1986;9;Female;Danielle;Saint Lucia;Americas;No;;;;;;;;;;;;;
+410;1986;9;Female;Abby;Taiwan (Province of China);Asia;No;;;13;;;;;;;;;80000;222393
+411;1986;10;;Dom (Oyang);Philippines;Asia;No;;;22;26;82529;;82555;;;;;1200;3336
+412;1986;12;;Raja;Wallis and Futuna Islands;Oceania;No;;;1;;4500;;4500;;;;;;
+413;1986;12;;Rajah;Fiji;Oceania;Yes;;140;1;;3000;;3000;;;;;20000;55598
+414;1986;10;female;Ellen (Daling);Philippines;Asia;No;;;4;;3082;52;3134;;;;;1400;3892
+415;1986;10;female;Georgia (Ruping);Philippines;Asia;No;;;2;;259;49;308;;;;;36000;100077
+416;1986;12;;Narge (Aning);Philippines;Asia;No;;;16;108;22771;3843;26722;;;;;4000;11120
+417;1986;7;Female;Peggy;China, Hong Kong Special Administrative Region;Asia;No;;;1;26;;;26;;;;;;
+418;1986;8;;Wayne;China, Hong Kong Special Administrative Region;Asia;No;;;4;15;;;15;;;;;;
+419;1986;8;Female;Vera;China;Asia;No;;;8;25;;2500;2525;;;;;940000;2613119
+420;1987;1;Female;Sally;Cook Islands;Oceania;Yes;;;5;;2000;;2000;;;;;25000;67041
+421;1987;1;Female;Jan;Comoros;Africa;No;;150;24;;;50000;50000;;;;;9000;24135
+422;1987;2;Female;Uma;Vanuatu;Oceania;Yes;;;48;;48000;;48000;;;;;25000;67041
+423;1987;7;Female;Thelma;Republic of Korea;Asia;Yes;;130;483;;56000;;56000;;;;;325000;871534
+424;1987;8;Female;Betty (Herming);Philippines;Asia;Yes;;240;85;425;971500;297900;1269825;;;;;98600;264410
+425;1987;9;;Gerald;China;Asia;No;;;102;;;25400;25400;;;;;120000;321797
+426;1987;9;Female;Emily;Saint Vincent and the Grenadines;Americas;No;;;;8;;200;208;;;;;5300;14213
+427;1987;9;Female;Emily;Dominican Republic;Americas;No;;;3;;;;;;;;;23700;63555
+428;1987;9;Female;Emily;Bermuda;Americas;Yes;;;;40;;;40;;;;;50000;134082
+429;1987;10;Female;Kelly;Japan;Asia;No;;;8;10;65000;;65010;;;;;;
+430;1987;10;;Lynn (Pedang);Philippines;Asia;No;;;100;79;60504;18396;78979;;;;;25000;67041
+431;1987;10;;Lynn;Taiwan (Province of China);Asia;No;;;61;;2200;;2200;;;;;;
+432;1987;11;;Maury;Viet Nam;Asia;No;;;101;211;584800;352000;937011;;;;;;
+433;1987;11;Female;Nina (Sisang);Philippines;Asia;Yes;;240;882;927;1818185;;1819112;;;;;56000;150172
+434;1987;8;;Cart (Ising);Philippines;Asia;No;;;5;;13247;89;13336;;;;;5600;15017
+435;1987;12;;Phillis (Trining);Philippines;Asia;No;;;22;35;47591;8754;56380;;;;;8500;22794
+436;1987;10;;Lynn;Guam;Oceania;No;;;;;;502;502;;;;;145;389
+437;1987;6;Female;Ruth;China;Asia;No;;;40;;;;;;;;;;
+438;1987;7;;Vernon;Republic of Korea;Asia;No;;;136;;;;;;;;;200000;536329
+439;1987;;Female;Emily;Barbados;Americas;No;;;;;;230;230;;;;;100000;268164
+440;1987;9;Female;Emily;Saint Lucia;Americas;No;;;;;;;;;;;;;
+441;1987;11;Female;Nina;Micronesia (Federated States of);Oceania;No;;148;5;3;;200;203;;;;;6000;16090
+442;1988;1;Female;Anne;Vanuatu;Oceania;Yes;;;;;3100;1600;4700;;;;;;
+443;1988;3;;Filao;Mozambique;Africa;No;;;100;;4000;;4000;;;;;;
+444;1988;5;Female;Susan (Biring);Philippines;Asia;No;;;36;;56000;;56000;;;;;1000;2577
+445;1988;7;;Warren (Huaning);Philippines;Asia;Yes;;;6;;96120;21235;117355;;;;;11516;29672
+446;1988;8;;Bill (n°7);China;Asia;No;;300;194;1232;135000;;136232;;;;;;
+447;1988;9;;Gilbert;Haiti;Americas;Yes;;;54;;870000;;870000;;;;;91286;235205
+448;1988;9;;Gilbert;Jamaica;Americas;Yes;;;49;;810000;;810000;;;;;1000000;2576577
+449;1988;9;;Gilbert;Mexico;Americas;No;;;240;;100000;;100000;;;;;76000;195820
+450;1988;9;Female;Kit;China;Asia;No;;;6;;51000;;51000;;;;;;
+451;1988;10;Female;Joan;Costa Rica;Americas;Yes;;;28;7500;120000;;127500;;;;;60000;154595
+452;1988;10;Female;Joan;Colombia;Americas;No;;;26;;100000;;100000;;;;;50000;128829
+453;1988;10;Female;Joan;Panama;Americas;No;;;30;;6732;2000;8732;;;;;60000;154595
+454;1988;10;Female;Joan;Venezuela (Bolivarian Republic of);Americas;No;;;11;;;;;;;;;;
+455;1988;10;Female;Ruby (Unsang);Philippines;Asia;Yes;;215;416;208;3250000;;3250208;;;;;240500;619667
+456;1988;10;Female;Joan;Nicaragua;Americas;No;;;130;278;300000;60000;360278;;;;;400000;1030631
+457;1988;10;Female;Joan;Honduras;Americas;No;;;;12;;;12;;;;;;
+458;1988;11;;Skip (Yoning);Philippines;Asia;Yes;;175;289;29;1000000;45000;1045029;;;;;149060;384065
+459;1988;11;;Keith;United States of America;Americas;No;;;;;;;;;;30000;77297;;
+460;1988;11;;04B;Bangladesh;Asia;No;;150;1000;;8568860;2000000;10568860;;;;;;
+461;1988;11;;04B;India;Asia;No;;;74;;1900000;;1900000;;;;;13000;33496
+462;1988;11;female;Tess (Welpring);Philippines;Asia;No;;;41;1;28826;86;28913;;;;;940;2422
+463;1988;3;;Bola;New Zealand;Oceania;No;;;6;;;;;;;;;;
+464;1988;9;female;Debby;Mexico;Americas;No;;;48;;;25000;25000;;;;;;
+465;1988;10;female;Ruby;China, Hong Kong Special Administrative Region;Asia;No;;;;4;100;;104;;;;;;
+466;1988;3;;Charlie;Australia;Oceania;No;;;1;;;;;;;;;20417;52606
+467;1988;9;;Gilbert;Saint Lucia;Americas;No;;;;;;;;;;;;2500;6441
+468;1988;8;;Bola;Vanuatu;Oceania;No;;;;;;2000;2000;;;;;;
+469;1988;9;;Gilbert;Cuba;Americas;No;;;;;60000;;60000;;;;;;
+470;1989;1;;Fili & Gina;Samoa;Oceania;Yes;;;;;;;;;;;;15500;38098
+471;1989;1;;Kalafandji, Firinga;Comoros;Africa;No;;;;;;;;;;;;5236;12870
+472;1989;1;;Firinga;Réunion;Africa;No;;190;10;61;6200;;6261;;;;;50000;122897
+473;1989;1;;Firinga;Mauritius;Africa;No;;190;1;507;4000;;4507;;;;;60000;147476
+474;1989;7;;Irving;Viet Nam;Asia;No;;;104;491;1000000;445000;1445491;;;;;;
+475;1989;8;;Dean;Bermuda;Americas;No;;;;;;;;;;;;;
+476;1989;9;;Hugo;Netherlands Antilles;Americas;No;;;11;;;;;;;;;50000;122897
+477;1989;9;;Hugo;Antigua and Barbuda;Americas;No;;;2;;7500;530;8030;;;;;80000;196635
+478;1989;9;;Hugo;Canada;Americas;No;;;;;;;;;;;;;
+479;1989;9;;Hugo;Dominica;Americas;Yes;;;;;710;;710;;;;;20000;49159
+480;1989;9;;Hugo;Dominican Republic;Americas;No;;;;;;;;;;;;;
+481;1989;9;;Hugo;Guadeloupe;Americas;No;;241;5;84;;11000;11084;;;;;50000;122897
+482;1989;9;;Hugo;Saint Kitts and Nevis;Americas;No;;169;1;;;1300;1300;;;;;46000;113065
+483;1989;9;;Hugo;Montserrat;Americas;No;;;11;40;;12000;12040;;;;;240000;589904
+484;1989;9;;Hugo;Martinique;Americas;No;;169;;;;;;;;;;;
+485;1989;9;;Hugo;Puerto Rico;Americas;No;;;;;;;;;;;;;
+486;1989;9;;Hugo;United States of America;Americas;No;;;51;;;25000;25000;;;;;7000000;17205528
+487;1989;9;;Hugo;United States Virgin Islands;Americas;No;;;;;2000;8000;10000;;;;;21800;53583
+488;1989;9;Female;Vera;China;Asia;No;;;550;2696;7000000;;7002696;;;;;485000;1192097
+489;1989;7;;Gordon (Goring);Philippines;Asia;No;;;97;382;486000;;486382;;;;;61000;149934
+490;1989;12;;Alibera;Madagascar;Africa;Yes;;;46;;55346;;55346;;;;;;
+491;1989;10;;Dan (Saling);Philippines;Asia;Yes;;;58;105;660000;76500;736605;;;;;59200;145510
+492;1989;10;Female;Elsie (Tasing);Philippines;Asia;No;;205;30;279;458400;;458679;;;;;35400;87011
+493;1989;10;Female;Angela (Rubing);Philippines;Asia;No;;;147;191;205000;84000;289191;;;;;8000;19663
+494;1989;10;;Brian, Angela, Dan;Viet Nam;Asia;No;;;104;762;4635000;;4635762;;;;;;
+495;1989;9;Female;Sarah (Openg);Philippines;Asia;No;;150;22;21;140000;;140021;;;;;4300;10569
+496;1989;11;;Gay;Thailand;Asia;Yes;;120;458;;154000;45000;199000;;;;;452000;1110985
+497;1989;11;;Hunt (Unsing);Philippines;Asia;No;;160;11;1;12837;212;13050;;;;;325;799
+498;1989;5;Female;Cecil;Viet Nam;Asia;No;;;751;106;;336000;336106;;;;;21000;51617
+499;1989;5;;Breda (Bining);Philippines;Asia;No;;;13;3;12282;652;12937;;;;;2860;7030
+500;1989;10;;Brian;China;Asia;No;;;31;700;;;700;;;;;;
+501;1989;5;female;Brenda;China;Asia;No;;;84;48;1000000;;1000048;;;;;;
+502;1989;7;female;Judy;Republic of Korea;Asia;Yes;;;109;49;75145;;75194;;;68000;167139;176500;433825
+503;1989;5;female;Brenda;China, Hong Kong Special Administrative Region;Asia;No;;;7;119;269;899;1287;;;;;;
+504;1989;7;;Gordon;China, Hong Kong Special Administrative Region;Asia;No;;;2;31;259;78;368;;;;;67;165
+505;1989;9;Female;Sarah;Taiwan (Province of China);Asia;No;;;13;;;;;;;;;;
+506;1989;3;;Aivu;Australia;Oceania;No;;250;10;;;;;;;94300;231783;94300;231783
+507;1989;4;;Orson;Australia;Oceania;No;;250;2;;;;;;;;;13611;33455
+508;1989;6;female;Allison;United States of America;Americas;No;;;11;;;;;;;45000;110607;500000;1228966
+509;1989;7;female;Hope;China;Asia;No;;;200;;;;;;;;;;
+510;1989;8;female;Chantal;United States of America;Americas;No;;;;;;;;;;80000;196635;;
+511;1989;9;female;Sarah;Japan;Asia;No;;;;;;;;;;;;;
+512;1989;10;; Jerry;United States of America;Americas;No;;;2;;;;;;;35000;86028;;
+513;1989;1;female;Gina;American Samoa;Oceania;No;;;;;;;;;;;;5000;12290
+514;1990;2;;Ofa;Samoa;Oceania;Yes;;;8;;170000;25000;195000;;;;;200000;466410
+515;1990;2;;Ofa;Tokelau;Oceania;No;;;;;;102;102;;;;;2400;5597
+516;1990;2;;Ofa;Niue;Oceania;No;;;;;200;;200;;;;;;
+517;1990;2;;Ofa;Tonga;Oceania;Yes;;;1;3;2600;500;3103;;;;;2500;5830
+518;1990;2;;Ofa;Tuvalu;Oceania;Yes;;;;;300;400;700;;;;;;
+519;1990;2;;Peni;Cook Islands;Oceania;No;;185;1;;;;;;;;;;
+520;1990;5;;02B;India;Asia;Yes;;;957;;2600000;;2600000;;;;;580000;1352589
+521;1990;6;Female;Ofelia (Biring) & Percy;Philippines;Asia;No;;150;64;14;160000;;160014;;;;;;
+522;1990;6;;N°5;China;Asia;No;;;56;148;;10000;10148;;;;;16000;37313
+523;1990;6;;N°6;China;Asia;No;;;16;288;5590000;;5590288;;;;;28000;65297
+524;1990;7;;Arthur;Haiti;Americas;No;;145;;;;;;;;;;;
+525;1990;7;;Arthur;Bahamas;Americas;No;;113;;;;;;;;;;;
+526;1990;7;;Arthur;Turks and Caicos Islands;Americas;No;;113;;;;;;;;;;;
+527;1990;7;;Arthur;Trinidad and Tobago;Americas;No;;113;;;1000;;1000;;;;;;
+528;1990;7;;Arthur;Grenada;Americas;No;;145;;;1000;;1000;;;;;;
+529;1990;8;;Gustav;Guadeloupe;Americas;No;;;;;;;;;;;;;
+530;1990;8;;Gustav;Antigua and Barbuda;Americas;No;;;;;;;;;;;;;
+531;1990;8;;Gustav;Montserrat;Americas;No;;;;;;;;;;;;;
+532;1990;8;;Gustav;Saint Kitts and Nevis;Americas;No;;;;;;;;;;;;;
+533;1990;8;Female;Becky;Viet Nam;Asia;No;;;19;108;500000;;500108;;;;;;
+534;1990;10;;Klaus;Martinique;Americas;No;;;8;;1500;;1500;;;;;;
+535;1990;8;Female;Yancy;China;Asia;No;;;144;;;;;;;;;157000;366132
+536;1990;11;;Sina;Fiji;Oceania;No;;;;;3000;3000;6000;;;;;10000;23320
+537;1990;11;;Mike (Ruping);Philippines;Asia;Yes;;240;503;1274;5048275;1110020;6159569;;;;;388500;906001
+538;1990;7;Female;Tasha;China;Asia;No;;;108;;100800;;100800;;;;;83000;193560
+539;1990;8;Female;Diana;Mexico;Americas;No;;;38;;;;;;;;;90700;211517
+540;1990;8;Female;Becky;Philippines;Asia;No;;;85;;;;;;;;;;
+541;1990;8;;Abe;Philippines;Asia;No;;;85;;;;;;;;;;
+542;1990;8;;Abe;China;Asia;No;;;115;;;;;;;;;688000;1604450
+543;1990;9;;Dot;China;Asia;No;;;26;;;;;;;;;154000;359136
+544;1990;9;Female;Flo;Japan;Asia;No;;;40;;60000;;60000;;;269900;629420;4000000;9328199
+545;1990;10;Female;Ira;Thailand;Asia;No;;;36;;;;;;;;;50000;116602
+546;1990;12;Female;Joy;Australia;Oceania;No;;;;;;;;;;;;155600;362867
+547;1990;10;;Ofa;Bangladesh;Asia;No;;;370;;13870;;13870;;;;;;
+548;1990;9;;Dot;Philippines;Asia;No;;;;;;;;;;;;;
+549;1990;9;;Dot;Taiwan (Province of China);Asia;No;;;;;;;;;;;;;
+550;1991;4;;Gorky (02B);Bangladesh;Asia;Yes;;21360;138866;138849;15000000;300000;15438849;;;80000;178984;1780000;3982395
+551;1991;1;female;Bella;Mauritius;Africa;Yes;;210;;;6000;1500;7500;;;;;;
+552;1991;7;female;Amy;China;Asia;No;;;100;5239;1008700;;1013939;;;;;465330;1041083
+553;1991;7;;Brendan;Philippines;Asia;No;;100;2;;;10000;10000;;;;;;
+554;1991;8;;Fred;Viet Nam;Asia;No;;;17;16;;455905;455921;;;;;9500;21254
+555;1991;8;;Bob;United States of America;Americas;No;;160;18;;1200;;1200;;;620000;1387126;1500000;3355951
+556;1991;8;;Fred;China, Hong Kong Special Administrative Region;Asia;No;;;22;182;;;182;;;;;10000;22373
+557;1991;8;;Fred;Taiwan (Province of China);Asia;No;;;33;4;;;4;;;;;;
+558;1991;8;;Fred;China;Asia;No;;;14;24;33400;;33424;;;24000;53695;110000;246103
+559;1991;2;female;Cynthia;Madagascar;Africa;Yes;;120;36;;125000;125000;250000;;;;;;
+560;1991;12;;Val & Wasa;Samoa;Oceania;Yes;;167;13;;85000;3000;88000;;;;;278000;621970
+561;1991;11;;4B;India;Asia;No;;;125;;25000;;25000;;;;;;
+562;1991;10;female;Ruth (Trining);Philippines;Asia;Yes;;260;65;38;300000;16000;316038;;;19900;44522;90000;201357
+563;1991;11;female;Thelma (Uring);Philippines;Asia;Yes;;;5956;3050;598454;45750;647254;;;;;100000;223730
+564;1991;8;female;Gladys;Japan;Asia;No;;100;11;;;;;;;3000;6712;5000;11187
+565;1991;8;female;Gladys;Republic of Korea;Asia;No;;90;72;;20750;;20750;;;50000;111865;310000;693563
+566;1991;10;;Bob;United States of America;Americas;No;;160;2;;1500;;1500;;;;;;
+567;1991;11;;Zelda;Marshall Islands;Oceania;No;;;;;;6000;6000;;;;;;
+568;1991;7;;Zeke (Etang);Philippines;Asia;No;;;47;21;505756;;505777;;;;;85000;190171
+569;1991;7;;Zeke;China;Asia;No;;;33;111;7030;;7141;;;;;117560;263017
+570;1991;7;Female;Amy;Philippines;Asia;No;;;4;;;2500;2500;;;;;;
+571;1991;7;Female;Caitlin;Philippines;Asia;No;;;9;;90296;;90296;;;;;;
+572;1991;7;Female;Caitlin;Japan;Asia;No;;;;;;;;;;;;81500;182340
+573;1991;9;Female;Kinna;Japan;Asia;No;;;6;;;;;;;272000;608546;;
+574;1991;9;;Luke;Japan;Asia;No;;;18;;;;;;;54000;120814;;
+575;1991;9;Female;Mireille (n°19);Japan;Asia;No;;;66;777;90000;351;91128;;;5400000;12081423;10000000;22373005
+576;1991;10;Female;Grace;United States of America;Americas;No;;;2;;;;;;;60000;134238;;
+577;1991;7;;Zeke;Viet Nam;Asia;No;;;21;6;770;;776;;;;;;
+578;1992;1;Female;Betsy;Vanuatu;Oceania;Yes;46;222;2;10;;;10;;;;;;
+579;1992;3;Female;Fran;Vanuatu;Oceania;No;;222;;;1150;;1150;;;;;;
+580;1992;6;;Chuck;Viet Nam;Asia;No;11162;;14;11;44945;2230;47186;;;;;400;869
+581;1992;8;;Andrew;Bahamas;Americas;Yes;253;241;4;;;1700;1700;;;;;250000;542882
+582;1992;8;;Andrew;United States of America;Americas;No;;290;44;55;;250000;250055;;;17000000;36915991;26500000;57545516
+583;1992;1;;Axel;United States of America;Americas;No;;;;;20000;;20000;;;;;;
+584;1992;10;Female;Angela;Viet Nam;Asia;No;;;17;12;31180;980;32172;;;;;18000;39088
+585;1992;12;;Joni;Fiji;Oceania;No;;;1;;2000;;2000;;;;;1600;3474
+586;1992;9;;Iniki;United States of America;Americas;No;;;6;;25000;;25000;;;1600000;3474446;5000000;10857645
+587;1992;7;;Eli (Konsing);Philippines;Asia;No;;109;22;;5135;;5135;;;;;;
+588;1992;7;;Gary;Philippines;Asia;No;;;42;77;134417;;134494;;;;;;
+589;1992;9;;Ted;China;Asia;No;;;53;;;;;;;;;425000;922900
+590;1992;9;Female;Yancy;Japan;Asia;No;;180;11;86;;;86;;;;;;
+591;1992;8;;Lester;Mexico;Americas;No;;;3;;10000;;10000;;;;;3000;6515
+592;1992;8;;Omar;Guam;Oceania;No;;;1;542;;5000;5542;;;;;300000;651459
+593;1992;8;Female;Polly;China;Asia;No;;26333;168;;5000000;;5000000;;;;;412400;895539
+594;1992;8;Female;Polly;Taiwan (Province of China);Asia;No;;;8;;;;;;;;;35000;76004
+595;1992;7;;Gari (Ditang);China, Hong Kong Special Administrative Region;Asia;No;;;;18;;43;61;;;;;219700;477085
+596;1992;7;;Zeke & Fred;Lao People's Democratic Republic;Asia;No;;;22;102;268775;;268877;;;;;3650;7926
+597;1992;9;;Ted;Republic of Korea;Asia;No;;;;;375;58;433;;;;;;
+598;1992;8;;Omar (Lusing);Philippines;Asia;No;;205;11;1;171603;1965;173569;;;;;;
+599;1992;10;female;Angela;Thailand;Asia;No;;;3;;93102;13007;106109;;;;;;
+600;1992;10;female;Colleen;Thailand;Asia;No;;;;;160550;;160550;;;;;;
+601;1993;1;female;Kina;Fiji;Oceania;Yes;4350;241;21;3;150000;10000;160003;;;;;100000;210927
+602;1993;1;female;Nina;Tuvalu;Oceania;No;10;130;;;;150;150;;;;;;
+603;1993;1;female;Nina;Solomon Islands;Oceania;Yes;232;130;4;;88500;;88500;;;;;;
+604;1993;5;female;Adel;Papua New Guinea;Oceania;No;1;83;15;40;25000;15000;40040;;;;;1500;3164
+605;1993;3;;Prema;Vanuatu;Oceania;Yes;2949;250;4;5;5000;7000;12005;;;;;6000;12656
+606;1993;8;;Bret;Nicaragua;Americas;Yes;1747;97;37;;123000;;123000;;;;;;
+607;1993;6;;Koryn (Goring);Philippines;Asia;No;;180;2;;29413;14322;43735;;;;;442;932
+608;1993;8;;Bret;Venezuela (Bolivarian Republic of);Americas;Yes;384;95;100;400;;5500;5900;;;;;4500;9492
+609;1993;7;;Calvin;Mexico;Americas;No;;136;30;;14000;20000;34000;;;;;;
+610;1993;10;female;Flo (Kadiang);Philippines;Asia;Yes;1744;105;124;35;1941531;;1941566;;;;;188000;396543
+611;1993;9;female;Yancy;Japan;Asia;No;;180;48;208;30255;;30463;;;896000;1889906;1300000;2742052
+612;1993;12;female;Lola (Monang) and Manny (Naning);Philippines;Asia;Yes;615;210;311;524;994478;164800;1159802;;;;;50000;105464
+613;1993;11;;Kyle;Philippines;Asia;No;;;1;;;;;;;;;2000;4219
+614;1993;11;;Kyle;Viet Nam;Asia;Yes;;;130;16;6000;5490;11506;;;;;15000;31639
+615;1993;1;female;Colina;Réunion;Africa;No;;;14;;;;;;;;;;
+616;1993;6;Female;Arlene, Beatriz;Mexico;Americas;No;;;7;;10000;;10000;;;;;1670000;3522482
+617;1993;6;;Koryn;China, Hong Kong Special Administrative Region;Asia;No;;180;4;183;21;;204;;;;;120;253
+618;1993;8;Female;Cindy;Martinique;Americas;No;;;2;10;;3000;3010;;;;;;
+619;1993;8;;Irwin;Mexico;Americas;No;;;;;;3000;3000;;;;;;
+620;1993;8;Female;Tasha;China;Asia;No;;185;28;213;2000000;;2000213;;;;;433920;915255
+621;1993;8;Female;Emily;United States of America;Americas;No;;113;1;;;;;;;30000;63278;;
+622;1993;9;Female;Lidia;Mexico;Americas;No;;200;1;;30000;;30000;;;;;;
+623;1993;12;;Nell (Puring);Philippines;Asia;No;142;120;52;7;366217;;366224;;;;;17000;35858
+624;1993;12;Female;Lola;Viet Nam;Asia;No;;130;73;20;20520;4695;25235;;;;;50000;105464
+625;1993;5;Female;Wylie;United States of America;Americas;No;;;3;60;;;60;;;165000;348030;;
+626;1993;6;;Koryn;China;Asia;No;;180;10;;3000000;;3000000;;;;;219670;463343
+627;1993;9;;Abe;China;Asia;No;;120;10;428;24000;;24428;;;;;12610;26598
+628;1993;9;Female;Becky;China;Asia;No;;83;7;;3000000;;3000000;;;;;263670;556151
+629;1993;9;;Dot;China;Asia;No;;130;1;;250000;;250000;;;;;286370;604032
+630;1993;10;Female;Ira;China;Asia;No;;102;;;200000;;200000;;;;;15890;33516
+631;1993;8;Female;Tasha;China, Hong Kong Special Administrative Region;Asia;No;;185;;35;500;;535;;;;;;
+632;1993;9;;Dot;China, Hong Kong Special Administrative Region;Asia;No;;130;1;48;210;;258;;;;;6000;12656
+633;1993;10;Female;Ira;China, Hong Kong Special Administrative Region;Asia;No;;102;2;30;100;59;189;;;;;800;1687
+634;1993;8;;Robyn;Japan;Asia;No;;;47;;;;;;;225000;474586;450000;949172
+635;1993;8;;Robyn;Democratic People's Republic of Korea;Asia;No;;304;6;;2500;;2500;;;;;110000;232020
+636;1993;6;;Koryn;China, Macao Special Administrative Region;Asia;No;;259;;3;1000;636;1639;;;;;;
+637;1993;8;Female;Tasha;China, Macao Special Administrative Region;Asia;No;;185;;1;100;229;330;;;;;;
+638;1993;9;;Dot;China, Macao Special Administrative Region;Asia;No;;130;;;100;288;388;;;;;;
+639;1994;2;Female;Hollanda, Ivy;Mauritius;Africa;No;30;225;2;;800;1500;2300;;;;;135400;278338
+640;1994;1;Female;Daisy, Geralda;Madagascar;Africa;Yes;10586;250;200;43;500000;40000;540043;;;;;10000;20557
+641;1994;4;;Owen (Bising);Philippines;Asia;No;;110;15;33;46500;59213;105746;;;;;;
+642;1994;3;Female;Nadya;Mozambique;Africa;Yes;2351;150;240;2000;2000000;500000;2502000;;;;;;
+643;1994;3;Female;Nadya;Madagascar;Africa;No;;45;12;8;;;8;;;;;200;411
+644;1994;3;Female;Litanne;Madagascar;Africa;No;;284;;;;;;;;;;;
+645;1994;8;;9403;China;Asia;No;;;90;684;8235000;253000;8488684;;;;;700000;1438969
+646;1994;7;female;Yunya (Norming);Philippines;Asia;No;;;11;7;420721;;420728;;;;;37600;77293
+647;1994;7;;Tim (Iliang);Philippines;Asia;No;;;17;21;166564;;166585;;;;;1000;2056
+648;1994;6;female;Sharon (Gading);Philippines;Asia;No;;;2;;23952;;23952;;;;;;
+649;1994;8;female;Caitlin (Pasing);Philippines;Asia;No;;;11;;14000;;14000;;;;;;
+650;1994;6;;Russ;China;Asia;No;;74;74;684;;440000;440684;;;;;700;1439
+651;1994;7;;Alberto;United States of America;Americas;No;;;32;22;20000;;20022;;;95000;195289;250000;513918
+652;1994;7;;Tim;China;Asia;No;;;47;;4230000;;4230000;;;;;96300;197961
+653;1994;7;;Tim;Russian Federation;Europe;No;;;;;;;;;;;;60000;123340
+654;1994;8;;Brendan;Republic of Korea;Asia;No;;74;28;2;;86;88;;;;;11;23
+655;1994;8;;Doug;Taiwan (Province of China);Asia;No;;160;16;41;457;;498;;;;;232000;476915
+656;1994;8;;Fred (9416);China;Asia;No;;;1174;1800;11000000;;11001800;;;;;1150000;2364021
+657;1994;8;;Fred (9416);Japan;Asia;No;;;;;;;;;;;;6000;12334
+658;1994;8;;Fred (9416);Taiwan (Province of China);Asia;No;;;3;;;;;;;;;1000;2056
+659;1994;9;;Luke (Weling);Philippines;Asia;No;;;7;;54674;;54674;;;;;3900;8017
+660;1994;9;female;Debby;Saint Lucia;Americas;Yes;396;;4;;600;150;750;;;;;;
+661;1994;1;;Hurricane;Australia;Oceania;No;;;22;;;;;;;;;;
+662;1994;7;;Oyang;Philippines;Asia;No;;;39;;;;;;;;;1700;3495
+663;1994;9;female;Gladys;Taiwan (Province of China);Asia;No;;;6;50;;;50;;;;;24000;49336
+664;1994;11;;Gordon;Cuba;Americas;No;580;83;2;;67738;42820;110558;;;;;101968;209613
+665;1994;11;;Gordon;Haiti;Americas;Yes;7488;26430;1122;;1500000;87000;1587000;;;;;50000;102784
+666;1994;11;;Gordon;United States of America;Americas;No;;;6;;;;;;;60000;123340;500000;1027835
+667;1994;10;Female;Teresa (Katring);Philippines;Asia;No;;150;32;15;;258736;258751;;;;;67400;138552
+668;1994;12;;Axel (Garding);Philippines;Asia;No;;;49;86;867837;;867923;;;;;26813;55119
+669;1994;7;;Tim;Taiwan (Province of China);Asia;No;;174;10;40;;;40;;;10000;20557;100000;205567
+670;1994;9;;Luke;Viet Nam;Asia;No;;;30;;11000;;11000;;;;;45000;92505
+671;1994;7;Female;Vanessa;Philippines;Asia;No;;;3;;5300;;5300;;;;;;
+672;1994;8;;Harry;Thailand;Asia;No;;;10;;;;;;;;;12000;24668
+673;1994;8;Female;Caitlin;Taiwan (Province of China);Asia;No;;;10;;;;;;;;;100000;205567
+674;1994;7;Female;Amy;Thailand;Asia;No;;;9;;10000;;10000;;;;;8000;16445
+675;1994;9;Female;Orchid;Japan;Asia;No;;;3;7;;;7;;;199100;409284;;
+676;1995;6;Female;Allison;Cuba;Americas;No;;97;2;3;160;;163;;;;;;
+677;1995;6;Female;Allison;Honduras;Americas;No;;97;18;22;;;22;;;;;;
+678;1995;8;;Felix;Mexico;Americas;No;;210;17;;;3000;3000;;;;;;
+679;1995;8;Female;Janis;Republic of Korea;Asia;No;;;45;160;1400;2150;3710;;;;;425000;849819
+680;1995;8;;Kent (Gening);Philippines;Asia;No;;157;6;;195886;;195886;;;;;;
+681;1995;8;;Kent;China;Asia;No;;;445;;;25000;25000;;;;;87000;173963
+682;1995;9;Female;Henriette;Mexico;Americas;No;;193;;;800;;800;;;;;;
+683;1995;9;;Luis;Antigua and Barbuda;Americas;Yes;;220;2;165;;3537;3702;;;;;350000;699851
+684;1995;9;;Luis;Canada;Americas;No;;;2;;;;;;;;;100000;199957
+685;1995;9;;Luis;Guadeloupe;Americas;No;;;;;;;;;;;;50000;99979
+686;1995;9;;Luis;Montserrat;Americas;No;;;;;;;;;;;;20000;39991
+687;1995;9;;Luis;United States Virgin Islands;Americas;No;;;;;;;;;;500000;999787;800000;1599659
+688;1995;9;;Luis;Netherlands Antilles;Americas;No;;220;2;;40000;;40000;;;700000;1399702;1000000;1999574
+689;1995;9;;Luis;Puerto Rico;Americas;No;;241;;;98000;;98000;;;100000;199957;200000;399915
+690;1995;9;;Ismael;Mexico;Americas;No;;153;105;;;40000;40000;;;;;800000;1599659
+691;1995;9;Female;Marilyn;Dominica;Americas;No;;;;;;;;;;;;175000;349925
+692;1995;9;Female;Marilyn;Martinique;Americas;No;;;;;;;;;;;;160000;319932
+693;1995;9;Female;Marilyn;Puerto Rico;Americas;No;;;1;;;;;;;50000;99979;100000;199957
+694;1995;9;Female;Marilyn;United States of America;Americas;No;;;8;;;;;;;875000;1749627;2100000;4199105
+695;1995;9;Female;Marilyn;United States Virgin Islands;Americas;No;;97;7;;;10000;10000;;;50000;99979;136000;271942
+696;1995;9;;Luis;Dominica;Americas;No;;220;2;1;;5000;5001;65000;129972;;;20000;39991
+697;1995;9;;Luis;Saint Kitts and Nevis;Americas;No;;220;;;1800;;1800;;;;;197000;393916
+698;1995;9;female;Marylin;Barbados;Americas;No;;;;;;;;;;;;;
+699;1995;10;female;Opal;Cuba;Americas;No;;;;;;;;;;;;2000;3999
+700;1995;9;female;Opal;Mexico;Americas;No;;97;19;;;3000;3000;;;100000;199957;124700;249347
+701;1995;10;female;Opal;United States of America;Americas;No;;200;19;;78000;;78000;;;2500000;4998935;3000000;5998721
+702;1995;10;female;Sybil (Mameng);Philippines;Asia;Yes;51;120;184;14;758423;106000;864437;;;;;38100;76184
+703;1995;10;female;Roxane;Mexico;Americas;No;;145;29;;20000;;20000;;;240000;479898;1500000;2999361
+704;1995;11;female;Angela (Rosing);Philippines;Asia;Yes;3720;250;882;2369;1597219;;1599588;;;;;244000;487896
+705;1995;10;;Zack (Pepang);Philippines;Asia;No;;135;146;55;347998;;348053;;;;;30000;59987
+706;1995;11;;Zack;Viet Nam;Asia;No;838;;16;51;23000;;23051;;;;;21200;42391
+707;1995;7;female;Faye;Republic of Korea;Asia;No;;194;28;;1000;450;1450;;;;;140000;279940
+708;1995;7;female;Erin;Bahamas;Americas;No;;;;;;;;;;;;400;800
+709;1995;7;female;Erin;United States of America;Americas;No;;135;11;;6000;;6000;;;375000;749840;700000;1399702
+710;1995;2;;Bobby;Australia;Oceania;No;;104;7;15;7000;30;7045;;;;;98000;195958
+711;1995;7;;Karing;Philippines;Asia;No;;;;;20000;;20000;;;;;5000;9998
+712;1996;2;female;Bonita;Mozambique;Africa;Yes;;;11;;200000;;200000;14000;27197;;;14500;28168
+713;1996;1;female;Bonita;Madagascar;Africa;Yes;4455;200;9;;100000;;100000;;;;;;
+714;1996;7;;Cesar and Douglas;Costa Rica;Americas;Yes;10699;126;51;;500000;;500000;;;;;200000;388526
+715;1996;7;;Cesar and Douglas;Nicaragua;Americas;Yes;4276;126;42;;10724;;10724;;;;;10000;19426
+716;1996;6;;03;India;Asia;No;;;731;;1842100;;1842100;;;;;;
+717;1996;7;Female;Gloria;China;Asia;No;;;2;;;;;;;;;48000;93246
+718;1996;7;Female;Gloria;Philippines;Asia;No;;140;26;13;36815;;36828;;;;;38000;73820
+719;1996;7;;Frankie ;Viet Nam;Asia;Yes;2614;102;585;591;386500;;387091;;;;;362000;703232
+720;1996;6;;Alma, Boris;Mexico;Americas;No;;193;7;80;;10000;10080;;;;;;
+721;1996;7;;Herb;China;Asia;No;;139;44;300;;10000;10300;;;;;72000;139869
+722;1996;7;;Herb;Taiwan (Province of China);Asia;No;;;45;;;;;;;115000;223403;1100000;2136894
+723;1996;7;;Cesar and Douglas;Guatemala;Americas;No;;;;;;;;;;;;500;971
+724;1996;7;;Cesar and Douglas;Honduras;Americas;No;;;;;;;;;;;;500;971
+725;1996;7;;Cesar and Douglas;Mexico;Americas;No;;;2;;;;;;;;;10;19
+726;1996;7;;Cesar and Douglas;El Salvador;Americas;No;;126;12;;;;;;;;;10;19
+727;1996;7;;Gloria and Frankie;Thailand;Asia;No;;;9;;343386;;343386;;;;;150000;291395
+728;1996;8;Female;Elida;Mexico;Americas;No;;45;6;;1000;250;1250;;;;;;
+729;1996;9;Female;Fran;United States of America;Americas;No;;193;39;;4000;;4000;;;1600000;3108210;3400000;6604946
+730;1996;9;Female;Hortense;Canada;Americas;No;;;;;;;;;;;;100;194
+731;1996;9;Female;Hortense;Dominican Republic;Americas;No;;;24;;25000;;25000;;;;;;
+732;1996;9;Female;Hortense;Martinique;Americas;No;;;;;;;;;;;;10;19
+733;1996;9;Female;Hortense;Puerto Rico;Americas;No;;130;18;;57315;;57315;;;150000;291395;500000;971316
+734;1996;9;Female;Sally;China;Asia;No;;120;197;5000;15000000;;15005000;;;;;1500000;2913947
+735;1996;9;Female;Sally;Viet Nam;Asia;No;;;1;;;;;;;;;20;39
+736;1996;9;;Fausto;Mexico;Americas;No;;;1;;;8500;8500;;;;;;
+737;1996;9;;Willie;China;Asia;No;;130;38;;;;;;;;;100000;194263
+738;1996;9;;Willie;Viet Nam;Asia;No;;101;9;;280000;;280000;;;;;11000;21369
+739;1996;10;Female;Lilli;Cuba;Americas;No;3110;105;;;269995;66681;336676;;;;;13000;25254
+740;1996;10;Female;Lilli;Germany;Europe;No;;;;;;;;;;;;500;971
+741;1996;10;Female;Lilli;France;Europe;No;;;1;;;;;;;;;10;19
+742;1996;10;Female;Lilli;United Kingdom of Great Britain and Northern Ireland;Europe;No;;120;5;;12000;;12000;;;240000;466231;300000;582789
+743;1996;10;Female;Lilli;Cuba;Americas;No;3110;135;;;-245995;66681;-312676;;;;;234147,7143;454862,2
+744;1996;11;;07B;India;Asia;Yes;;;708;;7000000;;7000000;;;;;1500300;2914530
+745;1996;11;;Marco;Jamaica;Americas;No;;93;;;;800;800;;;;;3000;5828
+746;1996;12;;Greg;Malaysia;Asia;Yes;310;70;270;26;1150;3000;4176;;;;;52000;101017
+747;1996;12;female;Daniella;Mauritius;Africa;No;;154;3;;;;;;;;;;
+748;1996;4;female;Olivia;Australia;Oceania;No;;222;;10;1500;250;1760;;;;;46700;90721
+749;1996;7;;Luis;British Virgin Islands;Americas;No;;;;3;;;3;;;;;2000;3885
+750;1996;8;;Kirk;Japan;Asia;No;;210;6;74;5400;264;5738;;;;;;
+751;1996;7;female;Gloria;Taiwan (Province of China);Asia;No;;185;20;;;;;;;;;200000;388526
+752;1996;8;;Kirk;China;Asia;No;;;266;;100000;;100000;;;;;200000;388526
+753;1996;11;;Marcos;Honduras;Americas;No;;;1;;;;;;;;;1000;1943
+754;1996;11;;Marcos;Haiti;Americas;No;;;26;;;;;;;;;100;194
+755;1996;11;;Marcos;Nicaragua;Americas;No;;;2;;;;;;;;;100;194
+756;1997;1;female;Gretelle;Madagascar;Africa;Yes;880;220;140;;520000;80000;600000;;;;;50000;94913
+757;1997;1;female;Gretelle;Mozambique;Africa;No;;;;;;;;;;;;50;95
+758;1997;2;female;Josie;Madagascar;Africa;No;;130;34;;;;;;;;;;
+759;1997;3;;Gavin;Fiji;Oceania;No;;240;25;;3500;;3500;;;;;27000;51253
+760;1997;3;;Justin;Papua New Guinea;Oceania;No;40;130;32;;;7500;7500;;;;;;
+761;1997;3;female;Hina;Tonga;Oceania;No;251;93;;;;3000;3000;;;;;;
+762;1997;5;;One Bravo (01B);Bangladesh;Asia;Yes;3368;250;111;10000;2042738;1000000;3052738;;;;;;
+763;1997;6;;Andres;El Salvador;Americas;No;;;4;;;2000;2000;;;;;;
+764;1997;8;;Victor;China;Asia;No;;;65;350;425000;;425350;;;;;579700;1100419
+765;1997;8;;Victor;China, Hong Kong Special Administrative Region;Asia;No;;118;1;55;200;;255;;;;;;
+766;1997;8;Female;Winnie;Taiwan (Province of China);Asia;No;;180;44;78;;;78;;;30000;56948;50000;94913
+767;1997;8;Female;Winnie;China;Asia;No;253;180;140;3000;790000;44000;837000;;;15000;28474;2700000;5125291
+768;1997;8;Female;Winnie;Japan;Asia;No;;;3;;;;;;;;;100000;189826
+769;1997;8;Female;Winnie;Philippines;Asia;No;;180;18;5;53654;;53659;;;;;5000;9491
+770;1997;8;Female;Winnie;Democratic People's Republic of Korea;Asia;No;;;;;;;;;;;;10;19
+771;1997;8;;Zita;Thailand;Asia;No;;;46;394;50000;;50394;;;;;39500;74981
+772;1997;8;;Zita;China;Asia;No;;130;7;349;5650000;;5650349;;;;;330000;626424
+773;1997;8;;Zita;Viet Nam;Asia;No;;;;;;;;;;;;5000;9491
+774;1997;5;;Bining;Philippines;Asia;No;;;30;;309111;;309111;;;;;2500;4746
+775;1997;9;;Oliwa;Japan;Asia;No;;125;4;;67000;;67000;;;;;;
+776;1997;9;;2 B;Bangladesh;Asia;No;;150;188;63;750000;;750063;;;;;;
+777;1997;9;;Olaf;Mexico;Americas;No;;140;12;;1000;;1000;;;;;;
+778;1997;10;Female;Pauline;Mexico;Americas;Yes;900;418;230;200;750000;50000;800200;;;;;447800;850039
+779;1997;10;;Ivan;Philippines;Asia;No;;120;1;;4000;;4000;;;;;;
+780;1997;11;;Martin;Cook Islands;Oceania;No;297;130;19;200;700;;900;;;;;;
+781;1997;11;Female;Linda;Cambodia;Asia;No;;;25;;;;;;;;;10;19
+782;1997;10;Female;Linda;Thailand;Asia;No;;;152;;;;;;;;;5000;9491
+783;1997;11;Female;Linda;Viet Nam;Asia;Yes;10473;102;3682;857;697225;383045;1081127;;;5000;9491;470000;892180
+784;1997;11;;Rick;Mexico;Americas;No;;193;;;3555;;3555;;;;;;
+785;1997;12;;Paka;Guam;Oceania;No;;300;;20;1400;5000;6420;;;;;200000;379651
+786;1997;7;Female;Danny;United States of America;Americas;No;;;;;;;;;;62500;118641;;
+787;1997;9;;Fritz;Viet Nam;Asia;No;;;10;50;;;50;;;;;5000;9491
+788;1997;8;;Zita;Malaysia;Asia;No;;11250;2;;2115;;2115;;;;;1000;1898
+789;1998;1;;Ron;Tonga;Oceania;No;198;;;;500;;500;;;;;;
+790;1998;3;;Yali, Zuman;Vanuatu;Oceania;No;175;157;;;2400;;2400;;;;;;
+791;1998;5;;01B;Bangladesh;Asia;No;1551;150;19;504;108440;;108944;;;;;;
+792;1998;6;;03A;India;Asia;Yes;98;145;2871;893;4600000;;4600893;;;217000;405625;469000;876674
+793;1998;8;;Charley;United States of America;Americas;No;;97;7;;545;;545;;;62500;116827;;
+794;1998;8;;Rex;Japan;Asia;No;;126;14;40;40000;;40040;;;;;;
+795;1998;9;female;Isis;Mexico;Americas;No;;153;2;;1660;;1660;;;;;;
+796;1998;9;;Madeline & Lester;Mexico;Americas;No;;;240;;3000;;3000;;;;;;
+797;1998;9;;Georges;Dominican Republic;Americas;Yes;;210;347;595;855000;120000;975595;;;400000;747696;1981500;3703899
+798;1998;9;;Vicky and Todd (Emang and Gading);Philippines;Asia;No;;108;118;22;1749414;;1749436;;;;;87038;162695
+799;1998;9;;Vicky (7) and Waldo (8);Japan;Asia;No;;160;12;258;;;258;;;62100;116080;3000000;5607720
+800;1998;10;;Zeb (Iliang);Philippines;Asia;No;;280;75;63;1344556;;1344619;;;;;50000;93462
+801;1998;10;;Zeb;Taiwan (Province of China);Asia;No;;280;11;;;;;;;;;125000;233655
+802;1998;10;;Zeb;Japan;Asia;No;;280;12;43;;;43;;;;;335500;627130
+803;1998;10;;Babs (Loleng);China;Asia;No;;;5;;;;;;;;;98000;183186
+804;1998;10;;Babs (Loleng);Philippines;Asia;Yes;;235;332;751;3901673;;3902424;;;;;71000;132716
+805;1998;9;female;Stella;Japan;Asia;No;;;2;23;9000;;9023;;;;;;
+806;1998;10;;Mitch;El Salvador;Americas;Yes;;270;475;;84000;;84000;;;;;388100;725452
+807;1998;10;;Mitch;Nicaragua;Americas;Yes;;270;3332;228;868000;;868228;;;;;987700;1846248
+808;1998;10;;Mitch;Honduras;Americas;Yes;;270;14600;12000;2100000;;2112000;;;150000;280386;3793600;7091149
+809;1998;10;;Mitch;Mexico;Americas;No;;;9;;;;;;;;;1000;1869
+810;1998;10;;Mitch;Guatemala;Americas;Yes;;270;384;;105700;;105700;;;;;748000;1398191
+811;1998;11;;07B;Bangladesh;Asia;No;;140;200;;121000;;121000;;;;;;
+812;1998;11;;Chip, Elvis , Dawn;Viet Nam;Asia;Yes;;;283;92;2400000;40000;2440092;;;;;93200;174213
+813;1998;10;;Mitch;Costa Rica;Americas;Yes;;270;8;;15000;1700;16700;;;;;91090;170269
+814;1998;10;;Mitch;Panama;Americas;No;;270;3;;7500;;7500;;;;;50;93
+815;1998;10;;Mitch;Belize;Americas;Yes;;270;9;;60000;;60000;;;;;50;93
+816;1998;9;;Georges;Guadeloupe;Americas;No;;;;;;;;;;;;5000;9346
+817;1998;9;;Georges;Haiti;Americas;Yes;;210;190;29;12000;;12029;;;;;180000;336463
+818;1998;9;;Georges;United States of America;Americas;No;;;4;;4608;519;5127;;;1655000;3093592;3500000;6542340
+819;1998;9;;Georges;United States Virgin Islands;Americas;No;;;;;;;;;;;;100000;186924
+820;1998;9;;Georges;Cuba;Americas;No;;210;6;;147000;;147000;;;10000;18692;2000000;3738480
+821;1998;9;;Georges;Saint Kitts and Nevis;Americas;Yes;;210;5;;10000;;10000;;;;;400000;747696
+822;1998;9;;Georges;Antigua and Barbuda;Americas;Yes;;210;2;25;;2000;2025;;;50000;93462;100000;186924
+823;1998;9;;Georges;Puerto Rico;Americas;No;;;;;;;;;;;;1750000;3271170
+824;1998;12;Female;Faith (Norming);Philippines;Asia;No;270;150;69;30;326490;;326520;;;;;27399;51215
+825;1998;12;Female;Faith & Gil;Viet Nam;Asia;No;;150;43;;81635;3010;84645;;;;;15000;28039
+826;1998;12;Female;Cora;Tonga;Oceania;No;;160;;;3071;;3071;;;;;;
+827;1998;10;;Babs;Taiwan (Province of China);Asia;No;;;2;;400000;;400000;;;;;4000;7477
+828;1998;8;Female;Bonnie;United States of America;Americas;No;;;2;;17000;;17000;;;450500;842093;1500000;2803860
+829;1998;9;Female;Frances;United States of America;Americas;No;;;1;6;;;6;;;110000;205616;500000;934620
+830;1999;1;;Dani;Fiji;Oceania;No;409;;12;;;1772;1772;;;;;3500;6402
+831;1999;2;Female;Rona;Australia;Oceania;No;;170;5;;2000;;2000;;;;;300000;548765
+832;1999;2;;Frank;New Caledonia;Oceania;No;;155;;;;;;;;;;;
+833;1999;3;Female;Davina;Mauritius;Africa;No;;173;;1000;;;1000;;;;;;
+834;1999;3;;Vance;Australia;Oceania;No;;300;1;;2000;672;2672;;;;;200000;365843
+835;1999;5;;O2a;India;Asia;No;;200;451;;40696;;40696;;;;;20000;36584
+836;1999;5;;2-A;Pakistan;Asia;Yes;897;270;231;155;315040;220745;535940;;;;;10936;20004
+837;1999;8;;Bret;United States of America;Americas;No;;200;3;;;;;62500;114326;;;70000;128045
+838;1999;9;female;Wendy;China;Asia;No;;;192;2600;528000;10600;541200;;;;;277900;508339
+839;1999;9;;York;China, Hong Kong Special Administrative Region;Asia;No;;234;2;493;;;493;;;;;;
+840;1999;9;;Bart;Japan;Asia;No;;238;26;438;20000;6900;27338;;;3500000;6402257;5000000;9146081
+841;1999;9;;Floyd;Bahamas;Americas;Yes;;;1;;;;;;;22000;40243;450000;823147
+842;1999;9;;Floyd;United States of America;Americas;No;;200;70;10;3000000;;3000010;;;1960000;3585264;7000000;12804514
+843;1999;9;;Greg;Mexico;Americas;No;;120;9;;2000;2000;4000;;;;;;
+844;1999;9;;York;China;Asia;No;;234;18;500;800;;1300;;;;;64300;117619
+845;1999;10;;Dan (Pepang);Philippines;Asia;No;;;7;22;37200;4711;41933;;;;;1800;3293
+846;1999;10;;Dan;China;Asia;No;;144;30;500;115000;7500;123000;;;;;241600;441939
+847;1999;9;;Bart;Republic of Korea;Asia;No;;;4;;;514;514;;;;;4000;7317
+848;1999;10;female;"Hurricane ""Irene""";Cuba;Americas;No;;120;4;;228067;26923;254990;;;;;;
+849;1999;10;;05B;India;Asia;Yes;;260;9843;3312;12625000;;12628312;;;100000;182922;2500000;4573041
+850;1999;10;female;Irene;United States of America;Americas;No;;120;6;;;;;;;;;100000;182922
+851;1999;10;;Jose;Antigua and Barbuda;Americas;No;;160;1;18;2000;516;2534;;;;;;
+852;1999;11;;Lenny;Antigua and Barbuda;Americas;No;;215;1;;2500;923;3423;;;;;;
+853;1999;11;;Lenny;Saint Kitts and Nevis;Americas;No;;215;;;1080;100;1180;;;;;41400;75730
+854;1999;11;;Lenny;Grenada;Americas;No;;215;;;210;;210;;;;;5500;10061
+855;1999;11;;Lenny;Anguilla;Americas;No;;215;;;150;;150;;;;;50;91
+856;1999;11;;Lenny;Guadeloupe;Americas;No;;215;4;49;400;450;899;;;;;;
+857;1999;11;;Lenny;Martinique;Americas;No;;215;;;400;200;600;;;;;;
+858;1999;10;;05B;Bangladesh;Asia;No;;150;;;;;;;;;;;
+859;1999;11;;Lenny;Saint Lucia;Americas;No;;215;;;;200;200;;;;;;
+860;1999;11;;Lenny;Colombia;Americas;No;;;2;;;;;;;;;500;915
+861;1999;11;;Lenny;Puerto Rico;Americas;No;;;1;;;;;;;60000;109753;150000;274382
+862;1999;11;;Lenny;United States Virgin Islands;Americas;No;;215;3;;;;;;;105000;192068;180000;329259
+863;1999;11;;Lenny;Saint Vincent and the Grenadines;Americas;No;;215;;;100;;100;;;;;;
+864;1999;11;;Lenny;Dominica;Americas;No;;215;;;400;315;715;;;;;;
+865;1999;8;;Dennis;United States of America;Americas;No;;;3;;;;;;;;;62500;114326
+866;1999;8;;Sam;China;Asia;No;;140;5;12;;;12;;;;;18000;32926
+867;2000;1;Female;Connie;Réunion;Africa;No;;153;2;;;600;600;;;;;;
+868;2000;2;;Steve;Australia;Oceania;No;;120;1;;200;;200;;;10000;17695;90000;159252
+869;2000;2;Female;Eline, Gloria;Madagascar;Africa;Yes;8840;;130;;736937;;736937;;;;;9000;15925
+870;2000;2;Female;Eline, Gloria;Mozambique;Africa;No;;;17;;;;;;;;;1000;1769
+871;2000;4;;Hudah;Madagascar;Africa;No;;300;23;1;369271;;369272;;;;;;
+872;2000;4;;Hudah;Mozambique;Africa;No;;;1;4;;300;304;;;;;;
+873;2000;4;Female;Tessi;Australia;Oceania;No;;130;;;400;;400;;;;;60000;106168
+874;2000;5;;Biring;Philippines;Asia;No;;;12;4;235885;;235889;;;;;1201;2125
+875;2000;7;;Kirogi;Philippines;Asia;No;;185;11;;;120000;120000;;;;;7500;13271
+876;2000;7;;Kai-Tak (Edeng);Philippines;Asia;No;29;200;75;11;1483310;;1483321;;;;;25763;45587
+877;2000;7;;Kirogi;Japan;Asia;No;;126;4;;900;;900;;;200000;353893;300000;530839
+878;2000;8;;Bilis;Taiwan (Province of China);Asia;No;;;14;100;;2000;2100;;;3000;5308;135000;238878
+879;2000;8;Female;Kaemi;Viet Nam;Asia;No;;;15;4;;;4;;;;;5000;8847
+880;2000;8;;Bilis;China;Asia;No;;;11;47;;4475;4522;;;;;69443;122877
+881;2000;8;Female;Kaemi;Thailand;Asia;No;;;2;;41219;;41219;;;;;;
+882;2000;8;;Prapiroon (Typhoon n°12);Republic of Korea;Asia;No;;209;25;;;300;300;;;;;11300;19995
+883;2000;8;;Prapiroon;China;Asia;No;;;4;80;;37690;37770;;;;;10;18
+884;2000;9;female;Maria;China;Asia;No;;160;47;;46000;;46000;;;;;169000;299039
+885;2000;8;;"Prapiroon ""12""";Democratic People's Republic of Korea;Asia;No;466;;46;180;480000;147000;627180;;;;;6000000;10616784
+886;2000;9;;Saomai;Japan;Asia;No;;160;9;41;180000;;180041;;;1050000;1857937;1400000;2477250
+887;2000;9;;Saomai;Russian Federation;Europe;No;;;9;;;;;;;;;50;88
+888;2000;9;;Wukong;Viet Nam;Asia;No;;120;5;29;;6000;6029;;;;;21000;37159
+889;2000;9;;Saomai;Republic of Korea;Asia;No;;;8;;;411;411;;;;;71000;125632
+890;2000;9;;Wukong;China;Asia;No;;;6;;2400000;;2400000;;;;;;
+891;2000;9;;Keith;Belize;Americas;Yes;2628;215;14;570;62000;;62570;;;;;277460;490955
+892;2000;9;;Keith;Mexico;Americas;No;;150;23;;30000;;30000;;;;;1000;1769
+893;2000;9;;Keith;Nicaragua;Americas;No;;;1;;2300;;2300;;;;;1000;1769
+894;2000;10;;Keith;El Salvador;Americas;No;;;1;;100;;100;;;;;;
+895;2000;10;female;Leslie;United States of America;Americas;No;;;2;;14418;3015;17433;;;;;219000;387513
+896;2000;10;;Xangsane (Reming);Philippines;Asia;No;;140;154;314;2435942;;2436256;;;1500;2654;17000;30081
+897;2000;11;;Xangsane (Reming);Taiwan (Province of China);Asia;No;;120;89;2;;;2;;;60000;106168;150000;265420
+898;2000;11;;Bebinca (Seniang);Philippines;Asia;No;;120;94;;1747872;;1747872;;;;;31000;54853
+899;2000;11;;03B;India;Asia;No;;120;;;30000;;30000;;;;;;
+900;2000;11;;Rumbia (Toyang);Philippines;Asia;No;;135;48;26;164067;;164093;;;;;1000;1769
+901;2000;12;;04B;Sri Lanka;Asia;Yes;282;150;5;;375000;;375000;;;;;;
+902;2000;12;;Sam;Australia;Oceania;No;;280;;;750;;750;;;;;;
+903;2001;2;;Auring;Philippines;Asia;No;;45;55;84;;100000;100084;;;;;6000;10325
+904;2001;2;Female;Paula;Vanuatu;Oceania;No;;200;1;;;;;;;;;;
+905;2001;4;;Sose;Vanuatu;Oceania;No;;100;1;;505;295;800;;;;;;
+906;2001;3;Female;Paula;Fiji;Oceania;No;;220;1;;;;;;;;;;
+907;2001;6;Female;Allison;United States of America;Americas;No;;;41;;102000;70000;172000;;;3500000;6022907;6000000;10324983
+908;2001;6;;Chebi;China;Asia;No;;;125;;2895000;213000;3108000;;;120000;206500;470000;808790
+909;2001;6;;Chebi;Taiwan (Province of China);Asia;No;;225;9;116;;;116;;;;;5000;8604
+910;2001;7;;Durian;Viet Nam;Asia;No;;;30;3;117450;;117453;;;;;25000;43021
+911;2001;7;;Utor (Feria);Philippines;Asia;No;;140;232;241;1902413;;1902654;;;;;68565;117989
+912;2001;7;;Durian and Utor;China;Asia;No;;169;33;8298;14990000;;14998298;;;20000;34417;2743000;4720238
+913;2001;7;;Utor;Taiwan (Province of China);Asia;No;;140;1;6;;;6;;;;;2000;3442
+914;2001;7;;Toraji;China;Asia;No;;;100;;;;;;;;;40000;68833
+915;2001;7;;Toraji;Taiwan (Province of China);Asia;No;;150;100;;;;;;;20000;34417;240000;412999
+916;2001;7;;Trami;Taiwan (Province of China);Asia;No;;;5;17;;2000;2017;;;;;;
+917;2001;7;;Yutu;China;Asia;No;;150;;;23250;;23250;;;;;85000;146271
+918;2001;8;;Usagi;Viet Nam;Asia;No;;196;3;3;;10000;10003;;;;;3200;5507
+919;2001;8;;Pabuk;Japan;Asia;No;;109;9;40;7000;;7040;;;500000;860415;800000;1376664
+920;2001;7;Female;Dalila;Mexico;Americas;No;;;;;100;;100;;;;;;
+921;2001;9;;Danas;Japan;Asia;No;;126;7;15;1200;;1215;;;300000;516249;500000;860415
+922;2001;9;;Nari;Taiwan (Province of China);Asia;Yes;;;80;200;650000;;650200;;;500000;860415;800000;1376664
+923;2001;10;Female;Iris;Belize;Americas;No;;233;30;;20000;;20000;;;;;250000;430208
+924;2001;9;Female;Juliette;Mexico;Americas;No;;120;3;;3000;800;3800;;;150000;258125;400000;688332
+925;2001;10;Female;Iris;Dominican Republic;Americas;No;;;3;;175;;175;;;;;10;17
+926;2001;10;Female;Iris;Guatemala;Americas;No;;;8;11;6435;;6446;;;;;100;172
+927;2001;10;Female;Iris;Mexico;Americas;No;;;2;;;;;;;;;1000;1721
+928;2001;10;Female;Lorena;Mexico;Americas;No;;;;;;;;;;;;;
+929;2001;10;Female;Michelle;Honduras;Americas;No;;219;21;;61051;25270;86321;;;;;5000;8604
+930;2001;10;Female;Michelle;Cayman Islands;Americas;No;;;;;;;;;;40000;68833;60000;103250
+931;2001;10;Female;Michelle;Haiti;Americas;No;;;;;;;;;;;;20;34
+932;2001;11;female;Michelle;Nicaragua;Americas;No;;110;16;;24866;;24866;;;;;1000;1721
+933;2001;11;female;Hurricane Michelle;Cuba;Americas;No;;250;5;12;5900000;;5900012;;;20000;34417;100000;172083
+934;2001;11;;Lingling (Nanang);Philippines;Asia;Yes;434;215;290;147;1060000;;1060147;;;;;22700;39063
+935;2001;11;female;Michelle;Jamaica;Americas;No;;120;1;;;200;200;;;15000;25812;55487;95484
+936;2001;11;;Lingling (Nanang);Viet Nam;Asia;No;;;20;83;60000;13100;73183;;;;;55000;94646
+937;2001;12;female;Trina;Cook Islands;Oceania;No;24;130;;;744;;744;;;;;;
+938;2001;11;female;Michelle;Bahamas;Americas;No;;;;;;;;;;15000;25812;300000;516249
+939;2001;12;;Waka;Tonga;Oceania;Yes;868;260;;;16500;;16500;;;;;51300;88279
+940;2001;5;;01A;India;Asia;No;;80;;;;;;;;;;;
+941;2001;8;female;Chantal;Mexico;Americas;No;;100;;;2500;;2500;;;;;;
+942;2001;8;female;Chantal;Belize;Americas;No;;100;;;;;;;;;;;
+943;2001;12;;Kajiki (Quedan);Philippines;Asia;No;;;6;8;54832;;54840;;;;;96;165
+944;2001;8;;Fitow;China;Asia;No;;;4;;;;;;;;;213000;366537
+945;2002;1;;Cyprien;Madagascar;Africa;No;;150;2;;1900;;1900;;;;;181;307
+946;2002;1;Female;Dina;Mauritius;Africa;No;10;206;3;50;;1000;1050;;;;;50000;84698
+947;2002;1;Female;Dina;Réunion;Africa;No;;250;;300;;2800;3100;;;;;50000;84698
+948;2002;3;Female;Mitag;Micronesia (Federated States of);Oceania;No;;212;;;;175;175;;;;;;
+949;2002;3;;Hary;Madagascar;Africa;No;;300;1;;;;;;;;;;
+950;2002;5;;Kesiny;Madagascar;Africa;No;205;180;20;1200;520000;5000;526200;;;;;;
+951;2002;7;;Chata'an;Micronesia (Federated States of);Oceania;No;138;112;47;148;1300;;1448;;;;;500;847
+952;2002;7;;Chata'an;Philippines;Asia;No;;170;33;41;700000;;700041;;;;;1000;1694
+953;2002;7;;Nakri;Taiwan (Province of China);Asia;No;;65;7;;;;;;;;;;
+954;2002;7;;Halong (Anday);Philippines;Asia;No;;160;62;;11000;;11000;;;;;5664;9595
+955;2002;7;;Halong;Japan;Asia;No;;108;;9;570;;579;;;;;;
+956;2002;7;;Chata'an;Japan;Asia;No;;;5;18;100000;;100018;;;;;5000;8470
+957;2002;7;;Chata'an;Guam;Oceania;No;;177;;;4044;;4044;;;;;60000;101638
+958;2002;6;Female;Rammasun (Florita);Philippines;Asia;No;;;7;;;3000;3000;;;;;;
+959;2002;8;;Rusa;Republic of Korea;Asia;No;190;204;184;;88625;;88625;;;170000;287974;4200000;7114647
+960;2002;8;;Rusa;Democratic People's Republic of Korea;Asia;No;133;;3;;7401;;7401;;;;;500;847
+961;2002;9;;Hagupit;China;Asia;No;;;25;;180000;;180000;;;;;;
+962;2002;9;Female;Isidore;Cuba;Americas;No;;165;;;42500;;42500;;;1000;1694;23000;38961
+963;2002;9;Female;Isidore;Mexico;Americas;Yes;;180;13;30;500000;;500030;;;280000;474310;640000;1084137
+964;2002;9;Female;Lili;Barbados;Americas;No;;110;;;;2000;2000;;;;;200;339
+965;2002;9;Female;Lili;Cayman Islands;Americas;No;;128;;;300;;300;;;;;1000;1694
+966;2002;9;Female;Lili;Jamaica;Americas;No;;100;4;;1500;;1500;;;;;30;51
+967;2002;10;;Hygos;Russian Federation;Europe;No;;;6;;;;;;;;;;
+968;2002;10;Female;Lili;Cuba;Americas;No;;173;3;;281470;;281470;;;1000;1694;23000;38961
+969;2002;9;Female;Lili;Grenada;Americas;No;;;;;70;5;75;;;;;;
+970;2002;9;;Julio;Mexico;Americas;No;;;;;500;;500;;;;;;
+971;2002;9;Female;Isidore;United States of America;Americas;No;;105;1;;13200;;13200;;;200000;338793;300000;508189
+972;2002;9;Female;Lili;Saint Vincent and the Grenadines;Americas;No;;;4;;;;;;;;;11000;18634
+973;2002;9;Female;Isidore;Cayman Islands;Americas;No;;;;;;;;;;;;500;847
+974;2002;9;Female;Isidore;Jamaica;Americas;No;;;;;;;;;;;;1000;1694
+975;2002;9;Female;Lili;Haiti;Americas;No;;150;4;;250;;250;;;;;;
+976;2002;10;Female;Kenna;Mexico;Americas;No;450;225;3;200;8800;;9000;;;;;200000;338793
+977;2002;10;Female;Lili;United States of America;Americas;No;;;;;;;;;;750000;1270473;2000000;3387927
+978;2002;12;;Pongsona;Guam;Oceania;No;;180;1;;6000;5100;11100;;;;;70000;118577
+979;2002;12;Female;Zoe;Solomon Islands;Oceania;Yes;584;;;10;;1100;1110;;;;;;
+980;2002;12;;Pongsona;Northern Mariana Islands;Oceania;No;;;;;;300;300;;;;;;
+981;2002;9;Female;Isidore;Guatemala;Americas;No;;;2;;1500;;1500;;;;;100;169
+982;2002;9;female;Isidore;Nicaragua;Americas;No;;;2;;300;;300;;;;;1000;1694
+983;2002;9;female;Isidore;El Salvador;Americas;No;;;;;500;;500;;;;;;
+984;2003;1;;Ami;Fiji;Oceania;Yes;2254;150;17;;30000;;30000;;;;;30000;49691
+985;2003;1;;Beni;Solomon Islands;Oceania;No;;110;;;275;;275;;;;;;
+986;2003;1;;Fari;Madagascar;Africa;No;;;;;;500;500;;;;;;
+987;2003;3;;Japhet;Mozambique;Africa;No;;130;11;10;23000;;23010;;;;;;
+988;2003;3;;Japhet;Zimbabwe;Africa;No;;;8;;;;;;;;;;
+989;2003;3;female;Erica;New Caledonia;Oceania;No;300;200;2;100;;1000;1100;;;;;40000;66255
+990;2003;5;;Manou;Madagascar;Africa;Yes;1294;210;89;86;114500;47500;162086;;;;;;
+991;2003;5;;Linfa (Chedeng);Philippines;Asia;No;;;51;16;11345;2548;13909;;;;;4000;6625
+992;2003;6;;Soudelor (Egay);Philippines;Asia;No;;140;13;3;46472;80655;127130;;;;;2455;4066
+993;2003;6;Female;Gina;Solomon Islands;Oceania;No;;111;;;;150;150;;;;;;
+994;2003;7;;Imbudo;China;Asia;No;;;20;20;7400000;;7400020;;;;;100000;165636
+995;2003;7;;Imbudo;China, Hong Kong Special Administrative Region;Asia;No;;;;11;3500;;3511;;;;;;
+996;2003;7;;Imbudo;Philippines;Asia;No;;200;21;;14280;;14280;;;;;26468;43841
+997;2003;8;;Etau;Japan;Asia;No;;145;20;80;2100;;2180;;;47000;77849;55000;91100
+998;2003;8;;Etau;Russian Federation;Europe;No;;;;;;;;;;;;;
+999;2003;7;;Koni;Viet Nam;Asia;No;;90;;18;;5000;5018;;;;;;
+1000;2003;9;;Dujuan;China;Asia;No;;;38;1000;;68925;69925;;;;;241000;399183
+1001;2003;9;;Dujuan;China, Hong Kong Special Administrative Region;Asia;No;;180;4;22;;;22;;;;;;
+1002;2003;9;;Dujuan;Taiwan (Province of China);Asia;No;;155;3;;;;;;;;;;
+1003;2003;9;;Fabian;Bermuda;Americas;No;;240;4;;;;;;;125000;207045;300000;496909
+1004;2003;9;Female;Maemi;Japan;Asia;No;;200;1;93;130;;223;;;;;50000;82818
+1005;2003;9;Female;Maemi;Republic of Korea;Asia;Yes;230;216;130;;65000;15000;80000;;;504000;834807;4500000;7453632
+1006;2003;9;Female;Isabel;Canada;Americas;No;;;;;;;;;;;;;
+1007;2003;9;Female;Isabel;United States of America;Americas;No;;170;16;;225000;;225000;;;1685000;2790971;3370000;5581942
+1008;2003;9;;Marty;Mexico;Americas;No;;166;2;;6000;;6000;;;;;100000;165636
+1009;2003;9;;Juan;Canada;Americas;No;;143;2;;200;;200;;;;;110000;182200
+1010;2003;11;;Lupit;Micronesia (Federated States of);Oceania;No;10;240;;;;1000;1000;;;;;;
+1011;2003;11;;Nepartak;China;Asia;No;;;;;1720000;;1720000;;;;;196938;326201
+1012;2003;12;Female;Odette;Dominican Republic;Americas;No;;;8;;10000;;10000;;;;;;
+1013;2003;12;Female;Odette;Puerto Rico;Americas;No;;;;;;100;100;;;;;;
+1014;2003;12;;Cela;Madagascar;Africa;No;;100;;;141;23;164;;;;;;
+1015;2003;8;;Ignacio;Mexico;Americas;No;;;2;;3000;;3000;;;;;;
+1016;2003;6;;Bill;United States of America;Americas;No;;95;4;4;;;4;;;22000;36440;50000;82818
+1017;2003;7;;Gilas (Koni);Philippines;Asia;No;;;8;1;116601;;116602;;;;;1499;2483
+1018;2003;7;Female;Ineng;Philippines;Asia;No;;;;;3748;;3748;;;;;146;242
+1019;2003;8;;Kabayan;Philippines;Asia;No;;;;;155147;;155147;;;;;661;1095
+1020;2004;1;;Heta;American Samoa;Oceania;No;;310;;60;20000;3000;23060;;;;;150000;241976
+1021;2004;1;;Heta;Niue;Oceania;No;;300;1;2;200;500;702;;;;;40000;64527
+1022;2004;1;;Heta;Tonga;Oceania;No;;;;;;;;;;;;;
+1023;2004;1;;Heta;Samoa;Oceania;No;;310;1;;;;;;;;;;
+1024;2004;1;;Elita;Madagascar;Africa;Yes;428;210;32;100;;44190;44290;;;;;;
+1025;2004;2;Female;Ivy (P13);Vanuatu;Oceania;Yes;123;190;2;8;54000;;54008;;;;;;
+1026;2004;3;;Galifo;Madagascar;Africa;Yes;12266;300;363;879;773000;214260;988139;;;;;250000;403294
+1027;2004;3;Female;Catarina;Brazil;Americas;No;;150;4;60;150000;;150060;;;3000;4840;350000;564611
+1028;2004;4;;Cosme (Sudal/03W);Micronesia (Federated States of);Oceania;No;7494;240;1;8;6000;;6008;;;;;;
+1029;2004;5;;Nida (Dindo/04W);Philippines;Asia;No;;260;31;14;;700;714;;;;;1000;1613
+1030;2004;6;;Chanthu (Gener/08W);Thailand;Asia;No;;;1;;4000;;4000;;;;;;
+1031;2004;6;;Chanthu (Gener/08W);Viet Nam;Asia;No;;65;14;5;900;;905;;;;;7000;11292
+1032;2004;6;female;Dianmu (Helen/09W);Japan;Asia;No;;285;6;56;700;;756;;;;;;
+1033;2004;6;female;Dianmu (Helen/09W);Republic of Korea;Asia;No;;;6;;;522;522;;;;;;
+1034;2004;6;;Mindulle (Igme/10W);Philippines;Asia;No;;230;28;12;385000;;385012;;;;;19667;31726
+1035;2004;6;;Mindulle (Igme/10W);Taiwan (Province of China);Asia;Yes;;;28;6;1165;;1171;;;;;400000;645270
+1036;2004;6;;Tingting;Guam;Oceania;No;;137;1;;300;;300;;;;;;
+1037;2004;6;;Tingting;Northern Mariana Islands;Oceania;No;;;3;;200;;200;;;;;;
+1038;2004;8;female;Rananim (Karen/16W);China;Asia;No;;165;188;4000;8590000;468000;9062000;;;;;2190000;3532851
+1039;2004;8;;Charley;Cuba;Americas;No;120;220;4;5;202500;41500;244005;;;;;1000000;1613174
+1040;2004;8;;Charley;Cayman Islands;Americas;No;;;;;;;;;;;;5000;8066
+1041;2004;8;;Charley;Jamaica;Americas;No;;;1;6;120;;126;;;;;300000;483952
+1042;2004;8;;Charley;United States of America;Americas;No;;230;10;;30000;;30000;;;7600000;12260124;16000000;25810787
+1043;2004;8;;Megi (Lawin/18W);Japan;Asia;No;;126;11;;8502;;8502;;;;;500000;806587
+1044;2004;8;;Megi (Lawin/18W);Republic of Korea;Asia;No;;75;8;;;2400;2400;;;;;1000;1613
+1045;2004;8;;Aere (Marce/20W);China;Asia;No;;140;2;7;;41350;41357;;;;;5000;8066
+1046;2004;8;;Aere (Marce/20W);Japan;Asia;No;;;2;2;;;2;;;;;500;807
+1047;2004;8;;Aere (Marce/20W);Philippines;Asia;No;;;35;;1058849;;1058849;;;;;;
+1048;2004;8;;Aere (Marce/20W);Taiwan (Province of China);Asia;No;;130;32;2;;;2;;;;;5000;8066
+1049;2004;8;Female;Chaba;Guam;Oceania;No;;;;;;;;;;;;1000;1613
+1050;2004;8;Female;Chaba;Japan;Asia;No;;126;14;50;180000;;180050;;;1200000;1935809;2000000;3226348
+1051;2004;8;;Gaston;United States of America;Americas;No;;;7;;;;;;;62500;100823;62500;100823
+1052;2004;9;;Frances;Bahamas;Americas;Yes;;;2;;8000;;8000;;;230000;371030;1000000;1613174
+1053;2004;9;;Frances;Dominican Republic;Americas;No;;;;;250;;250;;;;;;
+1054;2004;8;;Frances;Puerto Rico;Americas;No;;;;;;;;;;;;;
+1055;2004;9;;Frances;Turks and Caicos Islands;Americas;No;;;;;200;;200;;;;;;
+1056;2004;9;;Frances;United States of America;Americas;No;;;47;;5000000;;5000000;;;5000000;8065871;11000000;17744916
+1057;2004;9;Female;Songda (Nina/22W);Japan;Asia;No;;230;41;900;40000;;40900;;;4700000;7581919;9000000;14518568
+1058;2004;9;Female;Songda (Nina/22W);Republic of Korea;Asia;No;;;;;;;;;;;;250000;403294
+1059;2004;9;Female;Songda (Nina/22W);Russian Federation;Europe;No;;;3;;;;;;;;;;
+1060;2004;8;;Ivan;Bahamas;Americas;No;;;1;;;;;;;;;;
+1061;2004;9;;Ivan;Barbados;Americas;No;;220;1;;;880;880;;;;;5000;8066
+1062;2004;9;;Ivan;Cuba;Americas;No;1703;;;;3245;;3245;;;;;200000;322635
+1063;2004;9;;Ivan;Cayman Islands;Americas;No;;240;2;;;;;;;1500000;2419761;3430080;5533317
+1064;2004;9;;Ivan;Dominican Republic;Americas;No;;;4;;;;;;;;;1000;1613
+1065;2004;9;;Ivan;Grenada;Americas;Yes;18254;;39;;60000;;60000;;;;;889000;1434112
+1066;2004;9;;Ivan;Haiti;Americas;No;;;3;;4000;2500;6500;;;;;1000;1613
+1067;2004;9;;Ivan;Jamaica;Americas;Yes;3345;250;15;;350000;;350000;;;200000;322635;595000;959839
+1068;2004;9;;Ivan;Saint Lucia;Americas;No;;;;;;;;;;;;500;807
+1069;2004;9;;Ivan;Trinidad and Tobago;Americas;No;;120;1;;560;;560;;;;;1000;1613
+1070;2004;9;;Ivan;United States of America;Americas;No;;;52;;;;;;;12000000;19358090;18000000;29037135
+1071;2004;9;;Ivan;Saint Vincent and the Grenadines;Americas;No;;;;4;1000;;1004;;;;;5000;8066
+1072;2004;9;;Ivan;Venezuela (Bolivarian Republic of);Americas;No;;220;5;5;1645;80;1730;;;;;;
+1073;2004;9;;Haima;Taiwan (Province of China);Asia;No;;;9;;6000;;6000;;;;;2710;4372
+1074;2004;9;Female;Jeanne;Bahamas;Americas;No;;;9;;1000;;1000;;;;;550000;887246
+1075;2004;9;Female;Jeanne;Dominican Republic;Americas;Yes;79;;11;9;14000;;14009;;;;;296000;477500
+1076;2004;9;Female;Jeanne;Haiti;Americas;Yes;40208;;2754;2620;298926;14048;315594;;;;;50000;80659
+1077;2004;9;Female;Jeanne;Puerto Rico;Americas;No;;130;2;;3500;;3500;;;30000;48395;100000;161317
+1078;2004;9;female;Jeanne;United States of America;Americas;No;;;6;;40000;;40000;;;4900000;7904554;8000000;12905394
+1079;2004;9;female;Jeanne;United States Virgin Islands;Americas;No;;130;;;;;;;;;;;
+1080;2004;9;;Meari (Quinta/25W);Japan;Asia;No;;220;25;89;10000;;10089;;;;;740000;1193749
+1081;2004;10;;Ma-on (Rolly/26W);Japan;Asia;No;;260;11;44;5904;;5948;;;241000;388775;603000;972744
+1082;2004;10;;Tokage (Siony/27W);Japan;Asia;No;;230;89;342;84450;;84792;;;1100000;1774492;2300000;3710301
+1083;2004;10;;Nock-ten (Tonyo/28W);Taiwan (Province of China);Asia;No;;205;7;100;1600;;1700;;;;;;
+1084;2004;11;;Muifa (Unding/29W);Philippines;Asia;No;;215;104;240;838434;;838674;;;;;6000;9679
+1085;2004;11;;Muifa (Unding/29W);Viet Nam;Asia;No;;;56;;500000;;500000;;;;;23000;37103
+1086;2004;11;female;Merbok (Violeta);Philippines;Asia;No;;;29;14;;2000;2014;;;;;;
+1087;2004;11;female;Winnie;Philippines;Asia;Yes;17278;;1619;1023;880000;;881023;;;;;78200;126150
+1088;2004;11;;Nanmadol (Yoyong/30W);Philippines;Asia;No;;240;8;8;70480;;70488;;;;;34000;54848
+1089;2004;12;;Nanmadol (Yoyong/30W);Taiwan (Province of China);Asia;No;;90;3;;;;;;;;;;
+1090;2005;1;;Ernest;Madagascar;Africa;No;;100;78;8;;7977;7985;;;;;;
+1091;2005;2;;Percy;Cook Islands;Oceania;No;;249;;8;600;;608;;;;;;
+1092;2005;2;;Percy;Tokelau;Oceania;No;;249;;1;;25;26;;;;;;
+1093;2005;3;;Roke (Auring/02W);Philippines;Asia;No;;120;18;;11;;11;;;;;;
+1094;2005;2;;Olaf;American Samoa;Oceania;No;;;;;;;;;;;;;
+1095;2005;2;;Olaf;Samoa;Oceania;No;;190;9;;;;;;;;;;
+1096;2005;7;;"Hurricane ""Dennis""";Cuba;Americas;Yes;;235;16;;2500000;;2500000;;;5000;7801;1400000;2184335
+1097;2005;7;;"Hurricane ""Dennis""";Haiti;Americas;Yes;;;40;36;15000;;15036;;;;;50000;78012
+1098;2005;7;;"Hurricane ""Dennis""";Jamaica;Americas;No;;;1;;8000;;8000;;;;;30000;46807
+1099;2005;7;;"Hurricane ""Dennis""";United States of America;Americas;No;;;5;;;;;;;1115000;1739667;2230000;3479333
+1100;2005;7;;Haitang (Feria/05W);China;Asia;No;;260;9;;1000000;13000;1013000;;;85000;132620;1000000;1560239
+1101;2005;7;;Haitang (Feria/05W);Taiwan (Province of China);Asia;No;;220;12;34;1500;;1534;;;25000;39006;100000;156024
+1102;2005;7;Female;Emily;Haiti;Americas;No;;;6;;565;185;750;;;;;;
+1103;2005;7;Female;Emily;Jamaica;Americas;No;;;4;;2296;;2296;;;;;1000;1560
+1104;2005;7;Female;Emily;Mexico;Americas;No;;;2;;;;;;;250000;390060;400000;624096
+1105;2005;7;Female;Emily;Trinidad and Tobago;Americas;No;;;;;;;;;;;;;
+1106;2005;7;Female;Emily;Saint Vincent and the Grenadines;Americas;No;;;;;530;;530;;;;;;
+1107;2005;7;;Matsa (Gorio/09W);China;Asia;No;;165;10;;1240000;;1240000;;;85000;132620;850000;1326203
+1108;2005;8;;Matsa (Gorio/09W);Republic of Korea;Asia;No;;;5;;;;;;;;;500;780
+1109;2005;7;;Matsa (Gorio/09W);Taiwan (Province of China);Asia;No;;;;;;;;;;;;1000;1560
+1110;2005;8;Female;Mawar;Japan;Asia;No;;108;3;4;90;;94;;;;;;
+1111;2005;8;Female;Katrina;United States of America;Americas;No;;280;1833;;500000;;500000;;;60000000;93614347;125000000;195029889
+1112;2005;9;;Talim;China;Asia;No;86;;159;;19624000;;19624000;;;;;1900000;2964454
+1113;2005;9;;Talim;Taiwan (Province of China);Asia;No;;227;3;59;;;59;;;;;38000;59289
+1114;2005;9;;Nabi (Jolina/14W);Japan;Asia;No;;144;32;140;270000;;270140;;;550000;858132;1000000;1560239
+1115;2005;9;;Nabi (Jolina/14W);Republic of Korea;Asia;No;;;5;;1100;;1100;;;;;5000;7801
+1116;2005;9;;Khanun (15);China;Asia;No;;;25;8;1350000;;1350008;;;78000;121699;1750000;2730418
+1117;2005;6;;Bret;Mexico;Americas;No;;65;2;;15000;;15000;;;;;10000;15602
+1118;2005;9;;Vicente;Viet Nam;Asia;No;;;8;;8500;;8500;;;;;20000;31205
+1119;2005;9;;Damrey;China;Asia;No;;198;25;;5719000;;5719000;;;;;1040000;1622649
+1120;2005;9;;Damrey;Philippines;Asia;No;;95;16;;20000;;20000;;;;;2000;3120
+1121;2005;9;;Damrey;Thailand;Asia;No;;;10;;2000;;2000;;;;;20000;31205
+1122;2005;9;;Damrey;Viet Nam;Asia;Yes;717;133;75;28;337632;;337660;;;;;219250;342082
+1123;2005;9;Female;Rita;United States of America;Americas;No;;280;10;;300000;;300000;;;11300000;17630702;16000000;24963826
+1124;2005;10;;Longwang;China;Asia;No;;;95;;2460000;;2460000;;;;;150000;234036
+1125;2005;10;;Longwang;Taiwan (Province of China);Asia;No;;;2;46;;;46;;;50000;78012;100000;156024
+1126;2005;10;;Stan;Costa Rica;Americas;No;;;1;;1074;;1074;;;;;20000;31205
+1127;2005;10;;Stan;Guatemala;Americas;Yes;25257;;1513;386;474928;;475314;;;;;988300;1541984
+1128;2005;9;;Stan;Honduras;Americas;No;;;6;;2869;;2869;;;;;100000;156024
+1129;2005;10;;Stan;Haiti;Americas;No;;;1;;10000;;10000;;;;;;
+1130;2005;10;;Stan;Mexico;Americas;No;;130;36;;1954571;;1954571;;;;;2500000;3900598
+1131;2005;10;;Stan;Nicaragua;Americas;No;;;3;;7880;;7880;;;;;;
+1132;2005;10;;Stan;El Salvador;Americas;No;;;69;;72141;;72141;;;;;355700;554977
+1133;2005;10;female;"Hurricane ""Wilma""";Bahamas;Americas;Yes;;;1;;1500;;1500;;;;;;
+1134;2005;10;female;"Hurricane ""Wilma""";Belize;Americas;No;;;;;;;;;;;;;
+1135;2005;10;female;"Hurricane ""Wilma""";Cuba;Americas;Yes;;;4;;100000;;100000;;;;;700000;1092167
+1136;2005;10;female;"Hurricane ""Wilma""";Honduras;Americas;No;;;;;;;;;;;;;
+1137;2005;10;female;"Hurricane ""Wilma""";Haiti;Americas;No;;;12;;;;;;;;;500;780
+1138;2005;10;Female;"Hurricane ""Wilma""";Jamaica;Americas;No;;;1;;100;;100;;;;;3500;5461
+1139;2005;10;Female;"Hurricane ""Wilma""";Mexico;Americas;Yes;;;7;;700000;300000;1000000;;;1800000;2808430;5000000;7801196
+1140;2005;10;Female;"Hurricane ""Wilma""";United States of America;Americas;No;;165;4;;30000;;30000;;;10350000;16148475;14300000;22311419
+1141;2005;10;;Alpha;Dominican Republic;Americas;No;;;9;;1000;;1000;;;;;;
+1142;2005;10;;Alpha;Haiti;Americas;No;;;12;17;2175;;2192;;;;;;
+1143;2005;11;;Kai Tak (21);Viet Nam;Asia;No;;;20;;15000;;15000;;;;;11000;17163
+1144;2005;10;;Beta;Colombia;Americas;No;;175;;;3074;;3074;;;;;;
+1145;2005;10;;Beta;Honduras;Americas;No;;;;;11000;;11000;;;;;;
+1146;2005;10;;Beta;Nicaragua;Americas;No;37;;4;;;5763;5763;;;;;;
+1147;2005;11;;Gamma;Belize;Americas;No;;;3;;;;;;;;;;
+1148;2005;11;;Gamma;Honduras;Americas;Yes;507;75;47;;90000;;90000;;;;;15500;24184
+1149;2005;5;;Adrian;El Salvador;Americas;No;;;;;;;;;;;;;
+1150;2006;1;Female;Clare;Australia;Oceania;No;;;;;1500;;1500;;;;;2354;3558
+1151;2006;1;;Jim;Fiji;Oceania;No;;;;;168;;168;;;;;;
+1152;2006;2;;Boloetse;Madagascar;Africa;No;;160;3;;6112;100;6212;;;;;;
+1153;2006;3;;Larry;Australia;Oceania;No;;290;;30;;7000;7030;;;335000;506346;1180000;1783546
+1154;2006;3;Female;Glenda;Australia;Oceania;No;;235;;;500;;500;;;;;;
+1155;2006;4;;Mala;Myanmar;Asia;No;;240;34;31;60075;;60106;;;;;;
+1156;2006;5;;Chanchu (Caloy);China;Asia;No;;;23;;3150000;;3150000;;;;;475000;717953
+1157;2006;5;;Chanchu (Caloy);Philippines;Asia;No;;185;41;;42000;;42000;;;;;3328;5030
+1158;2006;5;;Chanchu (Caloy);Viet Nam;Asia;No;;;204;;600000;;600000;;;;;;
+1159;2006;6;;Alberto;Cuba;Americas;No;;75;;8;260;;268;;;;;;
+1160;2006;7;;Bilis;China;Asia;No;;;820;;29622000;;29622000;;;;;3325000;5025670
+1161;2006;7;;Bilis;Philippines;Asia;No;;120;37;;51680;;51680;;;;;3000;4534
+1162;2006;7;;Bilis;Taiwan (Province of China);Asia;No;;;3;;;;;;;;;;
+1163;2006;7;;Bilis;Viet Nam;Asia;No;;;17;;;2000;2000;;;;;;
+1164;2006;7;Female;Kaemi;China;Asia;No;;;109;;6531000;;6531000;;;;;367000;554713
+1165;2006;7;Female;Kaemi;Philippines;Asia;No;;;4;;200355;;200355;;;;;471;712
+1166;2006;7;Female;Kaemi;Taiwan (Province of China);Asia;No;;;;;800;;800;;;;;;
+1167;2006;8;;Prapiroon;China;Asia;No;;;89;;10000000;;10000000;;;;;900000;1360332
+1168;2006;8;;Prapiroon;Philippines;Asia;No;;;6;;15000;;15000;;;;;135000;204050
+1169;2006;6;;Henry;Philippines;Asia;No;;;8;;476027;;476027;;;;;645;975
+1170;2006;8;;Saomai;China;Asia;No;;216;441;1350;5920000;2000;5923350;;;;;2510000;3793814
+1171;2006;8;;Ernesto;Haiti;Americas;No;;;5;;15000;;15000;;;;;;
+1172;2006;8;;Ernesto;United States of America;Americas;No;;119;6;;140;;140;;;;;32860;49667
+1173;2006;9;;John;Mexico;Americas;No;;215;7;;10000;;10000;;;;;;
+1174;2006;9;female;Shanshan (13);Japan;Asia;No;;;10;448;12000;;12448;;;1020000;1541709;2500000;3778699
+1175;2006;9;female;Lane;Mexico;Americas;No;;250;4;;240700;;240700;;;;;2700;4081
+1176;2006;10;;Xangsane (Milenyo);China;Asia;No;;;1;12;;;12;;;;;;
+1177;2006;9;;Xangsane (Milenyo);Philippines;Asia;No;;160;228;406;3842000;;3842406;;;;;113000;170797
+1178;2006;9;;Xangsane (Milenyo);Viet Nam;Asia;No;;148;71;525;1368720;98680;1467925;;;;;624000;943163
+1179;2006;10;;Cimaron (Paeng);Philippines;Asia;No;;230;34;58;282963;;283021;;;;;9077;13720
+1180;2006;10;;Paul;Mexico;Americas;No;;;4;;20000;;20000;;;;;;
+1181;2006;11;female;Queenie (Chebi);Philippines;Asia;No;;130;6;10;21250;;21260;;;;;;
+1182;2006;11;;Durian (Reming);Philippines;Asia;Yes;14414;195;1399;2143;2560374;;2562517;;;;;66400;100362
+1183;2006;11;;Durian (Reming);Viet Nam;Asia;No;467;;95;1360;975000;250000;1226360;;;;;456000;689235
+1184;2006;12;;Utor (Seniang);Philippines;Asia;No;;150;42;42;327500;;327542;;;;;;
+1185;2006;12;;Bondo;Madagascar;Africa;No;;150;1;;;304;304;;;;;;
+1186;2007;1;;Clovis;Madagascar;Africa;No;;90;1;;7313;;7313;;;;;;
+1187;2007;2;;Favio;Mozambique;Africa;No;;180;10;70;162700;;162770;;;;;;
+1188;2007;2;;Favio;Zimbabwe;Africa;No;;;;;;;;;;;;1200;1763
+1189;2007;2;;Gamède;Mauritius;Africa;No;;;2;;;;;;;;;;
+1190;2007;2;;Gamède;Réunion;Africa;No;;205;2;90;;;90;;;;;;
+1191;2007;3;;Indlala;Madagascar;Africa;Yes;18703;230;80;16;203182;12000;215198;;;;;240000;352694
+1192;2007;3;Female;Becky;New Zealand;Oceania;No;;;;;300;;300;;;;;;
+1193;2007;4;;Jaya;Madagascar;Africa;No;;;3;;;;;;;;;;
+1194;2007;4;;Cliff;Fiji;Oceania;No;;120;1;;;;;;;;;;
+1195;2007;6;;Cyclone 'Gonu';Iran (Islamic Republic of);Asia;No;;220;12;9;185000;;185009;;;;;;
+1196;2007;6;;Cyclone 'Gonu';Oman;Asia;Yes;731;260;76;;20000;;20000;;;650000;955213;3900000;5731276
+1197;2007;6;;Cyclone 'Yemyin';Pakistan;Asia;No;35048;;242;;1650000;;1650000;;;;;1620000;2380684
+1198;2007;7;;Man-Yi;Japan;Asia;No;;250;5;12;40000;;40012;;;67000;98460;60000;88173
+1199;2007;8;;Chedeng and Dodong;Philippines;Asia;No;;;7;7;921455;;921462;;;;;492;723
+1200;2007;8;Female;Erin;United States of America;Americas;No;;132;7;;;;;;;;;;
+1201;2007;8;;Dean;Belize;Americas;Yes;;;;;20000;;20000;;;;;14847;21819
+1202;2007;8;;Dean;Cuba;Americas;No;;240;;;;;;;;;;;
+1203;2007;8;;Dean;Dominica;Americas;Yes;;;2;30;7500;;7530;;;10000;14696;20000;29391
+1204;2007;8;;Dean;Dominican Republic;Americas;No;;;1;;1600;;1600;;;30000;44087;40000;58782
+1205;2007;8;;Dean;Guadeloupe;Americas;No;;160;;;;;;;;125000;183695;300000;440867
+1206;2007;8;;Dean;Haiti;Americas;No;;;9;6;3960;;3966;;;;;;
+1207;2007;8;;Dean;Jamaica;Americas;Yes;;;4;;32000;1188;33188;;;150000;220434;300000;440867
+1208;2007;8;;Dean;Saint Lucia;Americas;Yes;;;1;;;;;;;20000;29391;40000;58782
+1209;2007;8;;Dean;Mexico;Americas;Yes;;265;9;;140000;;140000;;;475000;698040;600000;881735
+1210;2007;8;;Dean;Martinique;Americas;No;;160;1;6;;;6;;;125000;183695;300000;440867
+1211;2007;8;;Sepat;China;Asia;No;;;39;;8000000;;8000000;;;;;890555;1308722
+1212;2007;8;;Sepat;Philippines;Asia;No;;;3;;380000;;380000;;;;;492;723
+1213;2007;8;;Sepat;Taiwan (Province of China);Asia;No;;;;12;;1800;1812;;;;;25000;36739
+1214;2007;9;;Felix;Guatemala;Americas;No;;;;;3905;;3905;;;;;;
+1215;2007;9;;Felix;Honduras;Americas;No;;;1;;19500;;19500;;;;;6579;9668
+1216;2007;9;;Felix;Mexico;Americas;No;;;;;;30000;30000;;;;;;
+1217;2007;9;;Felix;Nicaragua;Americas;Yes;;;177;;188726;;188726;;;;;;
+1218;2007;9;;Felix;El Salvador;Americas;No;;;;;2800;;2800;;;;;;
+1219;2007;9;;Wipha/Goring;China;Asia;No;;;9;;;;;;;;;638000;937578
+1220;2007;9;;Wipha/Goring;Japan;Asia;No;;;4;;;;;;;;;;
+1221;2007;9;;Wipha/Goring;Philippines;Asia;No;;;2;;30000;;30000;;;;;;
+1222;2007;9;;Wipha/Goring;Democratic People's Republic of Korea;Asia;No;;;;;;1649;1649;;;;;;
+1223;2007;9;female;Lekima (Hanna);Philippines;Asia;No;;;8;;2000;;2000;;;;;;
+1224;2007;9;female;Lekima (Hanna);Viet Nam;Asia;Yes;;117;96;150;637755;47525;685430;;;;;191000;280686
+1225;2007;9;;Lorenzo;Mexico;Americas;No;;;5;;33000;;33000;;;;;;
+1226;2007;9;female;Nari (11);Republic of Korea;Asia;No;;;20;2;;600;602;;;;;70000;102869
+1227;2007;8;;Fitow (9);Japan;Asia;No;;140;4;82;900;;982;;;700000;1028691;1000000;1469558
+1228;2007;10;;Noel;Bahamas;Americas;No;;;1;;7000;;7000;;;;;;
+1229;2007;10;;Noel;Cuba;Americas;Yes;;;1;;192488;;192488;;;;;500000;734779
+1230;2007;10;;Noel;Dominican Republic;Americas;Yes;;;129;;79728;;79728;;;;;77700;114185
+1231;2007;10;;Noel;Haiti;Americas;Yes;;;90;133;108630;;108763;;;;;;
+1232;2007;10;;Noel;Jamaica;Americas;No;;;1;;;;;;;;;;
+1233;2007;10;;Krosa;China;Asia;No;;240;;;;;;;;;;1077788;1583872
+1234;2007;10;;Krosa;Taiwan (Province of China);Asia;No;;;18;67;1000;;1067;;;;;35000;51435
+1235;2007;11;;Cyclone 'Sidr';Bangladesh;Asia;Yes;215214;250;4234;55282;8923259;;8978541;;;;;2300000;3379983
+1236;2007;11;;Cyclone 'Sidr';India;Asia;No;;;;;;;;;;;;;
+1237;2007;11;;Cyclone 'Guba';Papua New Guinea;Oceania;Yes;1302;;172;;162140;;162140;183000;268929;;;;
+1238;2007;11;;Kabayan (Peipah);Philippines;Asia;No;;;8;;33884;;33884;;;;;2971;4366
+1239;2007;11;;Mitag (Mina) (23);Philippines;Asia;No;;170;29;6;443109;;443115;;;;;5000;7348
+1240;2007;11;;Hagibis (Lando) (24);Philippines;Asia;No;;129;20;11;35322;;35333;;;;;1000;1470
+1241;2007;3;;George and Jacob;Australia;Oceania;No;;275;2;;730;90;820;;;;;100000;146956
+1242;2007;12;Female;Olga;Dominican Republic;Americas;No;;;33;;61605;;61605;;;;;45000;66130
+1243;2007;12;Female;Olga;Haiti;Americas;No;;;3;2;2090;260;2352;;;;;;
+1244;2007;12;Female;Olga;Puerto Rico;Americas;No;;;1;;;;;;;;;;
+1245;2007;12;;Daman;Fiji;Oceania;No;;250;;;69;;69;;;;;652;958
+1246;2007;9;;Goring;Philippines;Asia;No;;;1;;64000;;64000;;;;;;
+1247;2007;9;Female;Henriette;Mexico;Americas;No;;;6;;;;;;;;;;
+1248;2008;1;;"Cyclone ""Fame""";Madagascar;Africa;No;;130;12;;5457;3156;8613;;;;;;
+1249;2008;1;Female;"Cyclone ""Gene""";Fiji;Oceania;No;;177;7;;;;;;;;;30000;42457
+1250;2008;2;;"Cyclone ""Ivan""";Madagascar;Africa;Yes;28487;230;93;580;332391;191182;524153;;;;;60000;84914
+1251;2008;3;;"Cyclone ""Jokwe""";Madagascar;Africa;No;;;;;400;;400;;;;;;
+1252;2008;3;;"Cyclone ""Jokwe""";Mozambique;Africa;No;8166;;9;13;165000;55000;220013;;;;;20000;28305
+1253;2008;4;;"Typhoon ""Neoguri"" (Ambo)";China;Asia;No;;175;25;;274000;;274000;;;;;49000;69346
+1254;2008;4;;"Typhoon ""Neoguri"" (Ambo)";Philippines;Asia;No;;175;1;;;;;;;;;16000;22644
+1255;2008;4;female;Cyclone 'Nargis';Sri Lanka;Asia;No;;;9;;50000;;50000;;;;;;
+1256;2008;5;female;Cyclone 'Nargis';Myanmar;Asia;Yes;607329;215;138366;20000;2400000;;2420000;;;;;4000000;5660904
+1257;2008;5;female;Cyclone 'Nargis';Thailand;Asia;No;;;;;;1000;1000;;;;;;
+1258;2008;5;;Halong (Cosme);Philippines;Asia;No;;95;64;33;1496635;;1496668;;;;;99174;140354
+1259;2008;5;;Tropical cyclone 'Arthur';Belize;Americas;Yes;362;;7;;10000;;10000;;;;;;
+1260;2008;5;female;Alma;Costa Rica;Americas;No;;;4;;55000;;55000;;;;;;
+1261;2008;5;female;Alma;Honduras;Americas;No;;;;;;;;;;;;;
+1262;2008;5;female;Alma;Nicaragua;Americas;Yes;;;13;;25000;;25000;;;;;;
+1263;2008;6;;Typhoon Fengshen (Franck);China;Asia;No;;;14;;340000;;340000;;;;;175000;247665
+1264;2008;6;;Typhoon Fengshen (Franck);Philippines;Asia;Yes;4636;170;644;826;4784634;;4785460;;;45000;63685;284694;402906
+1265;2008;7;;"Tropical Storm ""Fung-Wong"" (Igme)";China;Asia;No;;155;1;6;93000;;93006;;;;;73000;103312
+1266;2008;7;;"Tropical Storm ""Fung-Wong"" (Igme)";Philippines;Asia;No;;;10;2;22079;;22081;;;;;40;57
+1267;2008;7;;"Tropical Storm ""Fung-Wong"" (Igme)";Taiwan (Province of China);Asia;No;;;2;;;;;;;;;10000;14152
+1268;2008;7;;"Tropical storm ""Kalmaegi""";Taiwan (Province of China);Asia;No;;138;26;8;;;8;;;10000;14152;16000;22644
+1269;2008;7;female;Hurricane Dolly;Guatemala;Americas;No;;;17;;;;;;;;;;
+1270;2008;7;female;Hurricane Dolly;Mexico;Americas;No;;160;2;;500000;;500000;;;;;75000;106142
+1271;2008;7;female;Hurricane Dolly;United States of America;Americas;No;;160;;;;;;;;600000;849136;1200000;1698271
+1272;2008;8;;"Tropical storm ""Kammuri"" (Julian)";China;Asia;No;;;;;42000;;42000;;;;;80000;113218
+1273;2008;8;;"Tropical storm ""Kammuri"" (Julian)";China, Hong Kong Special Administrative Region;Asia;No;;;;37;;;37;;;;;;
+1274;2008;8;;"Tropical storm ""Kammuri"" (Julian)";Philippines;Asia;No;;;2;;4498;;4498;;;;;;
+1275;2008;8;;"Tropical storm ""Kammuri"" (Julian)";Thailand;Asia;No;;;;;;;;;;;;;
+1276;2008;8;;"Tropical storm ""Kammuri"" (Julian)";Viet Nam;Asia;No;;;162;90;52630;4910;57630;;;;;120000;169827
+1277;2008;8;Female;"Tropical Storm ""Fay""";Cuba;Americas;No;;85;;;;;;;;;;;
+1278;2008;8;Female;"Tropical Storm ""Fay""";Dominican Republic;Americas;No;;;4;;;;;;;;;;
+1279;2008;8;Female;"Tropical Storm ""Fay""";Haiti;Americas;No;;;10;;190;30;220;;;;;;
+1280;2008;8;Female;"Tropical Storm ""Fay""";Jamaica;Americas;No;;;1;;;;;;;;;;
+1281;2008;8;Female;"Tropical Storm ""Fay""";United States of America;Americas;No;;100;12;;400;;400;;;;;180000;254741
+1282;2008;8;;"Hurricane ""Gustav""";Bahamas;Americas;No;;;;;;;;;;;;;
+1283;2008;8;;"Hurricane ""Gustav""";Cuba;Americas;Yes;;240;;19;450000;;450019;;;;;2072000;2932348
+1284;2008;8;;"Hurricane ""Gustav""";Cayman Islands;Americas;No;;;;;;;;;;;;;
+1285;2008;8;;"Hurricane ""Gustav""";Dominican Republic;Americas;No;;;8;2;6255;;6257;;;;;;
+1286;2008;8;;"Hurricane ""Gustav""";Haiti;Americas;No;;;85;36;72970;;73006;;;;;;
+1287;2008;8;;"Hurricane ""Gustav""";Jamaica;Americas;Yes;;;12;;4000;;4000;;;;;66198;93685
+1288;2008;8;;"Hurricane ""Gustav""";Turks and Caicos Islands;Americas;No;;;4;;;;;;;;;;
+1289;2008;9;;"Hurricane ""Gustav""";United States of America;Americas;No;;;43;;2100000;;2100000;;;3500000;4953291;7000000;9906582
+1290;2008;8;;"Tropical storm ""Nuri"" (Karen)";China;Asia;No;;;4;;900000;;900000;;;;;58000;82083
+1291;2008;9;;"Tropical storm ""Nuri"" (Karen)";China, Hong Kong Special Administrative Region;Asia;No;;;2;112;;;112;;;;;380;538
+1292;2008;8;;"Tropical storm ""Nuri"" (Karen)";Philippines;Asia;No;;150;38;13;429450;;429463;;;;;33870;47934
+1293;2008;9;Female;Hurricane 'Hanna';Dominican Republic;Americas;No;;110;1;;10745;;10745;;;;;;
+1294;2008;9;Female;Hurricane 'Hanna';Haiti;Americas;No;128898;;529;;48000;;48000;;;;;;
+1295;2008;9;Female;Hurricane 'Hanna';Turks and Caicos Islands;Americas;No;;;;;750;;750;;;;;;
+1296;2008;8;Female;Hurricane 'Hanna';United States of America;Americas;No;;;7;;;;;;;;;160000;226436
+1297;2008;9;;Hurricane Ike;Bahamas;Americas;No;;215;;;3000;;3000;;;;;;
+1298;2008;9;;Hurricane Ike;Cuba;Americas;No;;;7;;;;;;;;;1500000;2122839
+1299;2008;9;;Hurricane Ike;Haiti;Americas;No;;;74;50;125000;;125050;;;;;;
+1300;2008;9;;Hurricane Ike;Turks and Caicos Islands;Americas;No;;;;;750;;750;;;;;500000;707613
+1301;2008;9;;Hurricane Ike;United States of America;Americas;No;;200;82;;200000;;200000;;;15000000;21228391;30000000;42456782
+1302;2008;9;female;"Typhoon ""Hagupit"" (Nina)";China;Asia;No;;;12;;;;;;;;;824000;1166146
+1303;2008;9;female;"Typhoon ""Hagupit"" (Nina)";China, Hong Kong Special Administrative Region;Asia;No;;;;58;;;58;;;;;;
+1304;2008;9;female;"Typhoon ""Hagupit"" (Nina)";Philippines;Asia;No;;;37;17;41630;4485;46132;;;;;7420;10501
+1305;2008;9;female;"Typhoon ""Hagupit"" (Nina)";Taiwan (Province of China);Asia;No;;;1;;;;;;;;;;
+1306;2008;9;female;"Typhoon ""Hagupit"" (Nina)";Viet Nam;Asia;No;;;46;61;51755;6695;58511;;;;;63000;89159
+1307;2008;9;female;"Typhoon ""Mekkhala""";Viet Nam;Asia;No;;102;18;;30860;820;31680;;;;;6500;9199
+1308;2008;9;female;"Typhoon ""Jangmi"" (Ofel)";China;Asia;No;;;;;;;;;;;;;
+1309;2008;9;female;"Typhoon ""Jangmi"" (Ofel)";Taiwan (Province of China);Asia;No;;227;3;60;;;60;;;65000;91990;90000;127370
+1310;2008;9;;"Typhoon ""Sinlaku""";Taiwan (Province of China);Asia;No;;;22;20;;;20;;;;;26400;37362
+1311;2008;11;female;Hurricane Paloma;Cuba;Americas;No;;230;;;49445;;49445;;;;;;
+1312;2008;11;female;Hurricane Paloma;Cayman Islands;Americas;No;;220;;;;;;;;;;;
+1313;2008;11;;"Tropical Storm ""Maysak"" (Quinta-Sony)";Philippines;Asia;No;;;19;14;300;160;474;;;;;;
+1314;2008;11;;"Tropical Storm ""Maysak"" (Quinta-Sony)";Viet Nam;Asia;No;;;11;;;;;;;;;;
+1315;2008;11;;"Tropical storm ""Noul""";Viet Nam;Asia;No;;;17;8;8585;235;8828;;;;;1000;1415
+1316;2008;10;;"Hurricane ""Omar""";Antigua and Barbuda;Americas;No;;;;;25800;;25800;;;;;;
+1317;2008;10;;"Hurricane ""Omar""";Saint Kitts and Nevis;Americas;No;;;;;;;;;;;;;
+1318;2008;5;;"TYphoon ""Rammasun"" (Butchoy)";Philippines;Asia;No;;;1;40;8350;;8390;;;;;280;396
+1319;2008;7;female;"Typhoon ""Helen""";Philippines;Asia;No;;;2;1;31129;;31130;;;;;147;208
+1320;2008;9;;"TRopical storm ""Higos"" (Pablo)";Philippines;Asia;No;;;1;;27683;;27683;;;;;;
+1321;2008;10;female;"Cyclone ""Reshmi""";Bangladesh;Asia;No;;80;15;200;;;200;;;;;;
+1322;2009;1;;Cyclones Eric and Fanele;Madagascar;Africa;Yes;945;210;12;;58493;4012;62505;;;;;;
+1323;2009;1;;"Tropical storm ""Dominic""";Australia;Oceania;No;;;;;400;;400;;;;;;
+1324;2009;3;Female;"Tropical storm ""Izilda""";Madagascar;Africa;No;;140;;;3376;;3376;;;;;;
+1325;2009;3;Female;"Tropical storm ""Izilda""";Mozambique;Africa;No;;130;;3;600;6500;7103;;;;;3000;4261
+1326;2009;4;Female;"Tropical storm ""Jade""";Madagascar;Africa;No;;160;15;10;60818;4090;64918;;;;;5000;7101
+1327;2009;4;Female;"Cyclone ""Bijli""";Bangladesh;Asia;No;;100;7;84;19125;;19209;;;;;;
+1328;2009;5;;"Typhoon ""Emong"" (Chanom)";Philippines;Asia;No;;139;77;53;400954;;401007;;;;;30342;43094
+1329;2009;4;;"Typhhon ""Dante"" (Kujira)";Philippines;Asia;No;;148;29;8;383457;;383465;;;;;25810;36657
+1330;2009;5;;"Cyclone ""Aila""";Bangladesh;Asia;Yes;14239;90;190;7103;3928238;;3935341;;;;;270000;383474
+1331;2009;5;;"Cyclone ""Aila""";Bhutan;Asia;No;;;12;;;;;;;;;;
+1332;2009;5;;"Cyclone ""Aila""";India;Asia;No;;110;96;;5100000;;5100000;;;;;;
+1333;2009;7;;"Topical Storm ""Feria"" (Nangka)";Philippines;Asia;No;;83;16;5;110400;;110405;;;;;4281;6080
+1334;2009;7;;"Tropical Storm ""Isang"" (Molave)";Philippines;Asia;No;;;5;1;248057;;248058;;;;;;
+1335;2009;8;;"Typhoon ""Etau""";Japan;Asia;No;;;12;;2000;;2000;;;;;;
+1336;2009;8;;Typhoon Morakot (Kiko);China;Asia;No;;83;8;4;11000000;;11000004;;;;;1415594;2010534
+1337;2009;8;;Typhoon Morakot (Kiko);Philippines;Asia;No;;;26;18;94211;;94229;;;;;25000;35507
+1338;2009;8;;Typhoon Morakot (Kiko);Taiwan (Province of China);Asia;Yes;3711;148;630;46;2307477;;2307523;;;;;250000;355069
+1339;2009;8;;Hurricane Bill;Canada;Americas;No;;;;3;;;3;;;;;;
+1340;2009;8;;Hurricane Bill;United States of America;Americas;No;;;3;9;;;9;;;;;;
+1341;2009;9;;Tropical storm Labuyo (Dujuan);Philippines;Asia;No;;;1;;95700;;95700;;;;;;
+1342;2009;9;;Tropical depression Maring;Philippines;Asia;No;;;15;;388373;;388373;;;;;6303;8952
+1343;2009;9;;Tropical Depression Nando;Philippines;Asia;No;;;3;3;48330;;48333;;;;;;
+1344;2009;9;Female;Hurricane Jimena;Mexico;Americas;Yes;;206;4;;72000;;72000;;;;;40000;56811
+1345;2009;9;;"Typhoon ""Koppu""";China;Asia;No;;126;13;58;1000000;;1000058;;;;;295001;418983
+1346;2009;9;;"Typhoon ""Koppu""";China, Hong Kong Special Administrative Region;Asia;No;;120;;50;300;;350;;;;;;
+1347;2009;9;;"Tropical storm ""Ondoy"" (Ketsana)";Cambodia;Asia;No;;;17;91;178000;;178091;;;;;;
+1348;2009;9;;"Tropical storm ""Ondoy"" (Ketsana)";Lao People's Democratic Republic;Asia;Yes;12769;;16;91;128796;;128887;;;;;100000;142028
+1349;2009;9;;"Tropical storm ""Ondoy"" (Ketsana)";Philippines;Asia;Yes;105548;;501;529;4901234;;4901763;;;;;237489;337300
+1350;2009;9;;"Tropical storm ""Ondoy"" (Ketsana)";Viet Nam;Asia;Yes;;170;182;860;2367820;108635;2477315;;;;;785000;1114916
+1351;2009;10;;"Typhoon ""Pepeng"" (Parma)";China;Asia;No;;;3;;;;;;;;;35000;49710
+1352;2009;9;;"Typhoon ""Pepeng"" (Parma)";Philippines;Asia;No;646;145;512;207;4478284;;4478491;;;;;585379;831400
+1353;2009;10;;"Typhoon ""Pepeng"" (Parma)";Viet Nam;Asia;No;;;;;;;;;;;;200;284
+1354;2009;10;;"TYphoon ""Melor""";Japan;Asia;No;;220;4;119;5000;;5119;;;625000;887672;1000000;1420276
+1355;2009;11;female;"Hurricane ""Ida""";Mexico;Americas;No;;;;;40000;;40000;;;;;;
+1356;2009;11;female;"Hurricane ""Ida""";Nicaragua;Americas;No;;140;;;19897;;19897;;;;;;
+1357;2009;11;female;"Hurricane ""Ida""";El Salvador;Americas;Yes;16597;;275;;75000;15000;90000;;;;;939000;1333639
+1358;2009;11;female;"Hurricane ""Ida""";United States of America;Americas;No;;;6;;;;;;;;;600000;852165
+1359;2009;11;;"Tropical storm ""Mirinae"" (Santi)";Cambodia;Asia;No;;;2;;;;;;;;;;
+1360;2009;10;;"Tropical storm ""Mirinae"" (Santi)";Philippines;Asia;No;;140;39;20;802155;;802175;;;;;15194;21580
+1361;2009;11;;"Tropical storm ""Mirinae"" (Santi)";Viet Nam;Asia;No;1760;140;124;145;500000;;500145;;;;;280000;397677
+1362;2009;11;;"Tropical depression ""Urduja""";Philippines;Asia;No;;;4;13;48129;;48142;;;;;12;17
+1363;2009;12;;Cyclone 'Mick';Fiji;Oceania;No;121;100;2;;3845;;3845;;;;;13300;18890
+1364;2009;8;female;Goni (Jolina);Philippines;Asia;No;;;14;10;221412;;221422;;;;;2888;4102
+1365;2009;11;;Cyclone Phyan;India;Asia;No;;;20;;;;;;;;;300000;426083
+1366;2009;8;;"Tropical cylone ""Goni""";China;Asia;No;;;9;;;;;;;;;7000;9942
+1367;2010;2;female;"Cyclone ""Oli""";French Polynesia;Oceania;No;;260;1;11;3400;;3411;;;;;11000;15371
+1368;2010;2;female;Pat;Cook Islands;Oceania;No;;200;;8;2194;;2202;;;;;;
+1369;2010;3;;"Tropical storm ""Hubert""";Madagascar;Africa;Yes;;;120;132;192000;;192132;;;;;;
+1370;2010;3;;"Cyclone ""Tomas""";Fiji;Oceania;Yes;1973;250;2;;39101;;39101;;;;;39427;55094
+1371;2010;3;;"Cyclone ""Ului""";Australia;Oceania;No;;200;1;;;;;;;;;;
+1372;2010;3;;"Cyclone ""Ului""";Solomon Islands;Oceania;No;;;;;205;590;795;;;;;;
+1373;2010;5;Female;"Cyclone ""Laila""";India;Asia;No;;110;32;;;;;;;;;;
+1374;2010;6;;"Cyclone ""Phet""";Oman;Asia;No;;;16;;;;;;;;;1000000;1397359
+1375;2010;6;;"Cyclone ""Phet""";Pakistan;Asia;No;;;23;;4000;;4000;;;;;80000;111789
+1376;2010;5;Female;Hurricane Agatha;Guatemala;Americas;Yes;;;174;154;397808;;397962;;;;;650000;908283
+1377;2010;5;Female;Hurricane Agatha;Honduras;Americas;Yes;;;18;4;16673;7998;24675;;;;;90000;125762
+1378;2010;5;Female;Hurricane Agatha;El Salvador;Americas;Yes;;;10;3;8717;2800;11520;;;;;20000;27947
+1379;2010;6;;"Tropical storm ""Alex""";Guatemala;Americas;No;;;;;2180;;2180;975000;1362425;;;;
+1380;2010;6;;"Tropical storm ""Alex""";Mexico;Americas;Yes;224;135;22;;170000;;170000;;;;;2000000;2794717
+1381;2010;6;;"Tropical storm ""Alex""";Nicaragua;Americas;No;;;5;;;;;;;;;;
+1382;2010;6;;"Tropical storm ""Alex""";El Salvador;Americas;No;;;6;;500;;500;;;;;;
+1383;2010;7;;Typhoon Conson (Basyang);China;Asia;No;;;2;;;;;;;;;500;699
+1384;2010;7;;Typhoon Conson (Basyang);Philippines;Asia;No;;120;146;91;585383;;585474;;;;;8675;12122
+1385;2010;7;;Typhoon Conson (Basyang);Viet Nam;Asia;No;;;11;;;1500;1500;;;;;500;699
+1386;2010;7;;Typhoon Chanthu;China, Hong Kong Special Administrative Region;Asia;No;;;1;;15000;;15000;;;;;;
+1387;2010;7;;Typhoon Chanthu;Viet Nam;Asia;No;;;10;;12400;;12400;;;;;;
+1388;2010;8;Female;Tropical storm Ester (Dianmu);Philippines;Asia;No;;95;31;;1045;;1045;;;;;;
+1389;2010;8;;Hurricane Frank;Mexico;Americas;No;;;6;;154000;;154000;;;;;;
+1390;2010;8;;Typhoon Mindulle;Viet Nam;Asia;No;;230;14;20;20560;120;20700;;;;;44000;61484
+1391;2010;8;;Hurricane Earl;Antigua and Barbuda;Americas;No;;142;;;5000;;5000;;;;;12600;17607
+1392;2010;9;;Hurricane Earl;United States of America;Americas;No;;;1;;;;;;;;;100000;139736
+1393;2010;9;;Typhoon Kompasu;Republic of Korea;Asia;No;;120;12;;41500;;41500;;;;;;
+1394;2010;9;;Typhoon Kompasu;Democratic People's Republic of Korea;Asia;No;;;20;;40000;;40000;;;;;;
+1395;2010;9;;Typhoon Fanapi;China;Asia;No;;;75;;1000000;;1000000;;;;;298285;416811
+1396;2010;9;;Typhoon Fanapi;Taiwan (Province of China);Asia;No;;220;2;100;;;100;;;;;63100;88173
+1397;2010;9;;Hurricane 'Karl';Mexico;Americas;No;50;195;12;;230000;;230000;;;150000;209604;3900000;5449698
+1398;2010;9;female;Tropical storm 'Nicole';Jamaica;Americas;Yes;68;65;15;26;2480;;2506;;;;;150000;209604
+1399;2010;9;;Tropical storm Matthew;Belize;Americas;No;;;;;;;;;;;;;
+1400;2010;9;;Tropical storm Matthew;Guatemala;Americas;No;;;;;;;;;;;;;
+1401;2010;9;;Tropical storm Matthew;Honduras;Americas;No;;;4;;;;;;;;;;
+1402;2010;9;;Tropical storm Matthew;Mexico;Americas;No;;;3;;1075;;1075;;;;;;
+1403;2010;9;;Tropical storm Matthew;Nicaragua;Americas;No;;;;;;;;;;;;;
+1404;2010;9;;Tropical storm Matthew;El Salvador;Americas;No;;;1;;;;;;;;;;
+1405;2010;9;;Tropical storm Matthew;Venezuela (Bolivarian Republic of);Americas;No;;;8;;;;;;;;;;
+1406;2010;9;female;Tropical storm Hermine;United States of America;Americas;No;;;8;;;;;;;;;;
+1407;2010;10;;Typhoon Megi (Juan);China;Asia;No;;;;;;;;;;;;420000;586891
+1408;2010;10;;Typhoon Megi (Juan);Philippines;Asia;Yes;6456;260;35;42;2008984;;2009026;;;;;275745;385315
+1409;2010;10;;Typhoon Megi (Juan);Taiwan (Province of China);Asia;No;;;32;;;;;;;;;10000;13974
+1410;2010;10;;Cyclone 'Giri';Myanmar;Asia;Yes;;193;45;49;260000;;260049;;;;;57000;79649
+1411;2010;10;;Hurricane Tomas;Barbados;Americas;No;;;;;2500;;2500;;;;;;
+1412;2010;10;;Hurricane Tomas;Dominican Republic;Americas;No;;;;;12000;;12000;;;;;;
+1413;2010;11;;Hurricane Tomas;Haiti;Americas;No;;130;21;;5020;;5020;;;;;;
+1414;2010;10;;Hurricane Tomas;Saint Lucia;Americas;Yes;;150;14;;181000;;181000;;;;;500;699
+1415;2010;10;;Hurricane Tomas;Saint Vincent and the Grenadines;Americas;Yes;;;;;6000;100;6100;;;;;25000;34934
+1416;2010;9;;Typhoon Meranti;China;Asia;No;;100;3;;;186000;186000;;;;;;
+1417;2010;10;female;Cyclone Jal;India;Asia;No;;100;22;;;;;;;;;;
+1418;2011;2;;Tropical Cyclone'Bingiza';Madagascar;Africa;Yes;2091;180;35;73;89297;25845;115215;;;;;;
+1419;2011;2;;"Tropical Cyclone ""Yasi""";Australia;Oceania;No;;290;1;;7300;;7300;;;1300000;1760975;2500000;3386490
+1420;2011;2;;"Tropical Cyclone ""Yasi""";Papua New Guinea;Oceania;No;;;;;;;;;;;;;
+1421;2011;2;;"Tropical Cyclone ""Yasi""";Solomon Islands;Oceania;No;;;;;;;;;;;;;
+1422;2011;1;;"Tropical Cyclone ""Yasi""";Vanuatu;Oceania;No;;;;;;;;;;;;;
+1423;2011;1;Female;"Tropical cyclone ""Vania""";Vanuatu;Oceania;Yes;195;;;;32000;;32000;;;;;;
+1424;2011;1;Female;Tropical cyclone Wilma;Tonga;Oceania;No;86;;3;;7600;;7600;;;;;3000;4064
+1425;2011;5;;Typhoon Bebeng (Aere);Philippines;Asia;No;;;37;11;430081;;430092;;;;;31259;42343
+1426;2011;6;Female;"Tropical storm ""Dodong"" (Sarika)";China;Asia;No;;;23;;;;;;;;;;
+1427;2011;6;Female;"Tropical storm ""Dodong"" (Sarika)";Philippines;Asia;No;;;9;1;1151;;1152;;;;;;
+1428;2011;6;Female;"Tropical storm ""Beatrix""";Mexico;Americas;No;;110;3;;450;;450;;;;;;
+1429;2011;6;;"Topical storm ""Meari"" (Falcon)";Philippines;Asia;No;;120;20;4;1700085;;1700089;;;;;12869;17432
+1430;2011;6;Female;"Tropical Storm ""Arlene""";Mexico;Americas;No;;;22;;300000;;300000;;;;;70000;94822
+1431;2011;7;Female;"Tropical storm ""Dora""";Guatemala;Americas;No;;;5;;;;;;;;;;
+1432;2011;7;Female;"Tropical storm ""Dora""";Mexico;Americas;No;;150;3;;200000;;200000;;;;;;
+1433;2011;7;;Topical storm Juaning (Nock-ten);Philippines;Asia;No;1871;;84;53;1108171;;1108224;;;;;63258;85689
+1434;2011;8;;Topical storm Juaning (Nock-ten);Thailand;Asia;No;;;18;;1000000;;1000000;;;;;;
+1435;2011;8;;"Typhoon ""Kabayan"" (Muifa)";China;Asia;No;;;;;3649800;;3649800;;;;;482585;653708
+1436;2011;8;;"Typhoon ""Kabayan"" (Muifa)";Philippines;Asia;No;;165;11;5;8418;;8423;;;;;59;80
+1437;2011;8;;"Typhoon ""Kabayan"" (Muifa)";Democratic People's Republic of Korea;Asia;Yes;;;10;887;5612;;6499;;;;;;
+1438;2011;8;Female;"Tropical storm ""Emily""";Dominican Republic;Americas;No;;;3;;7000;;7000;;;;;;
+1439;2011;8;female;"Tropical storm ""Emily""";Haiti;Americas;No;;;1;;1500;;1500;;;;;;
+1440;2011;8;female;"Tropical storm ""Emily""";Martinique;Americas;No;;;1;;;;;;;;;;
+1441;2011;8;female;"Tropical storm ""Emily""";Puerto Rico;Americas;No;;;;;;;;;;;;;
+1442;2011;8;female;Hurricane Irene;Bahamas;Americas;Yes;;;;;10000;;10000;;;;;40000;54184
+1443;2011;8;female;Hurricane Irene;Canada;Americas;No;;130;1;;;;;;;;;;
+1444;2011;8;female;Hurricane Irene;Dominican Republic;Americas;No;;;4;;37000;;37000;;;;;30000;40638
+1445;2011;8;female;Hurricane Irene;Haiti;Americas;No;;;2;4;1000;540;1544;;;;;;
+1446;2011;8;female;Hurricane Irene;Puerto Rico;Americas;No;;130;1;;1500;771;2271;;;450000;609568;500000;677298
+1447;2011;8;female;Hurricane Irene;United States of America;Americas;No;;;46;;370000;;370000;;;;;7300000;9888551
+1448;2011;8;female;Typhoon Mina (Nanmadol);Philippines;Asia;No;;;43;37;403193;;403230;;;;;34452;46669
+1449;2011;9;;Typhoon Roke;Japan;Asia;No;;215;13;308;;;308;;;1210000;1639061;1820000;2465365
+1450;2011;10;;Typhoon Quiel (Nalgae);Philippines;Asia;No;;;25;12;1113763;;1113775;;;;;2655;3596
+1451;2011;9;;Typhoon Pedring (Nesat);China;Asia;No;;;3;;1000000;;1000000;;;;;219000;296657
+1452;2011;9;;Typhoon Pedring (Nesat);Philippines;Asia;No;1767;;103;91;3030755;;3030846;;;;;344173;466215
+1453;2011;10;;Tropical Storm Ramon (Banyan);Philippines;Asia;No;;;11;6;75632;;75638;;;;;;
+1454;2011;10;female;Hurricane Jova;Mexico;Americas;No;71;160;5;;50000;;50000;;;;;27700;37522
+1455;2011;11;female;Keila;Oman;Asia;No;;;14;200;;;200;;;;;;
+1456;2011;9;female;Tropical storm Orphelia;Dominica;Americas;No;;;;;144;96;240;;;;;;
+1457;2011;9;;Typhoon Talas;Japan;Asia;No;;90;68;;1300;;1300;;;430000;582476;650000;880487
+1458;2011;9;;Tropical Storm Lee;United States of America;Americas;No;;75;15;;600;;600;;;560000;758574;750000;1015947
+1459;2011;9;;Hurricane Nate;Mexico;Americas;No;;100;10;;;;;;;;;;
+1460;2011;12;;Tropical storm Washi (Sendong);Philippines;Asia;Yes;;;1439;6071;1144229;;1150300;;;;;38082;51586
+1461;2011;6;;Tropical Storm Haima (Egay);China;Asia;No;;;;;;;;;;;;;
+1462;2011;6;;Tropical Storm Haima (Egay);Philippines;Asia;No;;;;;;;;;;;;;
+1463;2011;6;;Tropical Storm Haima (Egay);Viet Nam;Asia;No;;;;;;;;;;;;;
+1464;2012;1;;Cyclone Funso;Madagascar;Africa;No;;;;;300;;300;;;;;;
+1465;2012;1;;Cyclone Funso;Mozambique;Africa;No;;212;10;;65000;;65000;;;;;;
+1466;2012;1;;Cyclone Funso;Malawi;Africa;Yes;;;;;6000;;6000;;;;;;
+1467;2012;1;;Tropical Storm Dando;Mozambique;Africa;No;;;20;42;40000;;40042;;;;;;
+1468;2012;1;;Tropical Storm Dando;South Africa;Africa;No;;;;;1350;;1350;;;;;;
+1469;2012;2;Female;Cyclone Giovanna;Madagascar;Africa;Yes;4262;200;35;284;250000;;250284;;;;;100000;132713
+1470;2012;2;Female;"Tropical depression ""Irina""";Madagascar;Africa;Yes;;;77;15;85000;;85015;;;;;;
+1471;2012;3;Female;"Tropical depression ""Irina""";Mozambique;Africa;No;;;3;13;4945;;4958;;;;;;
+1472;2012;6;Female;Tropical storm Debby;United States of America;Americas;No;;;9;1;17000;;17001;;;200000;265427;210000;278698
+1473;2012;7;;Typhoon Vicente;China;Asia;No;;;8;;58500;;58500;;;;;329000;436627
+1474;2012;7;;Typhoon Vicente;Viet Nam;Asia;No;;;10;3;;;3;;;;;;
+1475;2012;8;;Tropical storm Gener (Saola);China;Asia;No;;;34;;183630;48540;232170;;;;;124000;164565
+1476;2012;7;;Tropical storm Gener (Saola);Philippines;Asia;No;;150;58;35;949051;;949086;;;;;9821;13034
+1477;2012;8;;Tropical storm Gener (Saola);Taiwan (Province of China);Asia;No;;;6;;;;;;;;;27000;35833
+1478;2012;8;;Ernesto;Mexico;Americas;No;;;12;;;;;;;15000;19907;300000;398140
+1479;2012;8;;Typhoon Haikui;China;Asia;No;;150;3;7;6000000;;6000007;;;230000;305241;1500000;1990700
+1480;2012;8;;Typhoon Damrey;China;Asia;No;;;15;;3790000;;3790000;;;106000;140676;600000;796280
+1481;2012;8;;TYphoon Kai-Tak;China;Asia;No;;;2;;107500;;107500;;;;;262000;347709
+1482;2012;8;;TYphoon Kai-Tak;Philippines;Asia;No;;;4;;;;;;;;;3000;3981
+1483;2012;8;;TYphoon Kai-Tak;Viet Nam;Asia;No;;;17;14;59320;1145;60479;;;;;6800;9025
+1484;2012;8;;Typhoon Igme (Tembin);Philippines;Asia;No;;165;11;1;5606;;5607;;;;;99;131
+1485;2012;8;;Hurricane Isaac;Cuba;Americas;No;;;1;;45496;;45496;;;;;;
+1486;2012;8;;Hurricane Isaac;Dominican Republic;Americas;No;;;5;;20515;;20515;;;;;;
+1487;2012;8;;Hurricane Isaac;Haiti;Americas;No;;;13;7;8000;;8007;;;;;;
+1488;2012;8;;Hurricane Isaac;Puerto Rico;Americas;No;;;;;;;;;;;;;
+1489;2012;8;;Hurricane Isaac;United States of America;Americas;No;;;1;;60000;;60000;;;;;2000000;2654266
+1490;2012;9;;Typhoon Lawin (Jelawat);Philippines;Asia;No;;210;4;;7921;;7921;;;;;;
+1491;2012;6;female;Hurricane Carlotta;Mexico;Americas;No;;150;7;;87000;;87000;;;84000;111479;555000;736559
+1492;2012;10;;Typhoon Son Tinh (Ofel);China;Asia;No;;;1;;126000;;126000;;;;;197000;261445
+1493;2012;10;;Typhoon Son Tinh (Ofel);Philippines;Asia;No;;;36;19;108021;;108040;;;;;1339;1777
+1494;2012;10;;Typhoon Son Tinh (Ofel);Viet Nam;Asia;No;;;11;90;;278400;278490;;;;;336000;445917
+1495;2012;10;female;Hurricane Sandy;Bahamas;Americas;No;;;1;;;;;;;;;;
+1496;2012;10;female;Hurricane Sandy;Cuba;Americas;No;;175;11;;;162605;162605;;;;;;
+1497;2012;10;female;Hurricane Sandy;Dominican Republic;Americas;No;;;3;;22000;;22000;;;;;30000;39814
+1498;2012;10;female;Hurricane Sandy;Haiti;Americas;Yes;;;75;20;168500;33330;201850;;;;;254000;337092
+1499;2012;10;female;Hurricane Sandy;Jamaica;Americas;Yes;;;1;;215850;;215850;;;;;16542;21953
+1500;2012;10;female;Hurricane Sandy;United States of America;Americas;No;;;54;;;;;;;;;50000000;66356661
+1501;2012;8;;Typhoon Bolaven;Japan;Asia;No;;;;;;;;;;;;86000;114133
+1502;2012;8;;Typhoon Bolaven;Republic of Korea;Asia;No;;;20;;;;;;;;;450000;597210
+1503;2012;8;;Typhoon Bolaven;Democratic People's Republic of Korea;Asia;No;;;59;1;10960;33500;44461;;;;;;
+1504;2012;11;;Cyclone Nilam;India;Asia;No;;;40;;70000;;70000;;;;;;
+1505;2012;10;;Cyclone Nilam;Sri Lanka;Asia;No;;;;;;69000;69000;;;;;57000;75647
+1506;2012;9;female;Typhoon Karen;Philippines;Asia;No;;;1;;1234;;1234;;;;;;
+1507;2012;9;;Typhoon Jelawat;Japan;Asia;No;;126;2;180;18045;;18225;;;;;27400;36363
+1508;2012;10;Female;Tropical Storm Marce (Gaemi);Philippines;Asia;No;;80;;;322;;322;;;;;;
+1509;2012;12;;Cyclone Evan;Fiji;Oceania;Yes;;;2;;8400;;8400;;;;;8400;11148
+1510;2012;12;;Cyclone Evan;Wallis and Futuna Islands;Oceania;No;;156;;2;1250;;1252;;;;;;
+1511;2012;12;;Cyclone Evan;Samoa;Oceania;Yes;3458;;12;;12703;;12703;;;;;133000;176509
+1512;2012;12;;Typhoon Bopha;Philippines;Asia;Yes;;260;1901;2666;6243998;;6246664;;;;;898352;1192233
+1513;2012;12;;Typhoon Bopha;Palau;Oceania;No;;;;;;1250;1250;;;;;;
+1514;2012;12;;Tropical storm Wukong (Quinta);Philippines;Asia;No;120;;24;3;241603;;241606;;;;;5526;7334
+1515;2012;8;;Typhoon Tembin;Republic of Korea;Asia;No;;;2;;;;;;;;;;
+1516;2012;8;;Typhoon Tembin;Taiwan (Province of China);Asia;No;;;8;;;;;;;;;8300;11015
+1517;2012;9;;Typhoon Sanba;Japan;Asia;No;;;;;25250;;25250;;;;;31000;41141
+1518;2012;9;;Typhoon Sanba;Republic of Korea;Asia;No;;;;;3120;;3120;;;;;349000;463169
+1519;2013;1;;Ex-Tropical cyclone Oswald;Australia;Oceania;No;;;6;;7500;;7500;;;1000000;1307974;2000000;2615947
+1520;2013;1;;Topical Depression Feleng;Madagascar;Africa;No;;;9;;4598;;4598;;;;;;
+1521;2013;2;;Topical Depression Feleng;Seychelles;Africa;No;;;;;3000;;3000;;;;;9300;12164
+1522;2013;2;Female;Tropical cyclone Haruna;Madagascar;Africa;No;;177;42;127;40154;;40281;;;;;25000;32699
+1523;2013;1;;Tropcal storm Auring;Philippines;Asia;No;;;1;;10597;;10597;;;;;;
+1524;2013;5;female;Tropical cyclone Mahasen;Bangladesh;Asia;No;;;17;65;1498579;;1498644;;;;;;
+1525;2013;5;female;Tropical cyclone Mahasen;India;Asia;No;;;8;4;;;4;;;;;;
+1526;2013;5;female;Tropical cyclone Mahasen;Sri Lanka;Asia;No;;;7;;3478;3861;7339;;;;;;
+1527;2013;5;female;Hurricane Barbara;Mexico;Americas;No;;;4;;12000;;12000;;;;;;
+1528;2013;7;;Typhoon Soulik;China;Asia;No;;120;9;150;390000;;390150;;;;;460000;601668
+1529;2013;7;;Typhoon Soulik;Taiwan (Province of China);Asia;No;;220;3;54;;;54;;;;;43500;56897
+1530;2013;7;;Typhoon Rumbia;China;Asia;No;;110;7;;21000;;21000;;;;;177000;231511
+1531;2013;6;;Typhoon Rumbia;Philippines;Asia;No;;;7;4;3592;;3596;;;;;1000;1308
+1532;2013;7;;Tropical storm Ciramon;China;Asia;No;;;1;;3000;;3000;;;;;253000;330917
+1533;2013;8;;Tropical storm Utor (Labuyo);China;Asia;No;;;88;;8000000;;8000000;;;;;2120000;2772904
+1534;2013;8;;Tropical storm Utor (Labuyo);Philippines;Asia;No;;;18;7;395723;;395730;;;;;32431;42419
+1535;2013;8;;Typhoon Trami (Maring);China;Asia;No;;;;;189800;;189800;;;;;376000;491798
+1536;2013;8;;Typhoon Trami (Maring);Taiwan (Province of China);Asia;No;;;2;;;;;;;;;12000;15696
+1537;2013;8;;Tropical storm Fernand;Mexico;Americas;No;;;14;;5000;;5000;;;;;2000;2616
+1538;2013;8;;Tropical storm Jebi;China;Asia;No;;;;;5000;;5000;;;;;20000;26159
+1539;2013;8;;Tropical storm Jebi;Viet Nam;Asia;No;;;7;11;5000;;5011;;;;;1000;1308
+1540;2013;9;;Hurricane Manuel ;Mexico;Americas;Yes;;;169;;105000;;105000;;;685000;895962;4200000;5493489
+1541;2013;9;female;Typhoon Usagi (Odette);China;Asia;No;;;20;;506000;;506000;;;;;;
+1542;2013;9;female;Typhoon Usagi (Odette);Philippines;Asia;Yes;;;5;;72696;;72696;;;;;;
+1543;2013;9;female;Typhoon Usagi (Odette);Taiwan (Province of China);Asia;No;;;;;;;;;;;;6100;7979
+1544;2013;2;female;Tropical depression Crising (Shanshan);Philippines;Asia;No;;;6;4;262880;;262884;;;;;1680;2197
+1545;2013;10;female;Typhoon Wipha;Japan;Asia;No;;;39;107;19182;;19289;;;;;200000;261595
+1546;2013;10;female;Cyclone Phailin;India;Asia;Yes;;200;47;;13230000;;13230000;;;;;633471;828563
+1547;2013;9;female;Hurricane Ingrid;Mexico;Americas;No;;;23;;50000;;50000;;;230000;300834;1500000;1961960
+1548;2013;9;;Tropical storm Toraji;Japan;Asia;No;;;1;19;4317;;4336;;;;;2000;2616
+1549;2013;9;;Tropical storm Man-Yi;Japan;Asia;No;;;6;141;30147;;30288;;;;;2000;2616
+1550;2013;9;;Typhoon Wutip ;China;Asia;No;;;74;;;;;;;;;;
+1551;2013;9;;Typhoon Wutip ;Viet Nam;Asia;No;;194;31;330;1835255;;1835585;;;;;663230;867487
+1552;2013;10;;Tropical storm Fitow;China;Asia;No;;160;8;;475000;;475000;;;;;6700000;8763423
+1553;2013;10;;Tropical storm Fitow;Japan;Asia;No;;;;;4392;;4392;;;;;;
+1554;2013;10;;Tropical storm Nari (SAnti);Philippines;Asia;No;;;20;154;871601;;871755;;;;;96723;126511
+1555;2013;10;;Tropical storm Nari (SAnti);Viet Nam;Asia;No;;133;20;154;109600;;109754;;;;;76000;99406
+1556;2013;11;female;Typhoon Haiyan (Yolanda);China;Asia;No;;118;5;;1800;50000;51800;;;;;;
+1557;2013;11;Female;Typhoon Haiyan (Yolanda);Philippines;Asia;Yes;865152;315;7354;28689;16078181;;16106870;;;700000;915581;10000000;13079735
+1558;2013;11;Female;Typhoon Haiyan (Yolanda);Palau;Oceania;Yes;;160;;;;;;;;;;;
+1559;2013;11;Female;Typhoon Haiyan (Yolanda);Viet Nam;Asia;No;;102;16;89;12630;375;13094;;;;;734000;960053
+1560;2013;10;Female;Typhoon Krosa (Vinta);Philippines;Asia;No;;;4;;220443;;220443;;;;;4729;6185
+1561;2013;11;Female;Helen;India;Asia;No;;65;10;;;;;;;;;262000;342689
+1562;2014;1;;Ian;Tonga;Oceania;Yes;;270;1;14;4000;;4014;;;;;31000;39900
+1563;2014;1;;Cyclone Beisja;Réunion;Africa;No;;151;1;15;250;;265;;;49000;63068;85000;109403
+1564;2014;1;;Tropical Depression Agaton ( (Lingling);Philippines;Asia;No;;;79;86;1148621;;1148707;;;;;12591;16206
+1565;2014;1;;Topical storm Basyang (Kajiki);Philippines;Asia;No;;;6;;47740;;47740;;;;;3200;4119
+1566;2014;3;Female;Cyclone Helen;Comoros;Africa;No;;100;;;9511;;9511;;;;;;
+1567;2014;3;Female;Cyclone Helen;Madagascar;Africa;No;;240;17;;;1736;1736;;;;;;
+1568;2014;3;Female;Tropical cylone Lusi ;Vanuatu;Oceania;No;;140;12;6;20000;;20006;;;;;2000;2574
+1569;2014;5;;Boris;Guatemala;Americas;No;;;5;;100000;;100000;;;;;;
+1570;2014;5;;Boris;Mexico;Americas;No;;40;;;;;;;;;;;
+1571;2014;6;;Hagibis;China;Asia;No;;80;;;5000;;5000;;;;;131000;168609
+1572;2014;7;Female;Typhoon Rammasun (Glenda);China;Asia;No;;200;71;99;9960000;;9960099;;;;;4232973;5448234
+1573;2014;7;female;Typhoon Rammasun (Glenda);Philippines;Asia;Yes;;150;111;1250;4653716;;4654966;;;;;820576;1056158
+1574;2014;7;female;Typhoon Rammasun (Glenda);Viet Nam;Asia;No;;;27;;36000;;36000;;;;;6200;7980
+1575;2014;7;;Typhoon Neoguri;Japan;Asia;No;;130;7;66;600;;666;;;;;156000;200787
+1576;2014;7;;Typhoon Henry (Matmo);China;Asia;No;;120;14;;;;;;;;;500000;643547
+1577;2014;7;;Typhoon Henry (Matmo);Philippines;Asia;No;;;2;;683;;683;;;;;;
+1578;2014;7;;Typhoon Henry (Matmo);Taiwan (Province of China);Asia;No;;160;;;;;;;;;;20000;25742
+1579;2014;8;female;Hurricane Iselle;United States of America;Americas;No;;95;1;;834;;834;;;;;66000;84948
+1580;2014;8;;Tropical storm Nakri;Japan;Asia;No;;;;;4401;;4401;;;;;;
+1581;2014;8;;Tropical storm Nakri;Republic of Korea;Asia;No;;;14;;;;;;;;;;
+1582;2014;8;;Typhoon Halong;Japan;Asia;No;;160;10;96;21654;;21750;;;;;200000;257419
+1583;2014;8;female;Hurricane Marie;Mexico;Americas;No;;220;3;;30000;;30000;;;;;14000;18019
+1584;2014;9;;Tropical strom Fung-Wong (Mario);China;Asia;No;;;;;1250;;1250;;;;;;
+1585;2014;9;;Tropical strom Fung-Wong (Mario);Philippines;Asia;No;;85;22;16;2052141;;2052157;;;;;75783;97540
+1586;2014;9;;Tropical strom Fung-Wong (Mario);Taiwan (Province of China);Asia;No;;;;;;;;;;;;400000;514838
+1587;2014;9;female;Hurricane Odile;Mexico;Americas;No;;205;6;135;75000;;75135;;;1200000;1544513;2500000;3217735
+1588;2014;9;;Tropical storm Dolly;Mexico;Americas;No;;75;1;;1500;;1500;;;;;500;644
+1589;2014;9;;Hurricane Norbert;Mexico;Americas;No;;205;3;;7500;;7500;;;;;25000;32177
+1590;2014;9;;Typhoon Kalmaegi (Luis);China;Asia;No;;;9;;394000;;394000;;;;;2900000;3732572
+1591;2014;9;;Typhoon Kalmaegi (Luis);Philippines;Asia;No;;130;4;1;431085;;431086;;;;;19183;24690
+1592;2014;9;;Typhoon Kalmaegi (Luis);Viet Nam;Asia;No;;130;11;;11325;;11325;;;;;4500;5792
+1593;2014;10;;Cyclone Hudhud;India;Asia;Yes;;215;53;;920000;;920000;;;530000;682160;7000000;9009658
+1594;2014;10;;Typhoon Vongfong;Japan;Asia;No;;290;9;94;1104;;1198;;;;;100000;128709
+1595;2014;10;;Typhoon Phanfone;Japan;Asia;No;;110;7;60;8706;;8766;;;;;100000;128709
+1596;2014;10;;Tropical storm Trudy;Mexico;Americas;No;;;6;;30000;;30000;;;;;2000;2574
+1597;2014;4;female;Cyclone Ita;Papua New Guinea;Oceania;No;;;;;12346;;12346;;;;;;
+1598;2014;11;female;Tropical storm 'Sinlaku' (Queenie);Philippines;Asia;No;;;12;;4695;;4695;;;;;;
+1599;2014;11;female;Tropical storm 'Sinlaku' (Queenie);Viet Nam;Asia;No;;;;;750;;750;;;;;;
+1600;2014;12;female;Typhoon 'Hagupit' (Ruby);Philippines;Asia;Yes;8139;210;18;916;4149484;;4150400;;;;;113878;146572
+1601;2014;12;;Tropical storm 'Jangmi' (Seniang);Philippines;Asia;No;;210;72;;578549;;578549;;;;;17688;22766
+1602;2015;1;;Tropical storm 'Chedza' ;Madagascar;Africa;No;;;89;37;;173970;174007;;;;;36000;46280
+1603;2015;1;;Tropical storm 'Amang' (Mekkhala);Philippines;Asia;No;;;2;;21687;;21687;;;;;1000;1286
+1604;2015;2;;Cyclone Lam ;Australia;Oceania;No;;185;;;390;48;438;;;;;78000;100274
+1605;2015;2;;Tropical storm 'Fundi';Madagascar;Africa;No;;;6;;28450;8430;36880;;;;;10000;12856
+1606;2015;2;female;Cyclone 'Marcia';Australia;Oceania;No;;210;1;;;6000;6000;;;396000;509085;546000;701921
+1607;2015;3;Female;Cyclone 'Pam';Kiribati;Oceania;Yes;;;;;1500;;1500;;;;;;
+1608;2015;3;Female;Cyclone 'Pam';Papua New Guinea;Oceania;No;;;;;9199;;9199;;;;;;
+1609;2015;3;Female;Cyclone 'Pam';Solomon Islands;Oceania;Yes;;;;;44096;;44096;;;;;;
+1610;2015;3;Female;Cyclone 'Pam';Tuvalu;Oceania;Yes;;;;;4613;;4613;;;;;;
+1611;2015;3;Female;Cyclone 'Pam';Vanuatu;Oceania;Yes;44127;250;11;;188000;;188000;;;;;449400;577735
+1612;2015;4;;Typhoon' Maysak';China;Asia;No;;;6;;12000;;12000;;;;;209000;268684
+1613;2015;3;;Typhoon' Maysak';Micronesia (Federated States of);Oceania;Yes;;260;5;;35000;;35000;;;;;11000;14141
+1614;2015;4;;Typhoon' Maysak';Philippines;Asia;No;;200;;;2761;;2761;;;;;;
+1615;2015;3;;Cyclone 'Olwyn';Australia;Oceania;No;;160;;;600;;600;;;49000;62993;57000;73277
+1616;2015;5;;Typhoon Noul (Dodong);Japan;Asia;No;;180;;6;39;;45;;;;;23200;29825
+1617;2015;5;;Typhoon Noul (Dodong);Philippines;Asia;No;;220;2;;523;;523;;;;;348;447
+1618;2015;7;;Typhoon Chan-Home;China;Asia;No;;;;;10800;3000;13800;;;;;940000;1208435
+1619;2015;7;;Typhoon Chan-Home;Japan;Asia;No;;250;1;27;;;27;;;;;;
+1620;2015;7;;Typhoon Chan-Home;Philippines;Asia;No;;;5;;10800;3300;14100;;;;;1500000;1928354
+1621;2015;7;;Typhoon Chan-Home;Taiwan (Province of China);Asia;No;;;;6;;;6;;;;;;
+1622;2015;6;;Tropical storm Kujira;China;Asia;No;;;;;193000;;193000;;;;;11000;14141
+1623;2015;6;;Tropical storm Kujira;Viet Nam;Asia;No;;;7;;;115;115;;;;;;
+1624;2015;7;;Typhoon Nangka;Japan;Asia;No;;185;2;56;789;;845;;;127000;163267;207000;266113
+1625;2015;7;;Tropical cyclone Linfa (Egay);China;Asia;No;;;;;56000;;56000;;;;;213000;273826
+1626;2015;7;;Tropical cyclone Linfa (Egay);Philippines;Asia;No;;;;;55567;;55567;;;;;2218;2851
+1627;2015;7;female;Tropical cylone Raquel;Solomon Islands;Oceania;No;;;9;;;400;400;;;;;2000;2571
+1628;2015;7;;Cyclone 'Komen';Bangladesh;Asia;No;;;45;;2600000;;2600000;;;;;40000;51423
+1629;2015;8;female;Typhoon 'Soudelor' (Hanna);China;Asia;No;;230;18;;1580000;;1580000;;;;;1282690;1648987
+1630;2015;8;female;Typhoon 'Soudelor' (Hanna);Northern Mariana Islands;Oceania;No;;170;;10;350;;360;;;;;;
+1631;2015;8;female;Typhoon 'Soudelor' (Hanna);Philippines;Asia;No;;;;;3843;;3843;;;;;;
+1632;2015;8;female;Typhoon 'Soudelor' (Hanna);Taiwan (Province of China);Asia;No;;;6;380;;;380;;;;;;
+1633;2015;8;;Typhoon Goni (Ineng);Japan;Asia;No;;198;;70;;;70;;;;;;
+1634;2015;8;;Typhoon Goni (Ineng);Philippines;Asia;No;;252;40;24;318359;;318383;;;;;30299;38951
+1635;2015;8;female;Hurricane Erika;Dominica;Americas;Yes;;;30;20;28000;574;28594;;;;;482810;620686
+1636;2015;8;female;Hurricane Erika;Dominican Republic;Americas;No;1015;;;;33;2100;2133;;;;;;
+1637;2015;8;female;Hurricane Erika;Haiti;Americas;No;;;5;3;;1966;1969;;;;;;
+1638;2015;9;;Tropical Storm Etau;Japan;Asia;No;;;8;46;60000;;60046;;;250000;321392;;
+1639;2015;9;;Typhoon Dujuan;China;Asia;No;;;;;;;;;;79000;101560;661000;849761
+1640;2015;9;;Typhoon Dujuan;Japan;Asia;No;;;;;;;;;;;;;
+1641;2015;9;;Typhoon Dujuan;Taiwan (Province of China);Asia;No;;;3;376;;;376;;;;;26000;33425
+1642;2015;10;;Joaquin;United States of America;Americas;No;;;25;;800;;800;;;400000;514228;2000000;2571138
+1643;2015;10;;Typhoon Koppu (Lando);Philippines;Asia;No;;210;51;83;2898507;;2898590;;;;;210985;271236
+1644;2015;10;female;Hurricane Patricia;Mexico;Americas;No;;270;14;;15000;;15000;;;343000;440950;823000;1058023
+1645;2015;8;;Hurricane 'Fred';Cabo Verde;Africa;No;;140;9;;;;;;;;;1100;1414
+1646;2015;10;;Hurricane 'Joaquin';Bahamas;Americas;Yes;;;33;;6710;;6710;;;61000;78420;90000;115701
+1647;2015;11;;Cyclone Chapala;Somalia;Africa;No;;;;;4000;;4000;;;;;;
+1648;2015;11;;Cyclone Chapala;Yemen;Asia;No;;;8;65;110000;;110065;;;;;200000;257114
+1649;2015;10;;Typhoon Mujigae;China;Asia;No;;;20;;52500;25800;78300;;;;;4200000;5399390
+1650;2015;10;;Typhoon Mujigae;Philippines;Asia;No;;;2;;3500;;3500;;;;;1300;1671
+1651;2015;11;female;Cyclone Megh;Somalia;Africa;No;;;;;;;;;;;;;
+1652;2015;11;female;Cyclone Megh;Yemen;Asia;No;;;18;;15000;;15000;;;;;;
+1653;2015;12;;Typhoon Melor (Nona);Philippines;Asia;No;;185;46;24;287227;;287251;;;;;135217;173831
+1654;2015;9;;Cyclone Vamco;Cambodia;Asia;No;;;;;6300;;6300;;;;;;
+1655;2015;9;;Cyclone Vamco;Thailand;Asia;No;;65;3;;1440;;1440;;;;;561;721
+1656;2015;9;;Cyclone Vamco;Viet Nam;Asia;No;;;11;;;;;;;;;218;280
+1657;2016;1;Female;Cyclone Ulla;Tonga;Oceania;No;;150;;;392;;392;;;;;;
+1658;2016;2;;Cyclone Winston;Fiji;Oceania;Yes;41862;;45;144;540414;;540558;;;50000;63478;600000;761731
+1659;2016;2;;Cyclone Winston;Tonga;Oceania;No;;;;;;;;;;;;;
+1660;2016;4;Female;Tropical cyclone Zena;Fiji;Oceania;No;;;2;;5000;;5000;;;;;;
+1661;2016;4;Female;Tropical cyclone Zena;Tonga;Oceania;No;;;;;;;;;;;;;
+1662;2016;5;;Cyclone Roanu;Bangladesh;Asia;No;;;28;;1083855;119700;1203555;;;;;600000;761731
+1663;2016;7;;Typhoon Butchoy (Nepartak);China;Asia;No;;;69;;;24900;24900;;;;;1511160;1918497
+1664;2016;7;;Typhoon Butchoy (Nepartak);Philippines;Asia;No;;;2;2;3357;;3359;;;;;;
+1665;2016;7;;Typhoon Butchoy (Nepartak);Taiwan (Province of China);Asia;No;;;3;300;;;300;;;;;;
+1666;2016;7;female;Storm Mirinae;Viet Nam;Asia;No;;88;1;5;191745;;191750;;;;;191000;242484
+1667;2016;8;;Tropical storm 'Earl';Belize;Americas;Yes;;110;;;10355;;10355;;;;;;
+1668;2016;8;;Tropical storm 'Earl';Guatemala;Americas;No;;;;;55;;55;;;;;;
+1669;2016;8;;Tropical storm 'Earl';Honduras;Americas;No;;;1;;151;;151;;;;;;
+1670;2016;8;;Tropical storm 'Earl';Mexico;Americas;No;;;54;;11000;;11000;;;;;;
+1671;2016;9;;Hurricane Newton;Mexico;Americas;No;;;11;;10500;;10500;;;;;50000;63478
+1672;2016;9;female;Hurricane Hermine;United States of America;Americas;No;;85;3;;13500;570;14070;;;270000;342779;600000;761731
+1673;2016;9;;Typhoon Ferdie (Meranti);China;Asia;No;;;;;205500;;205500;;;101000;128225;2300000;2919970
+1674;2016;9;;Typhoon Ferdie (Meranti);Philippines;Asia;No;;;;;16648;;16648;;;;;4913;6237
+1675;2016;9;;Typhoon Ferdie (Meranti);Taiwan (Province of China);Asia;No;;305;;;;;;;;;;70000;88869
+1676;2016;9;female;Typhoon Megi;China;Asia;No;;119;35;;36000;;36000;;;;;830000;1053728
+1677;2016;9;female;Typhoon Megi;Taiwan (Province of China);Asia;No;;;7;160;;;160;;;;;110000;139651
+1678;2016;9;;Hurricane 'Matthew';Bahamas;Americas;Yes;;;;;;;;;;;;600000;761731
+1679;2016;9;;Hurricane 'Matthew';Cuba;Americas;No;;;;;190000;;190000;;;;;2600000;3300836
+1680;2016;10;;Hurricane 'Matthew';Dominican Republic;Americas;No;;;6;;39;9;48;;;;;;
+1681;2016;9;;Hurricane 'Matthew';Haiti;Americas;Yes;;;546;439;2100000;;2100439;;;;;2000000;2539105
+1682;2016;9;;Hurricane 'Matthew';Jamaica;Americas;Yes;;;;;125000;;125000;;;;;;
+1683;2016;9;;Hurricane 'Matthew';Saint Lucia;Americas;No;;;;;25000;;25000;;;;;;
+1684;2016;10;;Hurricane 'Matthew';United States of America;Americas;No;;;49;;;;;;;5000000;6347762;10000000;12695523
+1685;2016;9;;Hurricane 'Matthew';Saint Vincent and the Grenadines;Americas;No;;;1;;;;;;;;;;
+1686;2016;10;female;Typhoon Chaba (Chyba?);Japan;Asia;No;;;;;;;;;;;;;
+1687;2016;10;female;Typhoon Chaba (Chyba?);Republic of Korea;Asia;No;;;9;;1500;;1500;;;;;126000;159964
+1688;2016;10;;Tropical storm Aere;Viet Nam;Asia;No;;;34;;610000;;610000;;;;;350000;444343
+1689;2016;10;female;Typhoon Karen (Sarika);China;Asia;No;;;;;;;;;;;;890000;1129902
+1690;2016;10;female;Typhoon Karen (Sarika);Philippines;Asia;No;;210;;;52270;;52270;;;;;11490;14587
+1691;2016;10;;Typhoon Lawin (Haima);China;Asia;No;;;;;12000;;12000;;;;;;
+1692;2016;10;;Typhoon Lawin (Haima);Philippines;Asia;No;;215;8;;981154;;981154;;;;;50690;64354
+1693;2016;8;;Tropical storm Dianmu;China;Asia;No;;;;;40000;;40000;;;;;;
+1694;2016;8;;Tropical storm Dianmu;Viet Nam;Asia;No;;;11;15;11075;;11090;;;;;157;199
+1695;2016;8;;Tropical storm Mindulle;Japan;Asia;No;;;2;70;3633;;3703;;;;;100000;126955
+1696;2016;9;;Typhoon Malakas;Japan;Asia;No;;185;1;;6000;;6000;;;;;;
+1697;2016;11;;Tropical storm Otto;Costa Rica;Americas;Yes;;175;9;;50000;;50000;;;;;;
+1698;2016;11;;Tropical storm Otto;Nicaragua;Americas;No;;;;;10570;;10570;;;;;;
+1699;2016;11;;Tropical storm Otto;Panama;Americas;No;;120;7;;12000;;12000;;;;;;
+1700;2016;11;female;Tropical storm Marce (Tokage);Philippines;Asia;No;;55;;;14309;;14309;;;;;;
+1701;2016;12;female;Cyclone 'Vardah';India;Asia;No;;140;24;;;;;;;200000;253910;1000000;1269552
+1702;2016;9;female;Typhoon Helen (Megi);Philippines;Asia;No;;;;;1559;;1559;;;;;;
+1703;2016;12;Female;Typhoon 'Nina' (Nock-Ten);Philippines;Asia;No;;185;24;;1893404;;1893404;;;;;103661;131603
+1704;2017;2;;Cyclone 'Dineo';Mozambique;Africa;Yes;;100;7;102;750000;;750102;;;;;17000;21132
+1705;2017;3;;Cyclone 'Enawo';Madagascar;Africa;Yes;;300;81;253;434000;;434253;;;;;20000;24861
+1706;2017;1;;Tropical depression 'Ex-Dineo';Zimbabwe;Africa;No;;;251;128;100000;12895;113023;;;;;189000;234941
+1707;2017;3;Female;Debbie;Australia;Oceania;No;;263;12;;45000;;45000;;;1400000;1740303;2700000;3356298
+1708;2017;4;Female;Tropical depression 02W (Crising);Philippines;Asia;No;;;10;10;850;;860;;;;;2000;2486
+1709;2017;5;Female;Cyclone Mora;Bangladesh;Asia;No;;135;7;12;3300000;;3300012;;;;;;
+1710;2017;5;Female;Cyclone Mora;India;Asia;No;;;;;1970;;1970;;;;;;
+1711;2017;6;Female;Cyclone Mora;Myanmar;Asia;No;;;;;107520;;107520;;;;;;
+1712;2017;6;female;Beatriz;Mexico;Americas;No;;65;6;;;600;600;;;;;;
+1713;2017;5;female;Tropical cyclone 'Donna';Vanuatu;Oceania;No;;215;;;2564;;2564;;;;;;
+1714;2017;7;;Tropical Storm Talas;China;Asia;No;;;;;30000;;30000;;;;;3600;4475
+1715;2017;7;;Tropical Storm Talas;Lao People's Democratic Republic;Asia;No;;;;;;;;;;;;;
+1716;2017;7;;Tropical Storm Talas;Thailand;Asia;No;;;;;60;;60;;;;;;
+1717;2017;7;;Tropical Storm Talas;Viet Nam;Asia;No;;95;9;;21000;;21000;;;;;71000;88258
+1718;2017;8;;Typhoon Nesat & Haitang;China;Asia;No;;;;;13200;600;13800;;;;;57000;70855
+1719;2017;7;;Typhoon Nesat & Haitang;Philippines;Asia;No;;;;;7339;;7339;;;;;174,92;217
+1720;2017;7;;Typhoon Nesat & Haitang;Taiwan (Province of China);Asia;No;;150;1;131;;;131;;;;;17200;21381
+1721;2017;8;;Typhoon 'Noru';Japan;Asia;No;;120;2;51;1338;;1389;;;;;2000;2486
+1722;2017;8;;Hurricane 'Franklin';Mexico;Americas;No;;140;;;300;;300;;;;;2000;2486
+1723;2017;8;;Typhoon 'Hato';China;Asia;No;;;8;373;;21900;22273;;;250000;310768;3500000;4350757
+1724;2017;8;;Typhoon 'Hato';China, Hong Kong Special Administrative Region;Asia;No;;;;129;27;;156;;;;;755500;939142
+1725;2017;8;;Typhoon 'Hato';China, Macao Special Administrative Region;Asia;No;;;10;200;;;200;;;;;1420000;1765164
+1726;2017;8;;Typhoon 'Hato';Viet Nam;Asia;No;;;1;1;;;1;;;;;1430000;1777595
+1727;2017;8;;Hurricane Harvey;United States of America;Americas;No;;215;88;24;555000;27000;582024;;;30000000;37292199;95000000;118091963
+1728;2017;8;female;Tropical storm 'Lidia';Mexico;Americas;No;;;20;;;1000;1000;;;;;;
+1729;2017;9;female;Hurricane 'Irma';Anguilla;Americas;No;;;4;;15000;;15000;;;6700;8329;200000;248615
+1730;2017;9;female;Hurricane 'Irma';Antigua and Barbuda;Americas;Yes;;295;1;;1800;;1800;200000;248615;6800;8453;250000;310768
+1731;2017;9;female;Hurricane 'Irma';Bahamas;Americas;Yes;;;;;;;;;;397,6;494;2000;2486
+1732;2017;9;female;Hurricane 'Irma';Saint Barthélemy;Americas;No;;;4;;;;;;;1048800;1303735;;
+1733;2017;9;female;Hurricane 'Irma';Barbados;Americas;No;;;1;;;;;;;;;;
+1734;2017;9;female;Hurricane 'Irma';Cuba;Americas;No;;;10;;10000000;;10000000;;;200000;248615;540000;671260
+1735;2017;9;female;Hurricane 'Irma';Dominican Republic;Americas;No;;285;;;6300;;6300;;;;;;
+1736;2017;9;female;Hurricane 'Irma';Haiti;Americas;No;;;1;17;40075;;40092;;;162;201;;
+1737;2017;9;female;Hurricane 'Irma';Saint Kitts and Nevis;Americas;No;;;;;500;;500;;;2300;2859;20000;24861
+1738;2017;9;female;Hurricane 'Irma';Saint Martin (French Part);Americas;Yes;;;12;110;;;110;;;1231200;1530472;4100000;5096601
+1739;2017;9;female;Hurricane 'Irma';Puerto Rico;Americas;No;;;2;;;;;;;;;;
+1740;2017;9;female;Hurricane 'Irma';Sint Maarten (Dutch part);Americas;Yes;;;4;40;5000;;5040;;;500000;621537;2500000;3107683
+1741;2017;9;female;Hurricane 'Irma';Turks and Caicos Islands;Americas;No;;;;;;;;;;14900;18522;500000;621537
+1742;2017;9;female;Hurricane 'Irma';United States of America;Americas;No;;300;97;;;70000;70000;;;29000000;36049126;57000000;70855178
+1743;2017;9;female;Hurricane 'Irma';British Virgin Islands;Americas;No;;;9;;;;;;;;;3000000;3729220
+1744;2017;9;female;Hurricane 'Irma';United States Virgin Islands;Americas;No;;;4;;;;;;;;;;
+1745;2017;9;female;Hurricane 'Maria';Dominica;Americas;Yes;;260;64;100;71293;;71393;;;19300;23991;1456000;1809915
+1746;2017;9;female;Hurricane 'Maria';Dominican Republic;Americas;No;;;5;;26000;;26000;;;;;63000;78314
+1747;2017;9;female;Hurricane 'Maria';Guadeloupe;Americas;No;;;4;2;80000;;80002;;;;;120000;149169
+1748;2017;9;female;Hurricane 'Maria';Haiti;Americas;No;;;3;;;;;;;;;;
+1749;2017;9;female;Hurricane 'Maria';Martinique;Americas;No;;;;2;;;2;;;;;44000;54695
+1750;2017;9;female;Hurricane 'Maria';Puerto Rico;Americas;No;;240;64;;540000;210000;750000;;;30000000;37292199;68000000;84528984
+1751;2017;9;female;Hurricane 'Maria';United States of America;Americas;No;;;4;;;;;;;;;;
+1752;2017;9;female;Hurricane 'Maria';British Virgin Islands;Americas;No;;;;;;;;;;;;;
+1753;2017;9;Female;Hurricane 'Maria';United States Virgin Islands;Americas;No;;;3;;;;;;;;;;
+1754;2017;9;Female;Hurricane Katia;Mexico;Americas;No;;;3;;1110;;1110;;;;;;
+1755;2017;9;;Typhoon 'Doksuri';Philippines;Asia;No;;;26;;7465;1645;9110;;;;;5300;6588
+1756;2017;9;;Typhoon 'Doksuri';Thailand;Asia;No;;;;;28500;;28500;;;;;;
+1757;2017;9;;Typhoon 'Doksuri';Viet Nam;Asia;No;;185;14;112;691900;;692012;;;;;484000;601647
+1758;2017;10;;Tropical depression'16/Hurricane 'Nate';Colombia;Americas;No;;;;;;;;;;;;;
+1759;2017;9;;Tropical depression'16/Hurricane 'Nate';Costa Rica;Americas;Yes;;;13;;11500;;11500;;;;;185000;229969
+1760;2017;10;;Tropical depression'16/Hurricane 'Nate';Guatemala;Americas;No;;;8;;2762;413;3175;;;;;;
+1761;2017;10;;Tropical depression'16/Hurricane 'Nate';Honduras;Americas;No;;;3;;120;;120;;;;;;
+1762;2017;10;;Tropical depression'16/Hurricane 'Nate';Nicaragua;Americas;No;;;15;;39200;;39200;;;;;;
+1763;2017;10;;Tropical depression'16/Hurricane 'Nate';Panama;Americas;No;;;7;;12000;;12000;;;;;;
+1764;2017;10;;Tropical depression'16/Hurricane 'Nate';El Salvador;Americas;No;;;10;4;530;50;584;;;;;;
+1765;2017;10;;Tropical depression'16/Hurricane 'Nate';United States of America;Americas;No;;140;;;60;;60;;;;;250000;310768
+1766;2017;11;;Typhoon 'Damrey' / 'Ramil';Philippines;Asia;No;;75;6;;305;;305;;;;;;
+1767;2017;11;;Typhoon 'Damrey' / 'Ramil';Viet Nam;Asia;Yes;;130;123;;4330000;;4330000;;;;;1000000;1243073
+1768;2017;10;;Typhoon 'Lan'/'Paolo';Japan;Asia;No;;216;8;210;18600;;18810;;;;;1000000;1243073
+1769;2017;10;;Typhoon 'Lan'/'Paolo';Philippines;Asia;No;;250;9;;163349;;163349;;;;;3400;4226
+1770;2017;9;;Typhoon 'Talim';Japan;Asia;No;;160;2;56;21600;;21656;;;330000;410214;500000;621537
+1771;2017;8;female;Tropical storm 'Pakhar'/'Jolina';China;Asia;No;;;12;;300;;300;;;;;56000;69612
+1772;2017;8;female;Tropical storm 'Pakhar'/'Jolina';China, Hong Kong Special Administrative Region;Asia;No;;126;1;;;;;;;;;;
+1773;2017;8;female;Tropical storm 'Pakhar'/'Jolina';China, Macao Special Administrative Region;Asia;No;;;;;;;;;;;;;
+1774;2017;8;female;Tropical storm 'Pakhar'/'Jolina';Philippines;Asia;No;;65;;;3400;;3400;;;;;;
+1775;2017;12;;Cyclone 'Ockhi';India;Asia;No;;130;884;;60000;;60000;;;;;;
+1776;2017;11;;Cyclone 'Ockhi';Sri Lanka;Asia;No;;130;27;77;160000;;160077;;;;;346000;430103
+1777;2017;11;female;Cyclone 'Cempaka';Indonesia;Asia;No;;65;11;35;;2000;2035;;;;;;
+1778;2018;1;;Agaton (01W);Philippines;Asia;No;;;3;9;83908;;83917;;;;;12292;14916
+1779;2018;1;female;Cyclone 'Ava';Madagascar;Africa;No;;165;73;;161318;;161318;;;;;;
+1780;2018;1;female;Tropical storm 'Berguitta';Mauritius;Africa;No;;120;;;30000;;30000;;;;;;
+1781;2018;1;female;Tropical storm 'Berguitta';Réunion;Africa;No;;;;;200;;200;;;;;;
+1782;2018;2;female;Cyclone Gita;Tonga;Oceania;Yes;;285;;;87000;;87000;;;;;;
+1783;2018;2;female;Cyclone Gita;Samoa;Oceania;No;;;;;;;;;;;;;
+1784;2018;2;;Tropical storm 'Basyang' (Sanba);Philippines;Asia;No;;75;;;254859;;254859;;;;;3070;3725
+1785;2018;3;;Tropical storm 'Eliakim';Madagascar;Africa;No;;105;21;;50872;;50872;;;;;;
+1786;2018;4;female;Cyclone 'Josie';Fiji;Oceania;No;;100;7;;89950;;89950;;;;;10000;12134
+1787;2018;5;;Cyclone 'Sagar';Djibouti;Africa;No;;;2;;25000;;25000;;;;;;
+1788;2018;5;;Cyclone 'Sagar';Somalia;Africa;No;;;53;;228000;;228000;;;;;;
+1789;2018;5;;Tropical storm 'Alberto';Cuba;Americas;No;;;9;;40000;;40000;;;;;;
+1790;2018;5;;Tropical storm 'Alberto';United States of America;Americas;No;;;5;;;;;;;;;125000;151679
+1791;2018;5;;Cyclone 'Mekunu';Oman;Asia;No;;;6;;;;;;;;;;
+1792;2018;5;;Cyclone 'Mekunu';Yemen;Asia;No;;;24;;750;;750;;;;;;
+1793;2018;4;female;Tropical cyclone 'Keni';Fiji;Oceania;No;;;;;89250;;89250;;;;;50000;60672
+1794;2018;7;;Tropical storm 'Ewiniar';China;Asia;No;;;14;;16200;;16200;;;;;570000;691658
+1795;2018;6;;Tropical storm 'Ewiniar';Viet Nam;Asia;No;;;1;;;;;;;;;;
+1796;2018;7;;Tyhoon 'Son Tinh';Lao People's Democratic Republic;Asia;No;;;;;120000;;120000;;;;;;
+1797;2018;7;;Tyhoon 'Son Tinh';Philippines;Asia;No;;;16;;2231101;;2231101;;;;;88000;106782
+1798;2018;7;;Tyhoon 'Son Tinh';Viet Nam;Asia;No;;;34;;96000;;96000;;;;;220000;266956
+1799;2018;7;;Hurricane 'Beryl';Dominican Republic;Americas;No;;;;;;8000;8000;;;;;;
+1800;2018;7;;Hurricane 'Beryl';Puerto Rico;Americas;No;;;;;;;;;;;;;
+1801;2018;7;female;Typhoon 'Maria' (Gardo);China;Asia;No;;;;;45000;;45000;;;;;490000;594583
+1802;2018;7;female;Tropical storm 'Ampil' (Inday);China;Asia;No;;;1;;18000;;18000;;;;;240000;291224
+1803;2018;8;Female;Typhoon 'Bebinca';China;Asia;No;;;2;;;300;300;;;;;188000;228126
+1804;2018;8;Female;Typhoon 'Bebinca';Lao People's Democratic Republic;Asia;No;;;;;615145;;615145;;;;;225000;273023
+1805;2018;8;female;Typhoon 'Bebinca';Viet Nam;Asia;No;;;13;;50000;;50000;;;;;2000;2427
+1806;2018;8;;Typhoon 'Soulik';China;Asia;No;;;;;;;;;;;;79900;96953
+1807;2018;8;;Typhoon 'Soulik';Democratic People's Republic of Korea;Asia;No;;;86;;;;;;;;;4640;5630
+1808;2018;9;;Typhoon Jebi;Japan;Asia;No;;220;17;600;3300;;3900;;;9000000;10920916;12500000;15167939
+1809;2018;9;;Typhoon Mangkut (Ompong);China;Asia;No;;;;;;;;;;;;770000;934345
+1810;2018;9;;Typhoon Mangkut (Ompong);China, Hong Kong Special Administrative Region;Asia;No;;240;;300;;;300;;;;;;
+1811;2018;9;;Typhoon Mangkut (Ompong);Philippines;Asia;Yes;;240;84;138;3800000;;3800138;;;;;32033;38870
+1812;2018;9;female;Hurricane Florence;United States of America;Americas;No;;;53;;1500000;;1500000;;;5000000;6067176;14000000;16988092
+1813;2018;8;;Tropical Storm Yagi;China;Asia;No;;;3;;2400;;2400;;;;;367000;445331
+1814;2018;9;female;Tropical Storm Yagi;Philippines;Asia;No;;;5;;1709511;;1709511;;;;;19000;23055
+1815;2018;8;;Tropical storm Rumbia;China;Asia;No;;;53;;39600;;39600;;;;;5400000;6552550
+1816;2018;9;female;Typhoon Trami;Japan;Asia;No;;216;4;200;18000;;18200;;;;;4500000;5460458
+1817;2018;10;;Hurricane Michael;Cuba;Americas;No;;;;;540;;540;;;;;;
+1818;2018;10;;Hurricane Michael;United States of America;Americas;No;;250;49;;5000;;5000;;;10000000;12134351;16000000;19414962
+1819;2018;10;female;Storm 'Leslie';Portugal;Europe;No;;176;2;28;60;;88;;;60000;72806;115500;140152
+1820;2018;10;female;Tropical storm 'Titli';India;Asia;No;;126;85;200;300000;;300200;;;;;920000;1116360
+1821;2018;10;;Cyclone 'Luban';Oman;Asia;No;;;;;;;;;;;;;
+1822;2018;10;;Cyclone 'Luban';Yemen;Asia;No;;;25;124;15000;;15124;;;;;;
+1823;2018;10;female;Typhoon 'Yutu' (Rosita);Northern Mariana Islands;Oceania;No;;290;2;;;;;;;;;;
+1824;2018;10;female;Typhoon 'Yutu' (Rosita);Philippines;Asia;No;;210;12;2;253298;;253300;;;;;305000;370098
+1825;2018;10;female;Hurricane Willa;Mexico;Americas;No;;195;6;;10000;;10000;;;;;536800;651372
+1826;2018;10;;Tropical storm 'Vicente';Mexico;Americas;No;;;14;;;;;;;;;7005;8500
+1827;2018;10;;Typhoon 'Kong-Rey';Japan;Asia;No;;;3;;4200;;4200;;;;;;
+1828;2018;11;female;Cyclone 'Gaja';India;Asia;No;;120;45;;500000;;500000;;;;;775000;940412
+1829;2018;12;;Tropical depression 'Usman';Philippines;Asia;No;;;182;105;1015958;;1016063;;;;;106753;129538
+1830;2019;1;female;Tropical cyclone 'Penny';Marshall Islands;Oceania;No;;;;;;;;;;;;;
+1831;2018;12;female;Tropical cyclone 'Penny';Solomon Islands;Oceania;No;;;;;1000;;1000;;;;;;
+1832;2018;12;;Tropical storm 'Phethai';India;Asia;No;;100;8;;10000;;10000;;;;;100000;121344
+1833;2018;11;;Tropical depression 'Toraji';Viet Nam;Asia;No;;;19;28;10000;;10028;;;;;17200;20871
+1834;2019;1;;Tropical cylone 'Pabuk';Thailand;Asia;No;;;7;;720885;;720885;;;;;;
+1835;2019;1;;Tropical depression 'Amang' (01W);Philippines;Asia;No;;;;;13160;;13160;;;;;;
+1836;2019;3;female;Cyclone 'Idai';Madagascar;Africa;No;;;3;;1100;;1100;;;;;;
+1837;2019;3;female;Cyclone 'Idai';Mozambique;Africa;Yes;;140;603;1500;1500000;;1501500;;;150000;178775;2000000;2383672
+1838;2019;3;female;Cyclone 'Idai';Zimbabwe;Africa;Yes;;;628;186;270000;;270186;;;;;;
+1839;2019;2;female;Cyclone 'Wutip';Micronesia (Federated States of);Oceania;Yes;;100;;;10000;;10000;;;;;;
+1840;2019;5;female;Cyclone 'Fani';Bangladesh;Asia;No;;200;39;45;;10000;10045;;;;;;
+1841;2019;5;female;Cyclone 'Fani';India;Asia;No;;;50;;20000000;;20000000;;;;;1810000;2157223
+1842;2019;4;;Cyclone 'Kenneth';Comoros;Africa;Yes;;185;8;180;345131;;345311;;;;;;
+1843;2019;4;;Cyclone 'Kenneth';Mozambique;Africa;Yes;;300;45;94;400000;;400094;;;;;230000;274122
+1844;2019;4;;Cyclone 'Kenneth';United Republic of Tanzania;Africa;No;;;;;2000000;;2000000;;;;;;
+1845;2019;7;;Tropical cylone 'Barry';United States of America;Americas;No;;;1;;;;;;;300000;357551;600000;715102
+1846;2019;7;female;Tropical cyclone 'Danas';Philippines;Asia;No;;;4;;2000;;2000;;;;;377440;449847
+1847;2019;8;female;Tropical cyclone Lekima (Hanna);China;Asia;No;;175;72;;108000;;108000;;;;;10000000;11918359
+1848;2019;8;female;Tropical cyclone Lekima (Hanna);Taiwan (Province of China);Asia;No;;175;2;;;;;;;;;;
+1849;2019;9;;Tropical cyclone 'Dorian';Bahamas;Americas;Yes;;298;356;;14940;;14940;;;;;3400000;4052242
+1850;2019;8;;Tropical cyclone 'Dorian';United States of America;Americas;No;;150;10;;;;;;;;;1600000;1906937
+1851;2019;9;female;Tropical storm ' Imelda';United States of America;Americas;No;;65;5;;1000;;1000;;;1200000;1430203;3500000;4171426
+1852;2019;9;female;Tropical cyclone 'Lorena';Mexico;Americas;No;;130;1;;200;;200;;;;;;
+1853;2019;9;;Tropical cyclone 'Lingling';China;Asia;No;;;;;;;;;;;;131000;156130
+1854;2019;9;;Tropical cyclone 'Lingling';Japan;Asia;No;;;;;;;;;;;;10000;11918
+1855;2019;9;;Tropical cyclone 'Lingling';Republic of Korea;Asia;No;;;3;33;38;;71;;;;;;
+1856;2019;9;;Tropical cyclone 'Lingling';Democratic People's Republic of Korea;Asia;No;;;5;;5300000;;5300000;;;;;24000;28604
+1857;2019;8;;Tropical cyclone 'Podul';Philippines;Asia;No;;;2;2;61500;;61502;;;;;;
+1858;2019;9;;Tropical storm 'Tapah';Japan;Asia;No;;;;21;2000;;2021;;;;;;
+1859;2019;9;;Tropical storm 'Tapah';Republic of Korea;Asia;No;;;2;;83370;;83370;;;;;;
+1860;2019;9;female;Tropical storm 'Narda';Mexico;Americas;No;;55;2;;1000;;1000;;;;;;
+1861;2019;10;;Tropical cyclone 'Mitag';China;Asia;No;;;3;;;;;;;;;263000;313453
+1862;2019;10;;Tropical cyclone 'Mitag';Republic of Korea;Asia;No;;75;15;11;1400;;1411;;;;;553000;659085
+1863;2019;10;;Tropical cylone 'Hagibis';Japan;Asia;No;;160;99;470;390000;;390470;;;10000000;11918359;17000000;20261210
+1864;2019;9;;Tropical storm 'Fernand';Mexico;Americas;No;;;1;;;;;;;25000;29796;383000;456473
+1865;2019;10;female;Typhoon 'Faxai';Japan;Asia;No;;170;3;150;120000;;120150;;;7000000;8342851;9100000;10845706
+1866;2019;11;;Typhoon 'Matmo';Viet Nam;Asia;No;;;1;14;20000;;20014;;;;;;
+1867;2019;11;;Tropical cyclone 'Kalmaegi' (Ramon);Philippines;Asia;No;;110;;;3000;;3000;;;;;;
+1868;2019;11;;Tropical cyclone 'Nakri';Philippines;Asia;No;;;19;3;670;;673;;;;;36000;42906
+1869;2019;11;;Tropical cyclone 'Nakri';Viet Nam;Asia;No;;;3;;2150;;2150;;;;;4000;4767
+1870;2019;11;;Tropical cyclone 'Bulbul';Bangladesh;Asia;No;;130;40;71;251435;;251506;;;;;5785;6895
+1871;2019;11;;Tropical cyclone 'Bulbul';India;Asia;No;;;12;;130000;;130000;;;;;;
+1872;2019;12;;Tropical cyclone 'Kammuri' (Tisoy);Philippines;Asia;No;;210;4;318;2305075;342165;2647558;;;;;109151;130090
+1873;2019;12;;Tropical Storm 'Pawan';Somalia;Africa;No;;;6;;30000;;30000;;;;;;
+1874;2019;12;female;Cyclone 'Belna';Comoros;Africa;No;;;;;;;;;;;;;
+1875;2019;12;female;Cyclone 'Belna';Madagascar;Africa;No;;180;5;6293;14000;;20293;;;;;25000;29796
+1876;2019;12;female;Tropical cyclone 'Phanfone' (Ursula);Philippines;Asia;No;;150;63;369;3296877;;3297246;;;;;15722;18738
+1877;2019;12;female;Tropical cyclone 'Sarai';Fiji;Oceania;No;;;1;;7780;;7780;;;;;;
+1878;2020;1;;Cyclone 'Tino';Fiji;Oceania;No;;155;2;;3115;;3115;;;;;;
+1879;2020;1;;Cyclone 'Tino';Tuvalu;Oceania;No;;;;;5500;;5500;;;;;;
+1880;2020;3;;Cyclone 'Herold';Madagascar;Africa;No;;148;4;;3200;;3200;;;;;;
+1881;2020;4;;Cyclone 'Harold';Fiji;Oceania;No;;;1;;180000;;180000;;;;;13000;15305
+1882;2020;4;;Cyclone 'Harold';Solomon Islands;Oceania;No;;215;48;;150000;;150000;;;;;;
+1883;2020;4;;Cyclone 'Harold';Tonga;Oceania;No;;222;;;25000;;25000;;;;;111000;130682
+1884;2020;4;;Cyclone 'Harold';Vanuatu;Oceania;No;;252;3;120;130000;;130120;;;;;;
+1885;2020;5;;Tropical Cyclone 'Vongfong' (Ambo);Philippines;Asia;No;;185;5;169;578571;;578740;;;;;31100;36614
+1886;2020;5;;Cyclone 'Amphan';Bangladesh;Asia;No;;;26;;2600000;;2600000;;;;;1500000;1765969
+1887;2020;5;;Cyclone 'Amphan';India;Asia;No;;185;90;;18000000;;18000000;;;;;13500000;15893722
+1888;2020;5;;Cyclone 'Amphan';Sri Lanka;Asia;No;;;4;;1100;;1100;;;;;;
+1889;2020;6;female;Cyclone 'Nisarga';India;Asia;No;;120;6;;7500;;7500;;;;;820000;965396
+1890;2020;5;female;Tropical storm 'Amanda';Guatemala;Americas;No;;;2;;306000;886;306886;;;;;;
+1891;2020;5;female;Tropical storm 'Amanda';Honduras;Americas;No;;;5;;1200;;1200;;;;;;
+1892;2020;5;female;Tropical storm 'Amanda';El Salvador;Americas;No;;;32;;149840;;149840;;;;;220000;259009
+1893;2020;6;;Tropical storm 'Cristobal';Mexico;Americas;No;;75;;;606;;606;;;;;;
+1894;2020;6;;Tropical storm 'Cristobal';United States of America;Americas;No;;85;1;;;;;;;;;325000;382627
+1895;2020;8;female;Tropical cyclone 'Sinlaku';Lao People's Democratic Republic;Asia;No;;75;;;1000;;1000;;;;;;
+1896;2020;8;female;Tropical cyclone 'Sinlaku';Thailand;Asia;No;;75;4;;;;;;;;;;
+1897;2020;7;female;Tropical cyclone 'Sinlaku';Viet Nam;Asia;No;;75;2;;10000;;10000;;;;;232;273
+1898;2020;8;;Tropical cyclone 'Hagupit' (Dindo);China;Asia;No;;130;;;15100;;15100;;;;;;
+1899;2020;8;;Tropical cyclone 'Hagupit' (Dindo);Republic of Korea;Asia;No;;130;26;7;1000;;1007;;;;;;
+1900;2020;8;;Tropical cyclone 'Hagupit' (Dindo);Taiwan (Province of China);Asia;No;;130;1;1;;;1;;;;;;
+1901;2020;7;;Hurricane 'Isaias';Cuba;Americas;No;;;;;500;;500;;;;;;
+1902;2020;7;;Hurricane 'Isaias';Dominican Republic;Americas;No;;;2;;5595;;5595;;;;;165000;194257
+1903;2020;8;;Hurricane 'Isaias';Puerto Rico;Americas;No;;;1;;;;;;;;;59800;70403
+1904;2020;7;;Hurricane 'Isaias';United States of America;Americas;No;;;16;;;;;;;;;4800000;5651101
+1905;2020;7;female;Hurricane 'Hanna';Mexico;Americas;No;;;5;;;;;;;;;135000;158937
+1906;2020;7;female;Hurricane 'Hanna';United States of America;Americas;No;;150;;;;;;;;;;1100000;1295044
+1907;2020;8;;Tropical cyclone 'Mekkhala' (Ferdie);China;Asia;No;;;;;12235;;12235;;;;;161000;189547
+1908;2020;8;female;Hurricane 'Laura';Dominican Republic;Americas;No;;;4;;10000;;10000;;;;;;
+1909;2020;8;female;Hurricane 'Laura';Haiti;Americas;No;;;39;;44175;;44175;;;;;;
+1910;2020;8;female;Hurricane 'Laura';United States of America;Americas;No;;240;33;;6500;;6500;;;10000000;11773127;13000000;15305066
+1911;2020;9;female;Tropical cyclone 'Haishen' (Kristine);Japan;Asia;No;;185;2;52;;;52;;;;;;
+1912;2020;9;female;Tropical cyclone 'Haishen' (Kristine);Republic of Korea;Asia;No;;185;2;;;;;;;800000;941850;1200000;1412775
+1913;2020;9;;Typhoon 'Maisak' (Julian);Japan;Asia;No;;175;;8;;;8;;;;;;
+1914;2020;9;;Typhoon 'Maisak' (Julian);Republic of Korea;Asia;No;;155;1;;2400;;2400;;;;;;
+1915;2020;10;female;Tropical storm Linfa;Cambodia;Asia;Yes;;;44;;759360;;759360;;;;;100000;117731
+1916;2020;10;female;Tropical storm Linfa;Lao People's Democratic Republic;Asia;No;;;2;;69764;;69764;;;;;;
+1917;2020;10;female;Tropical storm Linfa;Thailand;Asia;No;;;6;;274923;;274923;;;;;;
+1918;2020;10;female;Tropical storm Linfa;Viet Nam;Asia;No;;;243;;1500000;;1500000;;;;;850000;1000716
+1919;2020;10;;Hurricane 'Delta';United States of America;Americas;No;;195;4;;9400;;9400;;;;;2900000;3414207
+1920;2020;10;;Tropical storm 'Gamma';Mexico;Americas;No;;56;6;;3500;;3500;;;;;100000;117731
+1921;2020;10;female;Tropical storm 'Nangka' (Nika);China;Asia;No;;;6;;;;;;;;;14000;16482
+1922;2020;10;female;Tropical storm 'Nangka' (Nika);Viet Nam;Asia;No;;85;2;;67855;2925;70780;;;;;;
+1923;2020;9;female;Hurricane 'Sally';United States of America;Americas;No;;165;8;;;;;;;3500000;4120595;6300000;7417070
+1924;2020;10;female;Tropical depression 'Ofel';Philippines;Asia;No;;55;3;;250;;250;;;;;187;220
+1925;2020;9;;Tropical storm 'Noul' (Leon);Cambodia;Asia;No;;;;;;;;;;;;;
+1926;2020;9;;Tropical storm 'Noul' (Leon);Thailand;Asia;No;;;1;;;;;;;;;;
+1927;2020;9;;Tropical storm 'Noul' (Leon);Viet Nam;Asia;No;;85;6;;125000;;125000;;;;;33000;38851
+1928;2020;10;female;Typhoon 'Goni' (Rolly);Philippines;Asia;Yes;;315;31;399;3355995;;3356394;;;;;503294;592534
+1929;2020;10;;Typhoon 'Molave' (Quinta);Philippines;Asia;No;;155;31;40;888375;;888415;;;;;87100;102544
+1930;2020;10;;Typhoon 'Molave' (Quinta);Viet Nam;Asia;No;;145;41;;450000;;450000;;;;;540000;635749
+1931;2020;11;;Hurricane 'Eta';Belize;Americas;No;;;;;60000;;60000;;;;;;
+1932;2020;11;;Hurricane 'Eta';Colombia;Americas;No;;;;;49800;;49800;;;;;25000;29433
+1933;2020;11;;Hurricane 'Eta';Costa Rica;Americas;No;;;;;25000;;25000;;;;;;
+1934;2020;11;;Hurricane 'Eta';Guatemala;Americas;No;;;160;30;2415858;;2415888;;;;;386000;454443
+1935;2020;11;;Hurricane 'Eta';Honduras;Americas;Yes;;;110;;4566584;;4566584;;;;;;
+1936;2020;11;;Hurricane 'Eta';Mexico;Americas;No;;;31;;;;;;;;;;
+1937;2020;11;;Hurricane 'Eta';Nicaragua;Americas;Yes;;240;2;;30000;;30000;;;;;178000;209562
+1938;2020;11;;Hurricane 'Eta';Panama;Americas;No;;;79;;5000;;5000;;;;;11000;12950
+1939;2020;11;;Hurricane 'Eta';El Salvador;Americas;No;;;;;;;;;;;;;
+1940;2020;11;;Hurricane 'Eta';United States of America;Americas;No;;100;12;;;;;;;;;1500000;1765969
+1941;2020;10;;Hurricane 'Zeta';Mexico;Americas;No;;110;;;;;;;;;;100000;117731
+1942;2020;10;;Hurricane 'Zeta';United States of America;Americas;No;;175;6;;;;;;;;;3500000;4120595
+1943;2020;11;;Tropical cyclone 'Gati';Somalia;Africa;No;;165;9;;120000;;120000;;;;;;
+1944;2020;11;;Hurricane 'Iota';Colombia;Americas;No;;;23;;228000;;228000;;;;;100000;117731
+1945;2020;11;;Hurricane 'Iota';Guatemala;Americas;No;;;2;;131298;;131298;;;;;;
+1946;2020;11;;Hurricane 'Iota';Honduras;Americas;Yes;;;14;;578000;;578000;;;;;;
+1947;2020;11;;Hurricane 'Iota';Nicaragua;Americas;Yes;;;18;;900000;;900000;;;;;741000;872389
+1948;2020;11;;Hurricane 'Iota';Panama;Americas;No;;;4;;;;;;;;;;
+1949;2020;11;;Hurricane 'Iota';El Salvador;Americas;No;;;1;;;;;;;;;;
+1950;2020;11;;Tyhoon 'Ulysses' (Vamco);Philippines;Asia;No;;155;111;85;514824;;514909;;;;;421000;495649
+1951;2020;11;;Tyhoon 'Ulysses' (Vamco);Viet Nam;Asia;No;;130;;;;;;;;;;;
+1952;2020;11;;Cyclone Nivar;India;Asia;No;;;14;;;;;;;;;600000;706388
+1953;2020;11;;Tropical storm 'Etau' (Tonyo);Viet Nam;Asia;No;;85;2;;5000;;5000;;;;;5260;6193
+1954;2020;12;;Cyclone 'Yasa';Fiji;Oceania;Yes;;;5;;22000;;22000;;;;;1120;1319
+1955;2020;12;female;Tropical depression 'Vicky' (Krovanh);Philippines;Asia;No;;;9;2;36030;;36032;;;;;2293;2700
+1956;2020;12;female;Tropical depression 'Vicky' (Krovanh);Viet Nam;Asia;No;;;1;4;;;4;;;;;;
+1957;2021;1;female;Tropical cyclone 'Eloise';Madagascar;Africa;No;;;2;;1000;;1000;;;;;;
+1958;2021;1;female;Tropical cyclone 'Eloise';Mozambique;Africa;Yes;;160;11;15;481886;;481901;;;;;;
+1959;2021;1;female;Tropical cyclone 'Eloise';Eswatini;Africa;No;;;;;;;;;;;;;
+1960;2021;1;female;Tropical cyclone 'Eloise';South Africa;Africa;No;;;4;;3200;;3200;;;;;;
+1961;2021;1;female;Tropical cyclone 'Eloise';Zimbabwe;Africa;No;;160;3;;2400;;2400;;;;;;
+1962;2021;1;female;Tropical cyclone 'Ana';Fiji;Oceania;No;;140;6;;82751;;82751;;;;;10000;11245
+1963;2021;2;;Tropical storm 'Dujuan' (Auring);Philippines;Asia;No;;;5;2;272451;;272453;;;;;3114;3502
+1964;2021;2;;Tropial cylone 'Niran';Australia;Oceania;No;;120;;;6000;;6000;;;;;155000;174295
+1965;2021;3;;Tropial cylone 'Niran';New Caledonia;Oceania;No;;;;;;;;;;;;;
+1966;2021;4;;Tropical cyclone 'Seroja-21';Australia;Oceania;No;;155;1;;2625;;2625;;;;;530000;595978
+1967;2021;4;;Tropical cyclone 'Seroja-21';Indonesia;Asia;No;;85;226;21;509604;;509625;;;300000;337346;800000;899589
+1968;2021;4;;Tropical cyclone 'Seroja-21';Timor-Leste;Asia;Yes;;102;41;;143670;;143670;;;;;;
+1969;2021;4;;Tropical cyclone 'Surigae';Philippines;Asia;No;;;9;;15000;;15000;;;;;20000;22490
+1970;2021;4;;Tropical cyclone 'Surigae';Palau;Oceania;Yes;;136;;;7288;;7288;;;;;;
+1971;2021;5;;Tropical cyclone 'Tauktae';India;Asia;No;;222;198;153;700000;;700153;;;;;1400000;1574281
+1972;2021;5;;Tropical cyclone 'Tauktae';Sri Lanka;Asia;No;;;;;879;;879;;;;;;
+1973;2021;5;;Tropical cyclone 'Tauktae';Maldives;Asia;No;;;;;1320;;1320;;;;;;
+1974;2021;5;female;Cyclone 'Yaas';Bangladesh;Asia;No;;150;3;;1300000;;1300000;;;;;;
+1975;2021;5;female;Cyclone 'Yaas';India;Asia;No;;155;19;;1625000;;1625000;;;;;3000000;3373459
+1976;2021;6;female;Tropical storm 'Dolores';Mexico;Americas;No;;;3;;600;;600;;;;;50000;56224
+1977;2021;6;female;Tropical storm 'Koguma';Lao People's Democratic Republic;Asia;No;;;;;26000;;26000;;;;;;
+1978;2021;6;female;Tropical storm 'Koguma';Viet Nam;Asia;No;;90;1;;750;;750;;;;;10000;11245
+1979;2021;6;;Tropical storm 'Choi-Wan';Philippines;Asia;No;;;11;;21000;;21000;;;;;11000;12369
+1980;2021;6;;Tropical storm 'Choi-Wan';Taiwan (Province of China);Asia;No;;;;;;;;;;;;;
+1981;2021;6;;Tropical storm 'Enrique';Mexico;Americas;No;;93;2;;621;;621;;;;;50000;56224
+1982;2021;7;female;Hurricane 'Elsa';Barbados;Americas;No;;;;;3114;186;3300;;;;;;
+1983;2021;7;female;Hurricane 'Elsa';Cuba;Americas;No;;100;;;;;;;;;;;
+1984;2021;7;female;Hurricane 'Elsa';Dominican Republic;Americas;No;;;2;;153;;153;;;;;;
+1985;2021;7;female;Hurricane 'Elsa';Haiti;Americas;No;;;;3;;;3;;;;;;
+1986;2021;7;female;Hurricane 'Elsa';Saint Lucia;Americas;No;;;1;;;;;;;;;34000;38233
+1987;2021;7;female;Hurricane 'Elsa';United States of America;Americas;No;;100;1;9;;;9;;;;;1200000;1349384
+1988;2021;7;female;Hurricane 'Elsa';Saint Vincent and the Grenadines;Americas;No;;;;;129;;129;;;;;;
+1989;2021;7;;Typoon 'In-Fa';China;Asia;No;;176;5;;72000;;72000;;;;;2000000;2248973
+1990;2021;8;;Tropical cyclone 'Fred';Dominican Republic;Americas;No;;;;;4025;;4025;;;;;;
+1991;2021;8;;Tropical cyclone 'Fred';Haiti;Americas;No;;;;;;;;;;;;;
+1992;2021;8;female;Tropical cyclone 'Grace';Mexico;Americas;No;;205;13;;;;;;;;;500000;562243
+1993;2021;8;;Tropical depression 'Henri';United States of America;Americas;No;;120;;;86;;86;;;;;550000;618467
+1994;2021;8;;Tropical storm 'Fred';United States of America;Americas;No;;;7;;105;;105;;;;;1300000;1461832
+1995;2021;8;female;Tropical storm 'Ida';Cuba;Americas;No;;;;;;;;;;;;100000;112449
+1996;2021;8;female;Tropical storm 'Ida';United States of America;Americas;No;;240;96;;14000;;14000;;;36000000;40481508;65000000;73091612
+1997;2021;8;female;Tropical cylone 'Nora';Mexico;Americas;No;;110;2;3;1500;;1503;;;;;100000;112449
+1998;2021;8;;Tropical depression 'Omais' (Isang);Republic of Korea;Asia;No;;;;;600;;600;;;;;13000;14618
+1999;2021;9;;Tropical storm 'Nicholas';United States of America;Americas;No;;;;;;;;;;;;1000000;1124486
+2000;2021;9;female;Tropical cyclone 'Conson' (Jolina);Philippines;Asia;No;;;17;24;313373;;313397;;;;;;
+2001;2021;9;female;Tropical cyclone 'Conson' (Jolina);Viet Nam;Asia;No;;;2;;310;;310;;;;;;
+2002;2021;9;;Cyclone 'Gulab';India;Asia;No;;90;20;;;;;;;;;;
+2003;2021;10;;Cyclone 'Shaheen';India;Asia;No;;;7;;179000;;179000;;;;;;
+2004;2021;10;;Cyclone 'Shaheen';Iran (Islamic Republic of);Asia;No;;;2;122;;;122;;;;;;
+2005;2021;10;;Cyclone 'Shaheen';Oman;Asia;No;;102;13;;;;;;;;;;
+2006;2021;10;;Tropical cyclone 'Lionrock' (Lannie);China, Hong Kong Special Administrative Region;Asia;No;;;1;14;140;;154;;;;;;
+2007;2021;10;;Tropical cyclone 'Lionrock' (Lannie);Philippines;Asia;No;;;3;;8048;;8048;;;;;240;270
+2008;2021;10;female;Tropical cyclone 'Kompasu' (Maring);China, Hong Kong Special Administrative Region;Asia;No;;;1;21;;;21;;;;;;
+2009;2021;10;female;Tropical cyclone 'Kompasu' (Maring);Philippines;Asia;No;;102;59;5;1140534;;1140539;;;;;75610;85022
+2010;2021;10;;Tropical depression 'Twe';Viet Nam;Asia;No;;;5;;82500;;82500;;;;;7500;8434
+2011;2021;10;;Tropical cyclone 'Rick';Mexico;Americas;No;;165;;;150;;150;;;;;10000;11245
+2012;2021;12;;Tropical storm 'Jawad';India;Asia;No;;100;5;400;1650;;2050;;;;;;
+2013;2021;12;female;Typhoon 'Rai' (Odette);Philippines;Asia;No;;240;457;1371;10607625;;10608996;;;;;915271;1029210
+2014;2021;12;female;Typhoon 'Rai' (Odette);Viet Nam;Asia;No;;;3;;;;;;;;;9000;10120
+2015;2022;1;;Tropical storm 'Cody';Fiji;Oceania;No;;74;1;;69564;;69564;;;;;25000;26029
+2016;2022;1;female;Tropical storm 'Ana';Madagascar;Africa;No;;;55;;131555;;131555;;;;;;
+2017;2022;1;female;Tropical storm 'Ana';Mozambique;Africa;No;;100;38;207;185429;;185636;;;;;;
+2018;2022;1;female;Tropical storm 'Ana';Malawi;Africa;No;;;64;206;945728;;945934;;;;;;
+2019;2022;1;female;Tropical storm 'Ana';Zimbabwe;Africa;No;;;;;3000;;3000;;;;;;
+2020;2022;2;;Cyclone 'Batsirai';Madagascar;Africa;No;;235;92;;112115;;112115;;;;;;
+2021;2022;2;;Cyclone 'Batsirai';Mauritius;Africa;No;;151;1;;139;;139;;;;;;
+2022;2022;2;;Cyclone 'Batsirai';Réunion;Africa;No;;;;13;;;13;;;;;;
+2023;2022;2;;Tropical storm 'Dumako';Madagascar;Africa;No;;75;14;;9900;;9900;;;;;;
+2024;2022;2;;Tropical storm 'Dumako';Mozambique;Africa;No;;66;14;;23733;;23733;;;;;;
+2025;2022;2;;Cyclone 'Emnati';Madagascar;Africa;No;;140;15;;169000;;169000;;;;;16000;16659
+2026;2022;3;;Tropical cyclone 'Gombe';Madagascar;Africa;No;;90;2;;900;;900;;;;;;
+2027;2022;3;;Tropical cyclone 'Gombe';Mozambique;Africa;No;;185;63;108;736015;;736123;;;;;;
+2028;2022;3;;Tropical cyclone 'Gombe';Malawi;Africa;No;;;7;;;;;;;;;;
+2029;2022;4;;Tropical storm 'Megi' (Agaton);Philippines;Asia;No;;80;346;8;2298780;;2298788;;;;;41556;43267
+2030;2022;4;female;Tropical storm 'Jasmine';Madagascar;Africa;No;;53;12;;4800;;4800;;;;;;
+2031;2022;5;female;Tropical cyclone 'Agatha';Mexico;Americas;No;;16;31;;;;;;;;;51000;53099
+2032;2022;7;female;Tropical storm 'Chaba';China;Asia;No;;144;24;;;;;;;;;463000;482059
+2033;2022;7;;Tropical depression 'Aere';Japan;Asia;No;;46;;2;390;;392;;;;;;
+2034;2022;7;female;Tropical storm 'Bonnie';Nicaragua;Americas;No;;;4;12;3000;;3012;;;;;;
+2035;2022;7;female;Tropical storm 'Bonnie';El Salvador;Americas;No;;;1;;100;;100;;;;;;
+2036;2022;8;female;Tropical Cyclone 'Ma-On' (Florita);Philippines;Asia;No;;;;;7616;;7616;;;;;;
+2037;2022;9;;Typhoon 'Hinnamnor';Republic of Korea;Asia;No;;;12;3;36000;;36003;;;;;;
+2038;2022;9;female;Hurricane 'Fiona';Canada;Americas;No;;;1;;4000;;4000;;;;;;
+2039;2022;9;female;Hurricane 'Fiona';Dominican Republic;Americas;No;;150;2;;1434802;;1434802;;;;;;
+2040;2022;9;female;Hurricane 'Fiona';Guadeloupe;Americas;No;;;1;;;;;;;;;;
+2041;2022;9;female;Hurricane 'Fiona';Puerto Rico;Americas;No;;;25;;;;;;;;;2500000;2602910
+2042;2022;9;;Typhoon 'Nanmadol';Japan;Asia;No;;175;5;140;1200;;1340;;;;;2000000;2082328
+2043;2022;9;;Hurricane 'Ian';Cuba;Americas;No;;208;3;;3200000;;3200000;;;;;25000;26029
+2044;2022;9;;Hurricane 'Ian';United States of America;Americas;No;;240;152;;;;;;;60000000;62469844;100000000;104116407
+2045;2022;9;;Typhoon 'Talas';Japan;Asia;No;;65;3;;13323;;13323;;;;;752000;782955
+2046;2022;10;female;Hurricane 'Julia';Colombia;Americas;No;;;;2;5000;;5002;;;;;;
+2047;2022;10;female;Hurricane 'Julia';Costa Rica;Americas;No;;;;;300000;;300000;;;;;;
+2048;2022;10;female;Hurricane 'Julia';Guatemala;Americas;No;;;4;11;457300;;457311;;;;;;
+2049;2022;10;female;Hurricane 'Julia';Honduras;Americas;No;;;5;;144000;;144000;;;;;;
+2050;2022;10;female;Hurricane 'Julia';Nicaragua;Americas;No;;;1;;45000;2100;47100;;;;;180000;187410
+2051;2022;10;female;Hurricane 'Julia';El Salvador;Americas;No;;70;10;;9273;;9273;;;;;17000;17700
+2052;2022;10;female;Tropical depression 'Maymay';Philippines;Asia;No;;;;;7000;;7000;;;;;18000;18741
+2053;2022;10;;Tropical storm 'Karl';Mexico;Americas;No;;;3;;1000;;1000;;;;;;
+2054;2022;10;;Tropical storm 'Sonca';Viet Nam;Asia;No;;;19;110;436868;;436978;;;;;65000;67676
+2055;2022;10;;Tropical cyclone 'Nesat';Philippines;Asia;No;;148;;2;103600;;103602;;;;;;
+2056;2022;10;;Tropical cyclone 'Nesat';Taiwan (Province of China);Asia;No;;;;;100;;100;;;;;400;416
+2057;2022;10;;Tropical storm 'Sitrang';Bangladesh;Asia;No;;95;35;;1000000;;1000000;;;;;;
+2058;2022;10;female;Hurricane 'Roslyn';Mexico;Americas;No;;215;4;;15000;;15000;;;;;;
+2059;2022;10;;Storm 'Nalgae' (Paeng);Philippines;Asia;No;;130;158;103;3323188;;3323291;;;;;45569;47445
+2060;2022;11;female;Hurricane 'Lisa';Belize;Americas;No;;120;;;172000;150;172150;;;;;100000;104116
+2061;2022;11;female;Hurricane 'Nicole';United States of America;Americas;No;;120;5;;1500;;1500;;;;;1000000;1041164
+2062;2022;12;;Cyclone 'Mandous';India;Asia;No;;;;;;;;;;;;;
+2063;2022;12;;Cyclone 'Mandous';Sri Lanka;Asia;No;;100;2;;6500;;6500;;;;;;
+2064;2023;1;;Tropical cyclone 'Cheneso';Madagascar;Africa;No;;106;53;;90870;;90870;;;;;20000;20000
+2065;2023;2;female;Cyclone 'Gabrielle';New Zealand;Oceania;No;;140;11;;10500;;10500;;;1900000;1900000;2800000;2800000
+2066;2023;2;;Tropical cyclone 'Freddy';Madagascar;Africa;No;;165;17;;299000;;299000;;;;;;
+2067;2023;2;;Tropical cyclone 'Freddy';Mozambique;Africa;No;;95;183;698;1230691;;1231389;;;;;;
+2068;2023;2;;Tropical cyclone 'Freddy';Mauritius;Africa;No;;;1;;2500;;2500;;;;;;
+2069;2023;3;;Tropical cyclone 'Freddy';Malawi;Africa;No;;;1209;2186;2267458;;2269644;680400;680400;;;506710;506710
+2070;2023;2;;Tropical cyclone 'Freddy';Réunion;Africa;No;;;;;25000;;25000;;;;;;
+2071;2023;2;;Tropical cyclone 'Freddy';Zimbabwe;Africa;No;;;2;;;;;;;;;;
+2072;2023;2;female;Tropical cyclone 'Judy';Vanuatu;Oceania;No;;;;;251346;;251346;;;;;;
+2073;2023;3;;Tropical cyclone 'Kevin';Vanuatu;Oceania;No;;;;;251356;;251356;;;;;;
+2074;2023;3;;Storm 'Yaku';Peru;Americas;No;;;8;;45000;;45000;;;;;705000;705000
+2075;2023;4;;Tropical Depression 'Amang';Philippines;Asia;No;;;;;136149;;136149;;;;;222;222
+2076;2023;5;female;Cyclone 'Mocha';Bangladesh;Asia;No;;220;3;12;750000;;750012;;;;;1000;1000
+2077;2023;5;female;Cyclone 'Mocha';India;Asia;No;;;;;1000;;1000;;;;;;
+2078;2023;5;female;Cyclone 'Mocha';Myanmar;Asia;No;;300;148;132;1200000;;1200132;;;;;2240000;2240000
+2079;2023;5;female;Typhoon 'Mawar';Guam;Oceania;No;;295;2;;100000;;100000;;;;;4300000;4300000
+2080;2023;6;female;Typhoon 'Mawar';Japan;Asia;No;;215;3;35;;;35;;;;;;
+2081;2023;5;female;Typhoon 'Mawar';Philippines;Asia;No;;;1;1;30500;;30501;;;;;;
+2082;2023;5;female;Typhoon 'Mawar';Taiwan (Province of China);Asia;No;;;1;;;;;;;;;;
+2083;2023;6;;Cyclone 'Biparjoy';India;Asia;No;;125;7;;10000;;10000;;;;;;
+2084;2023;6;;Cyclone 'Biparjoy';Pakistan;Asia;No;;;1;;;;;;;;;;
+2085;2023;6;;Tropical storm 'Bret';Barbados;Americas;No;;;;;179;;179;;;;;;
+2086;2023;6;;Tropical storm 'Bret';Saint Vincent and the Grenadines;Americas;No;;;;;150;;150;;;;;;
+2087;2023;7;;Tropical cyclone 'Talim';Philippines;Asia;No;;;2;;450;;450;;;;;;
+2088;2023;7;;Tropical cyclone 'Talim';Viet Nam;Asia;No;;;1;3;;;3;;;;;;
+2089;2023;7;;Tropical cyclone 'Doksuri' (Egay);China;Asia;No;;185;56;39;880000;;880039;;;;;25000000;25000000
+2090;2023;7;;Tropical cyclone 'Doksuri' (Egay);Philippines;Asia;No;;240;39;171;5385066;;5385237;;;;;284256;284256
+2091;2023;7;;Tropical cyclone 'Doksuri' (Egay);Taiwan (Province of China);Asia;No;;;1;68;;;68;;;;;10000;10000
+2092;2023;8;;Tropical cyclone 'Khanoun';Japan;Asia;No;;220;2;41;;;41;;;;;;
+2093;2023;8;;Tropical cyclone 'Khanoun';Republic of Korea;Asia;No;;;2;;;;;;;;;;
+2094;2023;8;;Tropical cyclone 'Khanoun';Russian Federation;Europe;No;;;3;;13200;;13200;;;;;;
+2095;2023;8;female;Typhoon 'Lan';Japan;Asia;No;;;;66;600;;666;;;;;;
+2096;2023;8;;Tropical storm 'Franklin';Dominican Republic;Americas;No;;80;3;;289083;;289083;;;;;;
+2097;2023;8;female;Hurricane 'Idalia';Cuba;Americas;No;;;;;;;;;;;;;
+2098;2023;8;female;Hurricane 'Idalia';United States of America;Americas;No;;150;5;;;;;;;;;3500000;3500000
+2099;2023;9;;Typhoon 'Saola';China;Asia;No;;;1;2;;;2;;;;;690000;690000
+2100;2023;9;;Typhoon 'Saola';China, Hong Kong Special Administrative Region;Asia;No;;;;86;;;86;;;;;;
+2101;2023;8;;Typhoon 'Saola';Philippines;Asia;No;;;4;3;900000;;900003;;;;;33000;33000
+2102;2023;9;;Tropical storm 'Yun-Yeung';Japan;Asia;No;;;3;;3600;;3600;;;;;;
+2103;2023;10;;Typhoon 'Koinu';China;Asia;No;;;;;;;;;;;;;
+2104;2023;10;;Typhoon 'Koinu';China, Hong Kong Special Administrative Region;Asia;No;;;;;;;;;;;;;
+2105;2023;10;;Typhoon 'Koinu';Philippines;Asia;No;;;;;275;;275;;;;;;
+2106;2023;10;;Typhoon 'Koinu';Taiwan (Province of China);Asia;No;;191;1;190;;;190;;;;;;
+2107;2023;10;;Tropical storm 'Otis';Mexico;Americas;No;;270;104;;988000;;988000;;;4000000;4000000;12000000;12000000
+2108;2023;10;female;Tropical cyclone 'Lola';Solomon Islands;Oceania;No;;;;;22319;;22319;;;;;;
+2109;2023;10;female;Tropical cyclone 'Lola';Vanuatu;Oceania;No;;205;;;91000;;91000;;;;;;
+2110;2023;10;;Tropical cyclone 'Tej';Yemen;Asia;No;;;7;150;90000;;90150;;;;;;
+2111;2023;10;;Tropical cyclone 'Hamoon';Bangladesh;Asia;No;;110;3;;1500000;;1500000;;;;;250000;250000
+2112;2023;10;female;Tropical storm 'Pilar';Honduras;Americas;No;;;1;;;;;;;;;;
+2113;2023;10;female;Tropical storm 'Pilar';El Salvador;Americas;No;;;3;;500;;500;;;;;;
+2114;2023;12;;Tropical storm 'Michaung';India;Asia;No;;110;20;;4390000;;4390000;;;;;125000;125000
+2115;2023;11;;Tropical cyclone 'Mal';Fiji;Oceania;No;;;;;230000;;230000;;;;;;
+2116;2023;12;;Cyclone 'Jasper';Australia;Oceania;No;;220;;;300;;300;;;;;;
+2117;2023;12;;Tropical storm 'Jelawat' (Kabayan);Philippines;Asia;No;;;1;1;425866;;425867;;;;;42;42
+2118;2024;1;;Tropical cyclone 'Alvaro';Madagascar;Africa;No;;;10;;25837;;25837;;;;;;
+2119;2024;1;;Cyclone 'Belal';Mauritius;Africa;No;;;2;;100000;;100000;;;;;;
+2120;2024;1;;Cyclone 'Belal';Réunion;Africa;No;;;4;;700;;700;;;;;;
+2121;2024;3;;Tropîcal storm 'Filipo';Mozambique;Africa;No;;120;2;85;93240;;93325;;;;;;
+2122;2024;3;;Cyclone 'Gamane';Madagascar;Africa;No;;210;22;4;89465;;89469;;;;;50000;
+2123;2024;5;;Cyclone 'Remal';Bangladesh;Asia;No;;111;16;13;4590000;;4590013;;;;;90700;
+2124;2024;5;;Cyclone 'Remal';India;Asia;No;;;51;500;2109143;;2109643;;;;;;
+2125;2024;5;;Tropical cyclone 'Ewiniar' (Aghon);Philippines;Asia;No;;;6;8;52000;;52008;;;;;20000;
+2126;2024;6;;Tropical storm 'Alberto';Guatemala;Americas;No;;;10;;14400;;14400;;;;;;
+2127;2024;6;;Tropical storm 'Alberto';Honduras;Americas;No;;;1;;1500;;1500;;;;;;
+2128;2024;6;;Tropical storm 'Alberto';Mexico;Americas;No;;;4;;;;;;;;;;
+2129;2024;7;female;Hurricane 'Beryl';Barbados;Americas;No;;;;;2500;;2500;;;;;;
+2130;2024;7;female;Hurricane 'Beryl';Canada;Americas;No;;;1;;;;;;;;;;
+2131;2024;7;female;Hurricane 'Beryl';Grenada;Americas;No;;265;8;27;6981;;7008;;;44000;;430000;
+2132;2024;7;female;Hurricane 'Beryl';Jamaica;Americas;No;;270;3;60;160000;;160060;;;16300;;1000000;
+2133;2024;7;female;Hurricane 'Beryl';United States of America;Americas;No;;130;8;;207;;207;;;;;4500000;
+2134;2024;7;female;Hurricane 'Beryl';Saint Vincent and the Grenadines;Americas;No;;265;3;;15000;;15000;;;1800;;;
+2135;2024;7;female;Hurricane 'Beryl';Venezuela (Bolivarian Republic of);Americas;No;;;8;;29000;;29000;;;;;;
+2136;2024;6;;Tropica storm 'Chris';Mexico;Americas;No;;65;6;;20000;;20000;;;;;;
+2137;2024;7;female;Typhoon 'Gaemi' (Carina);Philippines;Asia;No;;;45;9;3631339;;3631348;;;;;;
+2138;2024;7;female;Typhoon 'Gaemi' (Carina);Taiwan (Province of China);Asia;No;;190;11;3300;;;3300;;;;;;
+2139;2024;9;female;Typhoon 'Yagi';Lao People's Democratic Republic;Asia;No;;;5;;51440;;51440;;;;;;
+2140;2024;9;female;Typhoon 'Yagi';Myanmar;Asia;No;;;116;;631000;;631000;;;;;;
+2141;2024;9;female;Typhoon 'Yagi';Philippines;Asia;No;;75;47;;;;;;;;;;
+2142;2024;9;female;Typhoon 'Yagi';Thailand;Asia;No;;;20;;;;;;;;;;
+2143;2024;9;female;Typhoon 'Yagi';Viet Nam;Asia;No;;;338;1900;;;1900;;;;;;
