@@ -1,3 +1,4 @@
+
 // Datos inventados sobre huracanes por año
 const hurricaneData = {
     labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021'],
