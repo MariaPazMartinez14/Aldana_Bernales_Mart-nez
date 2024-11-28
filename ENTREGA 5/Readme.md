@@ -9,3 +9,6 @@
 
 ### Fue un momento muy productivo y logramos aprender a manejar mejor las herramientas para poder desarrollar de manera más ordenada el flujo informativo del sitio y el "user journey". 
 
+### Jueves 28 de noviembre 
+#### Nos juntamos para avanzar en la página. Establecimos el tipo de elementos gráficos que queremos desarrollar. 
+##### (Varios gráficos de barra y uno de torta, en principio). 
