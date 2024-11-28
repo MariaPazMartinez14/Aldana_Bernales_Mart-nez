@@ -12,3 +12,5 @@
 ### Jueves 28 de noviembre 
 #### Nos juntamos para avanzar en la página. Establecimos el tipo de elementos gráficos que queremos desarrollar. 
 ##### (Varios gráficos de barra y uno de torta, en principio). 
+
+#### Subimos la base de datos finalmente limpia. 
