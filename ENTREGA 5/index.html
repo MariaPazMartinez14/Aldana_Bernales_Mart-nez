@@ -1,26 +1,193 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
+<head> 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Web Story</title>
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+  
+  <title>Secciones de Pantalla Completa</title>
+  <style>
+    /* Estilos generales para el cuerpo */
+    body {
+      margin: 0;
+      font-family: 'Rubik Mono One', sans-serif;
+    }
+
+    /* Contenedor de las secciones */
+    .sections {
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Estilos de cada sección */
+    .section {
+      padding: 40px;
+      height: 100vh; /* Cada sección ocupa una pantalla completa */
+      background-color: #151924;
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Títulos principales */
+    .section h1 {
+      font-size: 40px;
+      color: #C0A2D8;
+      margin-bottom: 20px;
+    }
+
+    /* Estilo para las subsecciones */
+    .subsection {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .subsection h2 {
+      font-size: 20px;
+      color: #7B9A9B;
+    }
+
+    /* Diferentes tamaños de fuente para cada subsección */
+    .subsection .large-text {
+      font-size: 30px;
+      color: #C0A2D8; /* Azul */
+    }
+
+    .subsection .medium-text {
+      font-size: 20px;
+      color: #C0A2D8 ; /* Rojo */
+    }
+
+    .subsection .small-text {
+      font-size: 10px;
+      color: #7B9A9B; /* Gris */
+    }
+  </style>
 </head>
 <body>
-  <div class="story-container">
-    <div class="slide">
-      <img src="image1.jpg" alt="Imagen 1">
-      <h2>Tormenta femenina</h2>
+
+  <div class="sections">
+    
+    <!-- Sección 1 -->
+    <div class="section" id="section1">
+      <h1>Tormenta femenina</h1>
+      <div class="subsection">
+        <h2>A lo largo de la historia se ha vinculado la magnitud (Kph) de los huracanes a su nivel de gravedad. Coincidentemente, ésta práctica ha contribuido en el desarrollo de la concepción de los huracanes con nombres femeninos como más destructivos. 
+</h2>
+         <p class="small-text">Así, el sistema de nombramiento para estos fenómenos se ha vuelto clave en la forma cómo los entendemos y nos preparamos ante su llegada. </p>       
+      </div>
     </div>
-    <div class="slide">
-      <img src="image2.jpg" alt="Imagen 2">
-      <h2>Contexto</h2>
+
+    <!-- Sección 2 -->
+    <div class="section" id="section2">
+      <h1>Contexto</h1>
+      <div class="subsection">
+        <h2></h2>
+        <p class="medium-text">Antes de que se comenzaran a nombrar los huracanes, se usaban términos descriptivos para identificar las tormentas, aunque no de forma sistemática. Simplemente se identificaban por el año y la ubicación o por la ruta que seguían. </p>
+      </div>
+      <div class="subsection">
+        <h2></h2>
+        <p class="large-text"></p>
+      </div>
     </div>
-    <div class="slide">
-      <img src="image3.jpg" alt="Imagen 3">
-      <h2>Nuestra interrogante:</h2>
+
+    <!-- Sección 3 -->
+    <div class="section" id="section3">
+      <h1></h1>
+      <div class="subsection">
+        <h2></h2>
+        <p       <div class="subsection">
+        <h2>En 1953 el US Weather Bureau creó un sistema más accesible y comprensible para el público, utilizando nombres humanos. Los primeros eran femeninos. La razón no es clara, pero hay algunas teorías:
+      </div>
+      <div class="subsection">
+        <h2></h2>
+        <p class="small-text"></p>
+      </div>
     </div>
+
+    <!-- Sección 4 -->
+    <div class="section" id="section4">
+      <h1></h1>
+      <div class="subsection">
+        <h2>1. Cultura de la época:</h2>
+        <p class="medium-text">La sociedad asociaba las tormentas con características "femeninas", como la imprevisibilidad o volatilidad. </p>
+      </div>
+      <div class="subsection">
+        <h2></h2>
+        <p class="medium-text"></p>
+      </div>
+    </div>
+
+    <!-- Sección 5 -->
+    <div class="section" id="section5">
+      <h1></h1>
+      <div class="subsection">
+        <h2>2. Convenciencia de la comunicación:</h2>
+        <p class="medium-text">los nombres femeninos eran más fáciles de recordar y comunicar en los informes, facilitando la difusión de advertencias.
+      </div>
+      <div class="subsection">
+        <h2></h2>
+        <p class="small-text"></p>
+      </div>
+    </div>
+
+    <!-- Sección 6 -->
+    <div class="section" id="section6">
+      <h1>Sección 6</h1>
+      <div class="subsection">
+        <h2>Subsección 6.1</h2>
+        <p class="large-text">Texto grande para la subsección 6.1.</p>
+      </div>
+      <div class="subsection">
+        <h2>Subsección 6.2</h2>
+        <p class="medium-text">Texto mediano para la subsección 6.2.</p>
+      </div>
+    </div>
+
+    <!-- Sección 7 -->
+    <div class="section" id="section7">
+      <h1>Sección 7</h1>
+      <div class="subsection">
+        <h2>Subsección 7.1</h2>
+        <p class="small-text">Texto pequeño para la subsección 7.1.</p>
+      </div>
+      <div class="subsection">
+        <h2>Subsección 7.2</h2>
+        <p class="large-text">Texto grande para la subsección 7.2.</p>
+      </div>
+    </div>
+
+    <!-- Sección 8 -->
+    <div class="section" id="section8">
+      <h1>Sección 8</h1>
+      <div class="subsection">
+        <h2>Subsección 8.1</h2>
+        <p class="medium-text">Texto mediano para la subsección 8.1.</p>
+      </div>
+      <div class="subsection">
+        <h2>Subsección 8.2</h2>
+        <p class="large-text">Texto grande para la subsección 8.2.</p>
+      </div>
+    </div>
+
+    <!-- Sección 9 -->
+    <div class="section" id="section9">
+      <h1>Sección 9</h1>
+      <div class="subsection">
+        <h2>Subsección 9.1</h2>
+        <p class="small-text">Texto pequeño para la subsección 9.1.</p>
+      </div>
+      <div class="subsection">
+        <h2>Subsección 9.2</h2>
+        <p class="medium-text">Texto mediano para la subsección 9.2.</p>
+      </div>
+    </div>
+    
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>

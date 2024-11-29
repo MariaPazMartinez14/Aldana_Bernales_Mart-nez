@@ -1,35 +1,97 @@
-/* Estilo global para el body */
-body {
-    font-family: 'Times New Roman', Times, serif;
+* {
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
-}
-
-/* Estilo para el encabezado */
-header {
-    background-color: #0077b6;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    font-family: "Rubik Mono One", monospace;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+  }
+  
+  .sections {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #C0A2D8;
+    font-size: 3.5rem;
+    background-color: #151924;
+  }
+  
+  #section1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+  }
+  
+  #section2 {
+    font-family: 'Georgia', serif;
+    font-size: 2rem;
+    color: #7B9A9B;
+  }
+  
+  #section3 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 2rem;
+  }
+  
+  #section4 {
+    font-family: 'Courier New', monospace;
+    font-size: 2rem;
+  }
+  
+  #section5 {
+    font-family: 'Times New Roman', serif;
+    font-size: 2rem;
+  }
+  
+  #section6 {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 2rem;
+  }
+  
+  #section7 {
+    font-family: 'Impact', sans-serif;
+    font-size: 2rem;
+  }
+  
+  #section8 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+  }
+  
+  #section9 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 2rem;
+  }
+  
+  button {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #333;
     color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-/* Estilo para el contenido dentro de la sección */
-section {
-    padding: 20px;
-    text-align: center;
-}
-
-/* Estilo del canvas (el gráfico) */
-canvas {
-    width: 80%;
-    height: 400px;
-    margin: 0 auto;
-}
-
-/* Estilo para los textos descriptivos */
-.description {
-    font-size: 1.2em;
-    margin-top: 20px;
-    color: #333;
-}
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  

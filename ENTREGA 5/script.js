@@ -1,40 +1,47 @@
-
-// Datos inventados sobre huracanes por año
-const hurricaneData = {
-    labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021'],
-    datasets: [{
-        label: 'Número de Huracanes',
-        data: [5, 7, 10, 6, 8, 12, 9], // Número de huracanes por año
-        backgroundColor: 'rgba(0, 123, 255, 0.6)',
-        borderColor: 'rgba(0, 123, 255, 1)',
-        borderWidth: 1
-    }]
-};
-
-// Configuración del gráfico
-const config = {
-    type: 'bar',
-    data: hurricaneData,
-    options: {
-        responsive: true,
-        scales: {
-            y: {
-                beginAtZero: true,
-                title: {
-                    display: true,
-                    text: 'Número de Huracanes'
-                }
-            },
-            x: {
-                title: {
-                    display: true,
-                    text: 'Año'
-                }
-            }
-        }
+document.addEventListener('DOMContentLoaded', function() {
+    const sectionsContainer = document.querySelector('.sections');
+    const sections = document.querySelectorAll('.section');
+    let currentSectionIndex = 0;
+  
+    function scrollToSection(index) {
+      if (index >= 0 && index < sections.length) {
+        currentSectionIndex = index;
+        sectionsContainer.style.transform = `translateY(-${currentSectionIndex * 100}vh)`;
+      }
     }
-};
-
-// Crear el gráfico
-const ctx = document.getElementById('hurricaneChart').getContext('2d');
-new Chart(ctx, config);
+  
+    document.getElementById('scrollButton')?.addEventListener('click', function() {
+      const nextSectionIndex = currentSectionIndex + 1;
+      if (nextSectionIndex < sections.length) {
+        scrollToSection(nextSectionIndex);
+      }
+    });
+  
+    document.addEventListener('wheel', function(e) {
+      if (e.deltaY > 0) {
+        const nextSectionIndex = currentSectionIndex + 1;
+        if (nextSectionIndex < sections.length) {
+          scrollToSection(nextSectionIndex);
+        }
+      } else {
+        const prevSectionIndex = currentSectionIndex - 1;
+        if (prevSectionIndex >= 0) {
+          scrollToSection(prevSectionIndex);
+        }
+      }
+    });
+  
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'ArrowDown') {
+        const nextSectionIndex = currentSectionIndex + 1;
+        if (nextSectionIndex < sections.length) {
+          scrollToSection(nextSectionIndex);
+        }
+      } else if (e.key === 'ArrowUp') {
+        const prevSectionIndex = currentSectionIndex - 1;
+        if (prevSectionIndex >= 0) {
+          scrollToSection(prevSectionIndex);
+        }
+      }
+    });
+  });
