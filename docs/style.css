@@ -1,0 +1,88 @@
+/* Estilos generales para el cuerpo */
+body {
+    margin: 0;
+    font-family: 'Rubik Mono One', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #151924;
+}
+
+/* Contenedor de las secciones */
+.sections {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Estilos de cada sección */
+.section {
+    padding: 40px;
+    min-height: 100vh; /* Garantiza que cada sección ocupe al menos la altura de la pantalla */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #C0A2D8;
+    text-align: center;
+    margin-bottom: 0;
+    background-color: #151924;
+    box-sizing: border-box;
+}
+
+/* Títulos principales */
+.section h1 {
+    font-size: 80px; /* Aumentado el tamaño para 'Tormenta femenina' */
+    color: #C0A2D8;
+    margin-bottom: 20px;
+    text-align: center; /* Asegura que el texto esté centrado */
+    width: 100%;
+}
+
+/* Estilos para las subsecciones */
+.subsection {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.subsection h2 {
+    font-size: 22px; /* Aumentado tamaño del texto para el párrafo largo */
+    color: #7B9A9B;
+    line-height: 1.5;
+}
+
+/* Diferentes tamaños de fuente para cada subsección */
+.subsection .large-text {
+    font-size: 30px;
+    color: #C0A2D8; /* Azul */
+}
+
+.subsection .medium-text {
+    font-size: 24px; /* Aumentado para el texto medio */
+    color: #C0A2D8; /* Rojo */
+}
+
+.subsection .small-text {
+    font-size: 12px; /* Texto un poco más grande */
+    color: #7B9A9B; /* Gris */
+}
+
+/* Media Queries para dispositivos más pequeños */
+@media (max-width: 768px) {
+    .section h1 {
+        font-size: 50px; /* Ajuste en pantallas pequeñas */
+    }
+
+    .subsection h2 {
+        font-size: 20px;
+    }
+
+    .subsection .large-text {
+        font-size: 25px;
+    }
+
+    .subsection .medium-text {
+        font-size: 18px;
+    }
+
+    .subsection .small-text {
+        font-size: 14px;
+    }
+}
