@@ -11,7 +11,8 @@
     body {
       margin: 0;
       font-family: 'Rubik Mono One', sans-serif;
-      scroll-behavior: smooth; /* Desplazamiento suave */
+      scroll-behavior: smooth;
+      background-color: #151924;
     }
 
     /* Contenedor de las secciones */
@@ -23,32 +24,37 @@
     /* Estilos de cada sección */
     .section {
       padding: 40px;
-      height: 100vh; /* Cada sección ocupa una pantalla completa */
-      background-color: #151924;
-      margin-bottom: 0; /* Elimina margen inferior para evitar saltos bruscos */
+      min-height: 100vh; /* Garantiza que cada sección ocupe al menos la altura de la pantalla */
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      color: #C0A2D8;
+      text-align: center;
+      margin-bottom: 0;
+      background-color: #151924;
+      box-sizing: border-box;
     }
 
     /* Títulos principales */
     .section h1 {
-      font-size: 40px;
+      font-size: 80px; /* Aumentado el tamaño para 'Tormenta femenina' */
       color: #C0A2D8;
       margin-bottom: 20px;
+      text-align: center; /* Asegura que el texto esté centrado */
+      width: 100%;
     }
 
-    /* Estilo para las subsecciones */
+    /* Estilos para las subsecciones */
     .subsection {
       width: 100%;
-      text-align: center;
       margin-bottom: 20px;
     }
 
     .subsection h2 {
-      font-size: 20px;
+      font-size: 22px; /* Aumentado tamaño del texto para el párrafo largo */
       color: #7B9A9B;
+      line-height: 1.5;
     }
 
     /* Diferentes tamaños de fuente para cada subsección */
@@ -58,13 +64,36 @@
     }
 
     .subsection .medium-text {
-      font-size: 20px;
-      color: #C0A2D8 ; /* Rojo */
+      font-size: 24px; /* Aumentado para el texto medio */
+      color: #C0A2D8; /* Rojo */
     }
 
     .subsection .small-text {
-      font-size: 10px;
+      font-size: 12px; /* Texto un poco más grande */
       color: #7B9A9B; /* Gris */
+    }
+
+    /* Media Queries para dispositivos más pequeños */
+    @media (max-width: 768px) {
+      .section h1 {
+        font-size: 50px; /* Ajuste en pantallas pequeñas */
+      }
+
+      .subsection h2 {
+        font-size: 20px;
+      }
+
+      .subsection .large-text {
+        font-size: 25px;
+      }
+
+      .subsection .medium-text {
+        font-size: 18px;
+      }
+
+      .subsection .small-text {
+        font-size: 14px;
+      }
     }
   </style>
 </head>
@@ -81,94 +110,31 @@
       </div>
     </div>
 
-    <!-- Sección 2 -->
+    <!-- Sección 2 (unificada con las siguientes secciones) -->
     <div class="section" id="section2">
       <h1>Contexto</h1>
       <div class="subsection">
         <h2></h2>
         <p class="medium-text">Antes de que se comenzaran a nombrar los huracanes, se usaban términos descriptivos para identificar las tormentas, aunque no de forma sistemática. Simplemente se identificaban por el año y la ubicación o por la ruta que seguían.</p>
       </div>
-    </div>
 
-    <!-- Sección 3 -->
-    <div class="section" id="section3">
       <h1>Historia del Sistema</h1>
       <div class="subsection">
         <h2>En 1953 el US Weather Bureau creó un sistema más accesible y comprensible para el público, utilizando nombres humanos. Los primeros eran femeninos. La razón no es clara, pero hay algunas teorías:</h2>
       </div>
-    </div>
 
-    <!-- Sección 4 -->
-    <div class="section" id="section4">
-      <h1>Razón 1: Cultura de la época</h1>
+      <h1>1. Cultura de la época</h1>
       <div class="subsection">
         <h2>La sociedad asociaba las tormentas con características "femeninas", como la imprevisibilidad o volatilidad.</h2>
       </div>
-    </div>
 
-    <!-- Sección 5 -->
-    <div class="section" id="section5">
-      <h1>Razón 2: Conveniencia de la comunicación</h1>
+      <h1>2. Conveniencia de la comunicación</h1>
       <div class="subsection">
         <h2>Los nombres femeninos eran más fáciles de recordar y comunicar en los informes, facilitando la difusión de advertencias.</h2>
       </div>
     </div>
 
-    <!-- Sección 6 -->
-    <div class="section" id="section6">
-      <h1>Sección 6</h1>
-      <div class="subsection">
-        <h2>Subsección 6.1</h2>
-        <p class="large-text">Texto grande para la subsección 6.1.</p>
-      </div>
-      <div class="subsection">
-        <h2>Subsección 6.2</h2>
-        <p class="medium-text">Texto mediano para la subsección 6.2.</p>
-      </div>
-    </div>
-
-    <!-- Sección 7 -->
-    <div class="section" id="section7">
-      <h1>Sección 7</h1>
-      <div class="subsection">
-        <h2>Subsección 7.1</h2>
-        <p class="small-text">Texto pequeño para la subsección 7.1.</p>
-      </div>
-      <div class="subsection">
-        <h2>Subsección 7.2</h2>
-        <p class="large-text">Texto grande para la subsección 7.2.</p>
-      </div>
-    </div>
-
-    <!-- Sección 8 -->
-    <div class="section" id="section8">
-      <h1>Sección 8</h1>
-      <div class="subsection">
-        <h2>Subsección 8.1</h2>
-        <p class="medium-text">Texto mediano para la subsección 8.1.</p>
-      </div>
-      <div class="subsection">
-        <h2>Subsección 8.2</h2>
-        <p class="large-text">Texto grande para la subsección 8.2.</p>
-      </div>
-    </div>
-
-    <!-- Sección 9 -->
-    <div class="section" id="section9">
-      <h1>Sección 9</h1>
-      <div class="subsection">
-        <h2>Subsección 9.1</h2>
-        <p class="small-text">Texto pequeño para la subsección 9.1.</p>
-      </div>
-      <div class="subsection">
-        <h2>Subsección 9.2</h2>
-        <p class="medium-text">Texto mediano para la subsección 9.2.</p>
-      </div>
-    </div>
-    
   </div>
 
-  <script src="script.js"></script>
 </body>
 </html>
-
