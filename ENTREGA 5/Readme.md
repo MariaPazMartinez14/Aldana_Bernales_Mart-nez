@@ -14,3 +14,7 @@
 ##### (Varios gráficos de barra y uno de torta, en principio). 
 
 #### Subimos la base de datos finalmente limpia. 
+
+#### Escribimos lo que queríamos que apareciera en la página (texto) y armamos en Codepen el html y css. Priorizamos tener la estructura primero, poniendo diferentes tamaños de letra y colores para vizualizarlo mejor.
+
+#### En cuanto al Javascript, lo dejamos para después ya que era lo que menos sabíamos hacer (para así avanzar). 
