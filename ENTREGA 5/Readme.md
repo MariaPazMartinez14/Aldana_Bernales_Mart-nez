@@ -33,3 +33,5 @@
 
 ### Nos queda pendiente: ordenar la estética de la página: justificar el texto, añadir márgenes, cambiar fuentes, poner imágenes, entre otras cosas. 
 ### Además, debemos encontrar una forma de que quede menos largo. 
+
+#### Finalmente, logramos poner el mapa! Pero sale enano. 
