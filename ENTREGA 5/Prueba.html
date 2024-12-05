@@ -3,17 +3,45 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asignar Colores</title>
   <title>Más allá de la velocidad</title>
   <style>
+ .moradooscuro {
+            color: #594569 ;
+        }
+
+        .celeste {
+            color: #7B9A9B ;
+        }
+
+        .lila {
+            color: #C0A2D8 ;
+        }
+
+        .azuloscuro {
+            color: #151924 ;
+        }
+
+        .fullscreen-image {
+            background-image: url('fotopalmeras.jpg'); /* Ruta de tu imagen */
+            background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            width: 100vw; /* Ocupa el 100% del ancho de la ventana */
+            height: 100vh; /* Ocupa el 100% del alto de la ventana */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
+            
+        }
       /* Estilo para la sección con la imagen de fondo */
       .background-text {
           background-image: url('fotoprincipal.jpg'); /* Ruta de tu imagen */
           background-size: cover; /* Asegura que la imagen cubra toda el área */
           background-position: center; /* Centra la imagen */
+          width: 100vw; /* Ocupa el 100% del ancho de la ventana */
+          height: 100vh; /* Ocupa el 100% del alto de la ventana */
           color: #151924 ; /* Cambia el color del texto para que sea legible */
           text-shadow: 1px 1px 5px #C0A2D8 (255, 255, 255, 0.8); /* Sombra al texto para mayor visibilidad */
           padding: 20px;
-          height: 300px; /* Altura ajustable */
+          height: 500px; /* Altura ajustable */
           display: flex;
           align-items: center;
           justify-content: center;
@@ -29,32 +57,15 @@
 </head>
 <body>
 
-  <div class="sections">
+  <div class="title">
     <div class="background-text">
       <h1>Más allá de la velocidad</h1>
   </div>
 
-<div class="small-text">
-
     <!-- Sección 1 -->
     <div class="section" id="section1">
-      <p class="small-text">Impacto meteorológico:</p>       
-      <h1>Más allá de la velocidad</h1>
-      <div class="subsection">
-        <h2>Tras investigar los fenómenos metereológicos, creemos que la magnitud no es un parámetro suficiente para medir el impacto de un fenómeno metereológico.</h2>
-        <p class="small-text">Ante esto, planteamos un nuevo sistema de medición que determina el daño de manera más precisa.</p>       
-      </div>
-    </div>
-
-    <!-- Sección 2 (unificada con las siguientes secciones) -->
-    <div class="section" id="section2">
-      <h1>Sistema actual de medición</h1>
-      <div class="subsection">
-        <h2></h2>
-        <p class="small-text">Hoy en día se utiliza la magnitud (Kph) para proyectar la gravedad de un huracán. Ésta se refiere a su intensidad o fuerza, que se mide principalmente en términos de la velocidad de sus vientos sostenidos. Generalmente, los huracanes son clasificados en la escala Saffir-Simpson. Se dividen en cinco categorías, según la velocidad máxima de sus vientos. La escala ayuda a predecir los posibles daños y riesgos asociados con el huracán. </p>
-      </div>
-
-      <h1>Para adentrarnos en el tema, primero debemos entender la diferencia entre estos fenómenos:</h1>
+      <div class=".celeste"></div>
+      <h2>Para adentrarnos en el tema, primero debemos entender la diferencia entre estos fenómenos:</h2>
       <div class="subsection">
         <h2>Ciclón</h2> 
           Es una terminología general. Refiere a un sistema de baja presión con vientos girando en espiral hacia el centro. Engloba tanto fenómenos débiles como intensos. 
@@ -71,6 +82,20 @@
         Puede ocurrir en cualquier región.  
         Las hay tropicales, eléctricas, severas.     
       </div>
+      <p class="subsection">Impacto meteorológico:</p>       
+      <div class="small-text">
+        <h2>Tras investigar los fenómenos metereológicos, creemos que la magnitud no es un parámetro suficiente para medir el impacto de un fenómeno metereológico.</h2>
+        <p class="small-text">Ante esto, planteamos un nuevo sistema de medición que determina el daño de manera más precisa.</p>       
+      </div>
+      <div class="fullscreen-image"></div>
+    </div>
+    <!-- Sección 2 (unificada con las siguientes secciones) -->
+    <div class="section" id="section2">
+      <h2>Sistema actual de medición</h2>
+      <div class="subsection">
+        <h3></h3>
+        <p class="small-text">Hoy en día se utiliza la magnitud (Kph) para proyectar la gravedad de un huracán. Ésta se refiere a su intensidad o fuerza, que se mide principalmente en términos de la velocidad de sus vientos sostenidos. Generalmente, los huracanes son clasificados en la escala Saffir-Simpson. Se dividen en cinco categorías, según la velocidad máxima de sus vientos. La escala ayuda a predecir los posibles daños y riesgos asociados con el huracán. </p>
+      </div>
 
       <h1>¿Cómo es su presencia en el mundo?</h1>
       <div class="subsection">
@@ -81,7 +106,6 @@
         </noscript>
       </div>
   
-      <h1>MAPA</h1>
       <div class="subsection">
         <h2>Por qué son un peligro</h2>
         En Estados Unidos, el fenómeno meteorológico más grave son los huracanes (revisar). Por esto, es clave tener un buen sistema que permita prevenir y alivianar las consecuencias que tienen hoy en día. Para comparar, veamos el caso de Chile. 
@@ -103,6 +127,8 @@
         <h2>Filipinas</h2>
         <h2>Filipinas es uno de los países más afectados por ciclones tropicales debido a su ubicación en el cinturón de tifones, región del mundo ubicada principalmente en el Océano Pacífico que experimenta una alta frecuencia de estos fenómenos.  
 
+          Esto no se si es tan necesario que sea tan largo
+
           Para hacer frente a estas tormentas, Filipinas tiene la Oficina de Servicios Meteorológicos de Filipinas (PAGASA) que emite alertas y pronósticos sobre tifones. Estas alertas se transmiten a través de radio, televisión, y sistemas de mensajes móviles. Además, las autoridades locales ordenan evacuaciones masivas antes de la llegada de un tifón, especialmente en las zonas más vulnerables. En algunos casos, los militares y equipos de rescate son movilizados para colaborar con la evacuación y asistencia. Filipinas tiene una red de refugios de emergencia, pero la capacidad es limitada en algunas áreas. La Cruz Roja Filipina, el Ejército y otras organizaciones internacionales proporcionan ayuda humanitaria, que incluye alimentos, agua potable, medicinas y atención médica.  Se han implementado programas de infraestructura resiliente en algunas áreas, pero sigue siendo un país vulnerable debido a su ubicación, la alta densidad poblacional y los efectos del cambio climático.</h2>
         <h2>Haití</h2>
         <h2>Haití, siendo un país vulnerable a huracanes debido a su ubicación geográfica, tiene una capacidad de respuesta limitada por factores como la pobreza, falta de infraestructura e inestabilidad política. 
@@ -122,6 +148,7 @@
       <div class="small-text">Sin duda se trata de un caso especial. Dentro de un mismo país, hay ciudades que no estan bien preparadas, mientras que otras tienen grandes sistemas de emergencia. 
       </div>
 
+      Esto hay que hacerlo mas dinamico, podria ser con graficos
       <div class="subsection">
       <h1>Caso Helene 2024 - Categoría cuatro</h1>
        <h2>El huracán Helene se formó a finales de septiembre de 2024 en el noroeste del mar Caribe, inicialmente a partir de una perturbación entre Jamaica y la península de Yucatán. Helene ganó fuerza rápidamente y se intensificó hasta convertirse en un huracán de categoría 4 con vientos de 140 mph. Dejó más de 200 muertos en el sureste de Estados Unidos, lo que lo convirtió en el ciclón más mortífero desde Katrina en 2005 (que llegó a ser un huracán de categoría 5, la máxima en la escala de intensidad, con vientos de más de 280 km/h).</h2>
@@ -230,6 +257,7 @@
 <div class="small-text">Tiktoks...
 </div> 
 
+ESTO NO SE SI DEBERIA IR; ES DEMASIADA INFO
 <div class="subsection"></div>
 <div class="small-text">Anexo histórico: 
 <h2>El origen de la nomenclatura</h2>
