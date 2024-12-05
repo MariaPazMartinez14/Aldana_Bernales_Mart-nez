@@ -3,6 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Más allá de la velocidad</title>
+  <style>
+      /* Estilo para la sección con la imagen de fondo */
+      .background-text {
+          background-image: url('fotoprincipal.jpg'); /* Ruta de tu imagen */
+          background-size: cover; /* Asegura que la imagen cubra toda el área */
+          background-position: center; /* Centra la imagen */
+          color: #151924 ; /* Cambia el color del texto para que sea legible */
+          text-shadow: 1px 1px 5px #C0A2D8 (255, 255, 255, 0.8); /* Sombra al texto para mayor visibilidad */
+          padding: 20px;
+          height: 300px; /* Altura ajustable */
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+      }
+  </style>
   <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
@@ -13,9 +30,11 @@
 <body>
 
   <div class="sections">
-    
+    <div class="background-text">
+      <h1>Más allá de la velocidad</h1>
+  </div>
 
-<div class="small-text">Header
+<div class="small-text">
 
     <!-- Sección 1 -->
     <div class="section" id="section1">
@@ -57,7 +76,11 @@
       <div class="subsection">
         <h2>Desde 1978, año en que se creó el sistema de nombramiento vigente para estos fenómenos, se han registrado 829 tormentas a lo largo del mundo.  </h2>
         <h2>Las regiones más afectadas a lo largo de la historia han sido Asia y Centro América. Aunque no es una región, Estados Unidos también ha sido de los lugares más golpeados.  </h2>
+      
+        <div class="flourish-embed flourish-map" data-src="visualisation/20618895"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20618895/thumbnail" width="100%" alt="map visualization" />
+        </noscript>
       </div>
+  
       <h1>MAPA</h1>
       <div class="subsection">
         <h2>Por qué son un peligro</h2>
@@ -141,7 +164,8 @@
       <div class="subsection">
       <h2>Cuánto influye cada variable</h2>
 
-        <h1>Gráfico</h1>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/20550359"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20550359/thumbnail" width="100%" alt="chart visualization" />
+      </noscript></div>
   
       <h2>10% magnitud: indica fuerza de daño potencial, pero no siempre indica el daño real.</h2>
       <h2>20% Impacto humano</h2>
