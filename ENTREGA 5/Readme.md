@@ -20,3 +20,16 @@
 #### En cuanto al Javascript, lo dejamos para después ya que era lo que menos sabíamos hacer (para así avanzar). 
 
 #### Problema: cuando uno hace "scrolldown" en la página, el contenido se "condensa", es decir, cae muy rápido. 
+
+### Viernes 29 de noviembre
+#### Después de la clase, coordinamos para reunirnos con la profesora para resolver nuestras dudas. Nos ayudó a entender cómo crear los gráficos en las distintas plataformas. 
+
+### Miércoles 4 de diciembre
+#### Nos reunimos virtualmente a revisar el avance del fin de semana de Francisca, que trabajó en los gráficos. Terminamos de redactar el html y buscamos los datos que faltaban. 
+
+#### Traspasamos toda la información escrita al html, ordenanda en secciones, pero aun sin arreglar el estilo. 
+
+#### Hemos intentado varias veces hacer correr los gráficos y el mapa que hicimos, pero no lo hemos logrado hasta ahora. 
+
+### Nos queda pendiente: ordenar la estética de la página: justificar el texto, añadir márgenes, cambiar fuentes, poner imágenes, entre otras cosas. 
+### Además, debemos encontrar una forma de que quede menos largo. 
