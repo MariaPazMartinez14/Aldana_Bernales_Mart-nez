@@ -1,0 +1,92 @@
+/* Estilos generales para el cuerpo */
+body {
+    font-family: 'Rubik Mono One', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #151924;
+    margin: auto;
+}
+
+h1 {
+    color: #7b9a9b;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+h2 {
+    color: #7b9a9b;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+h3 {
+    color: #594569;
+    font-size: 33px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    font-family: 'Sniglet', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+h4 {
+    color: #C0A2D8;
+    font-size: 20px;
+    font-family: 'Sniglet', sans-serif;
+    font-weight: 400;
+}
+h5{
+color: #f5b857;
+    font-size: 25px;
+    font-weight: 500; 
+}
+.text-highlight {
+    color: #f5b857;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+.title {
+    align-content: center;
+    text-align: center;
+    background-image: url('fotoprincipal.jpg'); /* Ruta de tu imagen */
+    background-size: cover; /* Asegura que la imagen cubra toda el área */
+    background-position: center; /* Centra la imagen */
+    width: 100vw; /* Ocupa el 100% del ancho de la ventana */
+    height: 100vh; /* Ocupa el 100% del alto de la ventana */
+    padding: 20px;
+    height: 500px; /* Altura ajustable */
+    color: #7b9a9b;
+}
+
+.background-image {
+    background-image: url('fotopalmeras.jpg'); /* Ruta de tu imagen */
+    background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    width: 100vw; /* Ocupa el 100% del ancho de la ventana */
+    height: 100vh; /* Ocupa el 100% del alto de la ventana */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.section {
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 1em;
+}
+
+ul {
+    color: #594569;
+    font-size: 35px;
+    padding-left: 25px; /* Espaciado desde el margen izquierdo */
+  }
+  
+  li {
+    color: #C0A2D8;
+    font-size: 20px;
+    font-family: 'Sniglet', sans-serif;
+    font-weight: 400;
+    margin-bottom: 10px;
+    
+  }

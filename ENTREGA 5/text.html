@@ -1,140 +1,113 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Asignar Colores</title>
-  <title>Más allá de la velocidad</title>
-  <style>
- .moradooscuro {
-            color: #594569 ; /*Titulos mas grandes */
-        }
-
-        .celeste {
-            color: #7B9A9B ; /*Textos */
-        }
-
-        .lila {
-            color: #C0A2D8 ; /*subtitulos*/
-        }
-
-        .azuloscuro {
-            color: #151924 ; /*fondo*//
-        }
-
-        .fullscreen-image {
-            background-image: url('fotopalmeras.jpg'); /* Ruta de tu imagen */
-            background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
-            background-position: center; /* Centra la imagen */
-            width: 100vw; /* Ocupa el 100% del ancho de la ventana */
-            height: 100vh; /* Ocupa el 100% del alto de la ventana */
-            background-repeat: no-repeat; /* Evita que la imagen se repita */
-            
-        }
-      /* Estilo para la sección con la imagen de fondo */
-      .background-text {
-          background-image: url('fotoprincipal.jpg'); /* Ruta de tu imagen */
-          background-size: cover; /* Asegura que la imagen cubra toda el área */
-          background-position: center; /* Centra la imagen */
-          width: 100vw; /* Ocupa el 100% del ancho de la ventana */
-          height: 100vh; /* Ocupa el 100% del alto de la ventana */
-          color: #151924 ; /* Cambia el color del texto para que sea legible */
-          text-shadow: 1px 1px 5px #C0A2D8 (255, 255, 255, 0.8); /* Sombra al texto para mayor visibilidad */
-          padding: 20px;
-          height: 500px; /* Altura ajustable */
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          text-align: center;
-      }
-  </style>
-  <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
-  <title>Secciones de Pantalla Completa</title>
-  <link href="style.css" rel="stylesheet">
-</head>
-<body>
-
-  <div class="title">
-    <div class="background-text">
-      <h1>Más allá de la velocidad</h1>
-  </div>
-
-    <!-- Sección 1 -->
-    <div class="section" id="section1">
-      <div class=".celeste"></div>
-      <h2>Para adentrarnos en el tema, primero debemos entender la diferencia entre estos fenómenos:</h2>
-      <div class="subsection">
-        <h2>Ciclón</h2> 
-          Es una terminología general. Refiere a un sistema de baja presión con vientos girando en espiral hacia el centro. Engloba tanto fenómenos débiles como intensos. 
-          Hay ciclones tropicales (Océano Índico), extra tropicales (latitudes más altas, no depende de aguas cálidas) y subtropicales.
-        </h2>  
-        <h2>Huracán</h2>
-        Tipo de ciclón tropical con vientos sostenidos de al menos 119 km/h. 
-        Se utiliza para los sectores Atlántico Norte, Pacífico Norte y Pacífico Central.  
-        Puede causar fuertes lluvias, marejadas y vientos violentos.  
-        <h2>Tifón</h2>
-        Ciclón tropical equivalente a un huracán, pero en otro sector (Pacífico Noroeste).  
-        <h2>Tormenta</h2>
-        Sistema meteorológico que puede incluir lluvias y vientos intensos, y actividad eléctrica. Su intensidad varía. 
-        Puede ocurrir en cualquier región.  
-        Las hay tropicales, eléctricas, severas.     
-      </div>
-      <p class="subsection">Impacto meteorológico:</p>       
-      <div class="small-text">
-        <h2>Tras investigar los fenómenos metereológicos, creemos que la magnitud no es un parámetro suficiente para medir el impacto de un fenómeno metereológico.</h2>
-        <p class="small-text">Ante esto, planteamos un nuevo sistema de medición que determina el daño de manera más precisa.</p>       
-      </div>
-      <div class="fullscreen-image"></div>
-    </div>
-    <!-- Sección 2 (unificada con las siguientes secciones) -->
-    <div class="section" id="section2">
-      <h2>Sistema actual de medición</h2>
-      <div class="subsection">
-        <h3></h3>
-        <p class="small-text">Hoy en día se utiliza la magnitud (Kph) para proyectar la gravedad de un huracán. Ésta se refiere a su intensidad o fuerza, que se mide principalmente en términos de la velocidad de sus vientos sostenidos. Generalmente, los huracanes son clasificados en la escala Saffir-Simpson. Se dividen en cinco categorías, según la velocidad máxima de sus vientos. La escala ayuda a predecir los posibles daños y riesgos asociados con el huracán. </p>
-      </div>
-
-      <h1>¿Cómo es su presencia en el mundo?</h1>
-      <div class="subsection">
-        <h2>Desde 1978, año en que se creó el sistema de nombramiento vigente para estos fenómenos, se han registrado 829 tormentas a lo largo del mundo.  </h2>
-        <h2>Las regiones más afectadas a lo largo de la historia han sido Asia y Centro América. Aunque no es una región, Estados Unidos también ha sido de los lugares más golpeados.  </h2>
-      
-        <div class="flourish-embed flourish-map" data-src="visualisation/20618895"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20618895/thumbnail" width="100%" alt="map visualization" />
-        </noscript>
-      </div>
+    <link rel="icon" href="Identidad_visual/logo.jpeg" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
   
-      <div class="subsection">
-        <h2>Por qué son un peligro</h2>
-        En Estados Unidos, el fenómeno meteorológico más grave son los huracanes (revisar). Por esto, es clave tener un buen sistema que permita prevenir y alivianar las consecuencias que tienen hoy en día. Para comparar, veamos el caso de Chile. 
-        <h2>En nuestro caso, el fenómeno natural que más nos golpea son los terremotos; sin embargo, hemos logrado legislar de tal manera que las construcciones, por ejemplo, tienen que cumplir ciertas reglas para prevenir daños graves como muertes, heridos, afectados, personas sin hogar, daño asegurado y costo proyectado de reparación. -Aunque siempre podemos seguir mejorando-.</h2> 
-        <h2>A pesar de que existe un sistema de alerta que avisa previamente a los habitantes de las ciudades que serán afectadas por un huracán con anticipación, hay otros factores que las políticas públicas actuales no cubren. Las desigualdades sociales y económicas, la falta de infraestructura resiliente, los impactos a largo plazo no contemplados en los modelos, la coordinación ineficaz entre agencias y la subestimación de los efectos reales del huracán. Además, el sistema de medición que se utiliza, el sistema Saffir- Simpson, acrecienta este problema.</h2>
+  <link href="estilo.css" rel="stylesheet">
 
-        <h2>Volviendo a Estados Unidos, a pesar de que sí han logrado disminuir la cantidad de muertes y otras consecuencias graves, todavía hay algunos aspectos que pueden mejorar. Por ejemplo, los sistemas de evacuación, la regulación de las construcciones, etc.</h2>
-      </div>
+<div class="title">
+    <h2>Impacto meteorológico: </h2>
+    <h1>Más allá de la velocidad</h1>
+</div>
+<div class="section">
+    <h4>Tras investigar los fenómenos metereológicos, creemos que la magnitud no es un parámetro suficiente para medir el impacto de un fenómeno metereológico.</h4>
+    <h4>Ante esto, planteamos un <span class="text-highlight">nuevo sistema de medición</span> que determina el daño de manera más precisa.</h4>
+</div>
+<div class="section">
+    <h3>Sistema actual de medición</h3>
+    <h4>Hoy en día se utiliza la <span class="text-highlight">magnitud (Kph)</span></magnitud> para proyectar la gravedad de un huracán. Ésta se refiere a su <span class="text-highlight">intensidad o fuerza</span>, que se mide principalmente en términos de la velocidad de sus vientos sostenidos. Generalmente, los huracanes son clasificados en la <span class="text-highlight">escala Saffir-Simpson. Se dividen en cinco categorías</span>, según la velocidad máxima de sus vientos. La escala ayuda a predecir los posibles daños y riesgos asociados con el huracán.</h4>
+</div>
 
-      <h1>Los sistemas de emergencia actuales</h1>
-      <div class="subsection">
-        <h2>Estados unidos</h2>
-        <h2>Este país cuenta con un sistema robusto de respuesta ante huracanes debido a la experiencia acumulada con desastres naturales. A nivel federal, estatal y local, existen planes de emergencia coordinados:</h2>
-        <h2>El monitoreo y pronóstico de los huracanes se realiza a través de el Centro Nacional de Huracanes (NHC) y parte de la Administración Nacional Oceánica y Atmosférica (NOAA). Además, la FEMA (Agencia Federal para el Manejo de Emergencias) coordina la respuesta a desastres a nivel nacional, en colaboración con autoridades locales.  
+<div class="section">
+    <h4>Para adentrarnos en el tema, primero debemos entender la diferencia entre estos fenómenos:</h4>
+    <h2>Ciclón</h2>
+    <ul>
+        <li>
+            Es una terminología general. Refiere a un sistema de baja presión con vientos girando en espiral hacia el centro. Engloba tanto fenómenos débiles como intensos. 
+        </li>
+        <li>
+            Hay ciclones tropicales (Océano Índico), extra tropicales (latitudes más altas, no depende de aguas cálidas) y subtropicales.
+        </li>
+    </ul>
+    <h2>Huracán</h2>
+    <ul>
+        <li>
+            Tipo de ciclón tropical con vientos sostenidos de al menos 119 km/h. 
+        </li>
+        <li>
+            Se utiliza para los sectores Atlántico Norte, Pacífico Norte y Pacífico Central.  
+        </li>
+        <li>
+            Puede causar fuertes lluvias, marejadas y vientos violentos.  
+        </li>
+    </ul>
+    <h2>Tifón</h2>
+    <ul>
+        <li>
+            Ciclón tropical equivalente a un huracán, pero en otro sector (Pacífico Noroeste).  
+        </li>
+    </ul>
+    <h2>Tormenta</h2>
+    <ul>
+        <li>
+        Sistema meteorológico que puede incluir lluvias y vientos intensos, y actividad eléctrica. Su intensidad varía. 
+        </li>
+        <li>
+            Puede ocurrir en cualquier región.
+        </li>
+        <li>
+            Las hay tropicales, eléctricas, severas.     
+        </li>
+    </ul>
+</div>
+<div class="section">
+    <h2>Cómo es su presencia en el mundo?</h2>
+    <h4>Desde 1978, año en que se creó el sistema de nombramiento vigente para estos fenómenos, se han registrado 829 tormentas a lo largo del mundo.  </h4>
+    <h4>Las regiones más afectadas a lo largo de la historia han sido Asia y Centro América. Aunque no es una región, Estados Unidos también ha sido de los lugares más golpeados.  </h4>
+</div>
 
-          También se emiten advertencias y alertas a través de la Red Nacional de Alerta de Emergencia (Wireless Emergency Alerts, WEAs), que envía mensajes de texto a los teléfonos móviles, y mediante los sistemas de sirenas, radio, televisión y aplicaciones móviles. Dependiendo de la intensidad del huracán, las autoridades locales organizan evacuaciones masivas, especialmente en zonas costeras y áreas de riesgo elevado. Los evacuados pueden ser dirigidos a refugios de emergencia organizados por la FEMA y las autoridades estatales y locales. 
-          
-          El gobierno tiene acuerdos con organizaciones como la Cruz Roja y otras ONG para proporcionar alimentos, agua, medicinas y otros suministros a las áreas afectadas.</h2>
-        <h2>Filipinas</h2>
-        <h2>Filipinas es uno de los países más afectados por ciclones tropicales debido a su ubicación en el cinturón de tifones, región del mundo ubicada principalmente en el Océano Pacífico que experimenta una alta frecuencia de estos fenómenos.  
+<div class="flourish-embed flourish-map" data-src="visualisation/20618895"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20618895/thumbnail" width="100%" alt="map visualization" />
+    </noscript>
+</div>
 
-          Esto no se si es tan necesario que sea tan largo
+<div class="section">
+    <h2>Por qué son un peligro</h2>
+    <h4> En Estados Unidos, el fenómeno meteorológico más grave son los huracanes (revisar). Por esto, es clave tener un buen sistema que permita prevenir y alivianar las consecuencias que tienen hoy en día. Para comparar, veamos el caso de Chile. </h4>
+    <h4>En nuestro caso, el fenómeno natural que más nos golpea son los terremotos; sin embargo, hemos logrado legislar de tal manera que las construcciones, por ejemplo, tienen que cumplir ciertas reglas para prevenir daños graves como muertes, heridos, afectados, personas sin hogar, daño asegurado y costo proyectado de reparación. -Aunque siempre podemos seguir mejorando-.</h4>
+    <h4>A pesar de que existe un sistema de alerta que avisa previamente a los habitantes de las ciudades que serán afectadas por un huracán con anticipación, hay otros factores que las políticas públicas actuales no cubren. Las desigualdades sociales y económicas, la falta de infraestructura resiliente, los impactos a largo plazo no contemplados en los modelos, la coordinación ineficaz entre agencias y la subestimación de los efectos reales del huracán. Además, el sistema de medición que se utiliza, el sistema Saffir- Simpson, acrecienta este problema.</h4>
+    <h4>Volviendo a Estados Unidos, a pesar de que sí han logrado disminuir la cantidad de muertes y otras consecuencias graves, todavía hay algunos aspectos que pueden mejorar. Por ejemplo, los sistemas de evacuación, la regulación de las construcciones, etc.</h4>
+</div>
 
-          Para hacer frente a estas tormentas, Filipinas tiene la Oficina de Servicios Meteorológicos de Filipinas (PAGASA) que emite alertas y pronósticos sobre tifones. Estas alertas se transmiten a través de radio, televisión, y sistemas de mensajes móviles. Además, las autoridades locales ordenan evacuaciones masivas antes de la llegada de un tifón, especialmente en las zonas más vulnerables. En algunos casos, los militares y equipos de rescate son movilizados para colaborar con la evacuación y asistencia. Filipinas tiene una red de refugios de emergencia, pero la capacidad es limitada en algunas áreas. La Cruz Roja Filipina, el Ejército y otras organizaciones internacionales proporcionan ayuda humanitaria, que incluye alimentos, agua potable, medicinas y atención médica.  Se han implementado programas de infraestructura resiliente en algunas áreas, pero sigue siendo un país vulnerable debido a su ubicación, la alta densidad poblacional y los efectos del cambio climático.</h2>
-        <h2>Haití</h2>
-        <h2>Haití, siendo un país vulnerable a huracanes debido a su ubicación geográfica, tiene una capacidad de respuesta limitada por factores como la pobreza, falta de infraestructura e inestabilidad política. 
+<div class="section">
+    <h2>Los sistemas de emergencia actuales</h2>
+    <h5>Estados unidos</h5>
+    <h4>Este país cuenta con un sistema robusto de respuesta ante huracanes debido a la experiencia acumulada con desastres naturales. A nivel federal, estatal y local, existen planes de emergencia coordinados:</h4>
+    <h4>El monitoreo y pronóstico de los huracanes se realiza a través de el Centro Nacional de Huracanes (NHC) y parte de la Administración Nacional Oceánica y Atmosférica (NOAA). Además, la FEMA (Agencia Federal para el Manejo de Emergencias) coordina la respuesta a desastres a nivel nacional, en colaboración con autoridades locales.</h4>  
+    <h4>También se emiten advertencias y alertas a través de la Red Nacional de Alerta de Emergencia (Wireless Emergency Alerts, WEAs), que envía mensajes de texto a los teléfonos móviles, y mediante los sistemas de sirenas, radio, televisión y aplicaciones móviles. Dependiendo de la intensidad del huracán, las autoridades locales organizan evacuaciones masivas, especialmente en zonas costeras y áreas de riesgo elevado. Los evacuados pueden ser dirigidos a refugios de emergencia organizados por la FEMA y las autoridades estatales y locales.</h4> 
 
-          El Centro de Meteorología de Haití (CMH) emite alertas de huracanes, pero muchas veces las advertencias no llegan de manera eficiente a las poblaciones más vulnerables. El gobierno y las organizaciones internacionales, como la Cruz Roja y Oxfam, trabajan para organizar evacuaciones, pero la infraestructura de transporte y la falta de refugios adecuados dificultan estas acciones. A menudo, las personas buscan refugio en escuelas, iglesias y otros edificios públicos. La ayuda internacional juega un papel crucial después de los huracanes, proporcionando alimentos, agua, medicinas y refugio. La pobreza extrema y los desastres recurrentes afectan la capacidad del país para implementar sistemas de emergencia eficientes. La falta de infraestructura resistente también agrava los daños.</h2>
-      </div>
+    <h5>Filipinas</h5>        
+    <h4>El gobierno tiene acuerdos con organizaciones como la Cruz Roja y otras ONG para proporcionar alimentos, agua, medicinas y otros suministros a las áreas afectadas.</h4>
+    <h4>Filipinas es uno de los países más afectados por ciclones tropicales debido a su ubicación en el cinturón de tifones, región del mundo ubicada principalmente en el Océano Pacífico que experimenta una alta frecuencia de estos fenómenos.</h4>  
+    <h4>Para hacer frente a estas tormentas, Filipinas tiene la Oficina de Servicios Meteorológicos de Filipinas (PAGASA) que emite alertas y pronósticos sobre tifones. Estas alertas se transmiten a través de radio, televisión, y sistemas de mensajes móviles. Además, las autoridades locales ordenan evacuaciones masivas antes de la llegada de un tifón, especialmente en las zonas más vulnerables. En algunos casos, los militares y equipos de rescate son movilizados para colaborar con la evacuación y asistencia. Filipinas tiene una red de refugios de emergencia, pero la capacidad es limitada en algunas áreas. La Cruz Roja Filipina, el Ejército y otras organizaciones internacionales proporcionan ayuda humanitaria, que incluye alimentos, agua potable, medicinas y atención médica.  Se han implementado programas de infraestructura resiliente en algunas áreas, pero sigue siendo un país vulnerable debido a su ubicación, la alta densidad poblacional y los efectos del cambio climático.</h4>
+
+    <h5>Haití</h5>
+        <h4>Haití, siendo un país vulnerable a huracanes debido a su ubicación geográfica, tiene una capacidad de respuesta limitada por factores como la pobreza, falta de infraestructura e inestabilidad política. </h4>
+        <h4>El Centro de Meteorología de Haití (CMH) emite alertas de huracanes, pero muchas veces las advertencias no llegan de manera eficiente a las poblaciones más vulnerables. El gobierno y las organizaciones internacionales, como la Cruz Roja y Oxfam, trabajan para organizar evacuaciones, pero la infraestructura de transporte y la falta de refugios adecuados dificultan estas acciones. A menudo, las personas buscan refugio en escuelas, iglesias y otros edificios públicos. La ayuda internacional juega un papel crucial después de los huracanes, proporcionando alimentos, agua, medicinas y refugio. La pobreza extrema y los desastres recurrentes afectan la capacidad del país para implementar sistemas de emergencia eficientes. La falta de infraestructura resistente también agrava los daños.</h4>
+</div>
+
+
+
+
+
+
+
 
       <div class="subsection">
         <h2>En este punto llama la atención que, pese a que Estados Unidos tiene un sistema de emergencia bien desarrollado, de todas formas resulta afectado fuertemente por las tormentas año tras año.</h2>
