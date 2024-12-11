@@ -35,3 +35,8 @@
 ### Además, debemos encontrar una forma de que quede menos largo. 
 
 #### Finalmente, logramos poner el mapa! Pero sale enano. 
+
+### Jueves 5 de diciembre
+#### Avanzamos en la posición del texto y las palabras que queríamos destacar desde el html. 
+
+#### Dejamos lista la presentación para el día siguiente, de corrección con el curso. 
