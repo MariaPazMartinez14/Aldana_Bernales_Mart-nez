@@ -240,7 +240,7 @@ section:not(:last-child) {
   align-self: flex-end;
   font-size: 2rem;
   line-height: 1rem;
-  color: #f0efec
+  color: #7B9A9B 
 }
 
 #language {
@@ -254,7 +254,8 @@ section:not(:last-child) {
 
 #card-description {
   width: 100%;
-  color: #f0efec
+  color: #f0efec;
+  font-family: 'sniglet'; 
 }
 
 button {
@@ -312,7 +313,7 @@ button {
 @media (max-width: 600px) {
   a {
     width: 80px;
-    height: 30px;
+    height: 40px;
   }
 
   button {
