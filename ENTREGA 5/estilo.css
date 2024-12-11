@@ -69,8 +69,8 @@ h6{
     background-position: center; /* Centra la imagen */
     width: 100vw; /* Ocupa el 100% del ancho de la ventana */
     height: 100vh; /* Ocupa el 100% del alto de la ventana */
-    padding: 20px;
-    height: 700px; /* Altura ajustable */
+    padding: 15px;
+    height: 630px; /* Altura ajustable */
     color: #7b9a9b;
 }
 
@@ -118,7 +118,92 @@ ul {
   }
 
 
-  .trans-quick {
+    
+.fenomenos li {
+    text-align: center; /* Mantiene los puntos y texto alineados correctamente */
+}
+  
+.logo {
+    position: absolute;
+    top: 0.5em; /* Margen superior */
+    left: 1.5em; /* Margen izquierdo */
+    height: 4em; /* Ajusta la altura del logo */
+}
+
+/* Estilos de la barra de navegación */
+.navbar {
+    background-color: #151924   ;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    height:4em;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.navbar img {
+    position: absolute;
+    top: 10px; /* Margen superior */
+    left: 50px; /* Margen izquierdo */
+    height: 2.5em;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.navbar ul li {
+    margin: 0 20px;
+}
+
+.navbar ul li a {
+    color: #f0efec ;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 5px 5px;
+    display: block;
+    transition: background-color 0.3s;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.navbar ul li a:hover {
+    background-color: #C0A2D8  ;
+}
+
+/* Estilos de las secciones */
+section {
+    padding: 60px 20px;
+    min-height: 100vh;
+}
+
+section h1 {
+    text-align: center;
+    font-size: 2.0rem;
+}
+
+section p {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Agregar espaciado entre las secciones */
+section:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+.trans-quick {
     transition: all 0.3s;
   }
   
@@ -135,11 +220,11 @@ ul {
     overflow: hidden;
     z-index: 10;
     padding: 3rem;
-    width: 95vw;
-    max-width: 21rem;
-    min-height: 15.75rem;
+    width: 140vw;
+    max-width: 50rem;
+    min-height: 35rem;
     box-shadow: 0 50px 70px -50px rgba(0, 0, 0, 0.45), 0 50px 200px -50px rgba(0, 0, 0, 0.5);
-    background: #FFF;
+    background: #151924 ;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -155,6 +240,7 @@ ul {
     align-self: flex-end;
     font-size: 2rem;
     line-height: 1rem;
+    color: #f0efec
   }
   
   #language {
@@ -163,11 +249,12 @@ ul {
     font-style: italic;
     line-height: auto;
     font-weight: 700;
-    color: #0b64d1;
+    color: #f0efec ;
   }
   
   #card-description {
     width: 100%;
+    color: #f0efec
   }
   
   button {
@@ -175,10 +262,10 @@ ul {
     width: 0px;
     height: 0px;
     z-index: 25;
-    background: transparent;
+    background: transparent ;
     border-radius: 0;
-    outline: none;
-    border: none;
+    outline: #7B9A9B;
+    border: #7B9A9B;
   }
   
   #last {
@@ -253,99 +340,3 @@ ul {
       font-size: 0.8rem;
     }
   }
-
-.fenomenos {
-    list-style-position: inside; /* Los puntos estarán pegados al texto */
-    text-align: center; /* Centra toda la lista */
-    padding: 0.5em; /* Elimina el padding predeterminado */
-    margin: 0 auto; /* Centra la lista como un bloque */
-    color: #C0A2D8 ;
-    font-size: 32px;
-    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
-    font-family: 'Rubik Mono One', sans-serif;
-    text-align: center
-}
-    
-.fenomenos li {
-    text-align: center; /* Mantiene los puntos y texto alineados correctamente */
-}
-  
-.logo {
-    position: absolute;
-    top: 0.5em; /* Margen superior */
-    left: 1.5em; /* Margen izquierdo */
-    height: 2em; /* Ajusta la altura del logo */
-}
-
-/* Estilos de la barra de navegación */
-.navbar {
-    background-color: #2a3249  ;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-    height:4em;
-    justify-content: center;
-    text-align: center;
-    align-content: center;
-}
-
-.navbar img {
-    position: absolute;
-    top: 10px; /* Margen superior */
-    left: 30px; /* Margen izquierdo */
-    height: 1.5em;
-}
-
-.navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    justify-content: center;
-    text-align: center;
-    align-content: center;
-}
-
-.navbar ul li {
-    margin: 0 20px;
-}
-
-.navbar ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 10px 15px;
-    display: block;
-    transition: background-color 0.3s;
-    justify-content: center;
-    text-align: center;
-    align-content: center;
-}
-
-.navbar ul li a:hover {
-    background-color: #C0A2D8;
-}
-
-/* Estilos de las secciones */
-section {
-    padding: 60px 20px;
-    min-height: 100vh;
-}
-
-section h1 {
-    text-align: center;
-    font-size: 2.5rem;
-}
-
-section p {
-    font-size: 1.2rem;
-    text-align: center;
-    margin-top: 20px;
-}
-
-/* Agregar espaciado entre las secciones */
-section:not(:last-child) {
-    margin-bottom: 20px;
-}

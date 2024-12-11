@@ -17,16 +17,14 @@
 
   var words = [{
     id: 1,
-    word: 'Caso Helene 2024 -',
+    word: 'Caso Helene 2024 - ',
     language: 'Categoría cuatro',
     description: 'El huracán Helene se formó a finales de septiembre de 2024 en el noroeste del mar Caribe, inicialmente a partir de una perturbación entre Jamaica y la península de Yucatán. Helene ganó fuerza rápidamente y se intensificó hasta convertirse en un huracán de categoría 4 con vientos de 140 mph. Dejó más de 200 muertos en el sureste de Estados Unidos, lo que lo convirtió en el ciclón más mortífero desde Katrina en 2005 (que llegó a ser un huracán de categoría 5, la máxima en la escala de intensidad, con vientos de más de 280 km/h).En general, se estima que el número de víctimas de un huracán de magnitud 4 ocila entre decenas y algunos cientos. Sin embargo, los fallecidos tras Helena fueron muchos más que el promedio de tormentas de esa categoría. Destacó por ser una de las más mortales debido a diversos factores como la densidad de población en las áreas afectadas, la preparación y respuesta de los sistemas de emergencia, el tiempo que el huracán permanece sobre una región, la cantidad de lluvias y las inundaciones resultantes, así como el nivel de vulnerabilidad de la infraestructura. Hubo desbordamientos de ríos, deslizamientos de tierra y una significativa destrucción de viviendas e infraestructura. Además, la falta de preparación y las limitadas capacidades de evacuación en algunas áreas también fueron factores que incrementaron la mortalidad, demostrando que la peligrosidad de un huracán va más allá de su intensidad.'
   }, {
     word: 'Huracán Fifi (1974) - ',
     language: 'Baja magnitud, alta mortalidad',
     description: 'Un caso más extremo ocurrió 50 años atrás. El huracán Fifi, categoría 1 según la escala Saffir-Simpson, causó más de 8.000 muertes en América Central, afectando principalmente a Honduras. Los expertos sostienen que existen tres razones que explican los grandes daños. Aunque la intensidad del viento fue baja, el huracán produjo una enorme cantidad de lluvia (más de 500 mm en algunas áreas), lo que generó inundaciones y deslizamientos de tierra devastadores. Por otra parte, las regiones afectadas eran ya vulnerables por la pobreza y la falta de infraestructura adecuada. Finalmente, se identificó una vulnerabilidad geográfica de la zona, ya que muchas áreas montañosas y cercanas a ríos eran especialmente propensas a los desastres naturales cuando las lluvias eran tan intensas.No fue un huracán de gran magnitud en términos de vientos. La combinación de lluvias torrenciales y la vulnerabilidad de la región a desastres naturales fueron factores clave en el alto número de víctimas y daños.'
-  }, 
-  
-];
+  }];
   
   var body = document.body,
       card = document.getElementById('card'),
