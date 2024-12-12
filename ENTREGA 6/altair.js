@@ -110,4 +110,6 @@ function removeClass(el, _class) {
     //Replace that search with white space, therefore removing the class 
     el.className = el.className.replace(pattern, ' ');
   }
+
+  
 }

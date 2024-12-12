@@ -254,7 +254,7 @@ section:not(:last-child) {
   max-width: 80rem;
   min-height: 20rem;
   box-shadow: 0 50px 70px -50px rgba(0, 0, 0, 0.45), 0 50px 100px -50px rgba(0, 0, 0, 0.5);
-  background: #7B9A9B  !important;
+  background: #151924  !important;
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -270,7 +270,7 @@ section:not(:last-child) {
   align-self: flex-end;
   font-size: 2rem;
   line-height: 1rem;
-  color: #f0efec   
+  color: #7B9A9B   
 }
 
 #language {
@@ -279,12 +279,12 @@ section:not(:last-child) {
   font-style: italic;
   line-height: auto;
   font-weight: 700;
-  color: #151924  ;
+  color: #f0efec ;
 }
 
 #card-description {
   width: 100%;
-  color: #151924 ;
+  color: #f0efec ;
   font-family: 'sniglet'; 
 }
 
