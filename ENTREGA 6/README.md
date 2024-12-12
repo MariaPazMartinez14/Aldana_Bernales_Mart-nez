@@ -4,6 +4,9 @@
 # Más allá de la velocidad
 
 ## Propuesta general de historia - Qué queremos contar
+#### Al analizar el sistema de medición de huracanes que se utliza hoy en día, nos dimos cuenta de que: a pesar de que es lo más eficiente para predecir los efectos de uno de estos fenómenos, este sistema no es suficiente para amortiguar las consecuencias de ellos. Es por esto, que decidimos crear un índice que colaborara con la medición de las consecuencias de los huracanes. Este pondera diferentes aspectos como lo humano, económico, la respuesta y la magnitud. De esta forma, se pueden medir otroa factores, además de l velocidad, para poder cuantificar los daños que hay en cada zona del mundo. De esta manera, al poder personalizar cada región, se pueden identificar las falencias de cada lugar y proponer mejores políticas públicas para ellos, según lo que necesiten. Nuestro índice permite caracterizar cada zona en la que hay huracanes, para, con esos perfiles, proponer métodos de prevención de daños. 
+
+#### Qué queremos contar, entonces: la historia de cómo se mide inadecuadamente el impacto de los huracanes, afectando la historia de vida de miles de personas a lo largo del mundo. 
 
 ### Análisis de hipótesis
 ## Nuestra hipótesis final es la siguiente: “El índice SAFFIR-Simpson resulta ineficiente al medir el impacto humano de un huracán”.
