@@ -7,6 +7,16 @@ body {
     padding: 0px;
 }
 
+hr {
+  border-top-width: 4px;
+  width: 90%;
+  border-top-color: #7B9A9B ;
+  margin: 20px auto;
+  border-radius: 5px;
+  color: #7B9A9B
+
+}
+
 h1 {
     color: #f0efec;
     font-size: 50px;
@@ -112,7 +122,8 @@ h6{
 ul {
     color: #594569;
     font-size: 35px;
-    padding-left: 25px; /* Espaciado desde el margen izquierdo */
+    padding-left: 0px; /* Espaciado desde el margen izquierdo */
+    ;text-align: left;
   }
   
   li {
@@ -121,15 +132,15 @@ ul {
     font-family: 'Sniglet', sans-serif;
     font-weight: 400;
     margin-bottom: 10px;
-    
+    text-align: left
   }
 
-
-    
+  
 .fenomenos li {
-    text-align: center; /* Mantiene los puntos y texto alineados correctamente */
+    text-align: left; /* Mantiene los puntos y texto alineados correctamente */
 }
   
+
 .logo {
     position: absolute;
     top: 0.5em; /* Margen superior */
