@@ -1,0 +1,52 @@
+/* General */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Estilo de las secciones */
+.section {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    overflow-y: auto;
+}
+
+/* Personalización de las mitades */
+.left-section {
+    background-color: #f0f8ff; /* Azul claro */
+}
+
+.right-section {
+    background-color: #ffe4e1; /* Rosa claro */
+}
+
+/* Estilo de los títulos */
+h1 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Estilo de los párrafos */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #555;
+}
