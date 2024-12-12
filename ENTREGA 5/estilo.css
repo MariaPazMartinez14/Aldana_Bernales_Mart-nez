@@ -234,7 +234,7 @@ section:not(:last-child) {
 }
 
 .trans-quick {
-  transition: all 0.3s;
+  transition: all 0.1s;
 }
 
 #container {
@@ -262,7 +262,7 @@ section:not(:last-child) {
 }
 
 #card * {
-  transition: opacity 0.4s, text-shadow 0.8s, color 0.4s, transform 0s;
+  transition: opacity 0.2s, text-shadow 0.2s, color 0.2s, transform 0s;
   opacity: 1;
 }
 
@@ -412,7 +412,40 @@ p {
   line-height: 1.6;
   color: #555;
 }
+/* General */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
-  
+/* Contenido principal */
+.content {
+  flex: 1; /* Asegura que el contenido llene el espacio disponible */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilos del pie de página */
+.footer {
+  background-color: #151924 ;
+  color: #7B9A9B ;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  color: #7B9A9B 
+}
+
+.footer p {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: #7B9A9B
+}
 
 }
