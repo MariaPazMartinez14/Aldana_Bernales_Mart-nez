@@ -234,7 +234,7 @@ section:not(:last-child) {
 }
 
 .trans-quick {
-  transition: all 0.3s;
+  transition: all 0.1s;
 }
 
 #container {
@@ -262,7 +262,7 @@ section:not(:last-child) {
 }
 
 #card * {
-  transition: opacity 0.4s, text-shadow 0.8s, color 0.4s, transform 0s;
+  transition: opacity 0.2s, text-shadow 0.2s, color 0.2s, transform 0s;
   opacity: 1;
 }
 
