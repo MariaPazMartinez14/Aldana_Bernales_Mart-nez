@@ -4,17 +4,16 @@ body {
     scroll-behavior: smooth;
     background-color: #151924;
     margin: 0px;
-    padding: 0px;
+    padding: 10px;
 }
 
 hr {
   border-top-width: 4px;
-  width: 90%;
+  width: 100%;
   border-top-color: #7B9A9B ;
-  margin: 20px auto;
+  margin: 20px;
   border-radius: 5px;
   color: #7B9A9B
-
 }
 
 h1 {
@@ -23,16 +22,16 @@ h1 {
     text-shadow: 2px 2px 4px #f0efec(0, 0, 0, 0.8);
     font-family: 'Rubik Mono One', sans-serif;
     text-align: center;
-    padding: 30px;
+    padding: 50px;
 }
 
 h2 {
     color: #C0A2D8 ;
-    font-size: 32px;
+    font-size: 30px;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
     font-family: 'Rubik Mono One', sans-serif;
     text-align: center;
-    padding: 30px
+    padding: 70px; 
 }
 
 h3 {
@@ -41,8 +40,8 @@ h3 {
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.8);
     font-family: 'Sniglet', sans-serif;
     font-weight: 400;
-    text-align: center;
-    padding:30px ;
+    text-align: justify;
+    padding:70px ;
 }
 
 h4 {
@@ -50,24 +49,26 @@ h4 {
     font-size: 25px;
     font-family: 'Sniglet', sans-serif;
     font-weight: 400;
-    text-align: center;
-    padding: 30px
+    text-align: justify;
+    padding: 70px;
 }
+
 h5{
 color: #7b9a9b ;
     font-size: 25px;
     font-weight: 500; 
     text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.8);
     text-align: center;
-    padding: 30px;
+    padding: 70px;
 }
+
 h6{
     color: #7b9a9b ;
     font-size: 25px;
     font-family: 'Sniglet', sans-serif;
     font-weight: 400;
-    text-align: center;
-    padding: 30px;
+    text-align: justify;
+    padding: 70px; 
 }
 
 .subtitulo-pequeño{
@@ -75,8 +76,9 @@ color: #f0efec ;
     font-size: 15px;
     font-family: 'Sniglet', sans-serif;
     font-weight: 400;
-    text-align: center;
-    padding: 30px;
+    text-align: justify;
+    padding: 70px;
+    
 }
 
 .text-highlight {
@@ -126,7 +128,7 @@ color: #f0efec ;
     display: block;
     align-items: center;
     text-align: center;
-    padding: 1.75em;
+    padding: 1.50em;
 }
 
 ul {
@@ -251,7 +253,7 @@ section:not(:last-child) {
   width: 150vw;
   max-width: 80rem;
   min-height: 20rem;
-  box-shadow: 0 50px 70px -50px rgba(0, 0, 0, 0.45), 0 50px 200px -50px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 50px 70px -50px rgba(0, 0, 0, 0.45), 0 50px 100px -50px rgba(0, 0, 0, 0.5);
   background: #7B9A9B  !important;
   display: flex;
   align-items: flex-start;
@@ -341,7 +343,7 @@ button {
 @media (max-width: 600px) {
   a {
     width: 80px;
-    height: 40px;
+    height: 60px;
   }
 
   button {
@@ -368,4 +370,49 @@ button {
   #language, #card-description {
     font-size: 0.8rem;
   }
+
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+/* Estilo de las secciones */
+.section {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  overflow-y: auto;
+}
+
+/* Personalización de las mitades */
+.left-section {
+  background-color: #f0f8ff; /* Azul claro */
+}
+
+.right-section {
+  background-color: #ffe4e1; /* Rosa claro */
+}
+
+/* Estilo de los títulos */
+h1 {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Estilo de los párrafos */
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #555;
+}
+
+  
+
 }
