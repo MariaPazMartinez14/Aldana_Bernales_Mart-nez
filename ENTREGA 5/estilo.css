@@ -69,6 +69,16 @@ h6{
     text-align: center;
     padding: 30px;
 }
+
+.subtitulo-pequeño{
+color: #f0efec ;
+    font-size: 15px;
+    font-family: 'Sniglet', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 30px;
+}
+
 .text-highlight {
     color: #C0A2D8 ;
     font-size: 25px;
